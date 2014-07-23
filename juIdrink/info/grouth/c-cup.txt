@@ -1,0 +1,192 @@
+<div class="right">
+							<h1><b>CupC - 全台灣分店門市查詢</b></h1>
+							<div class="sort">
+								
+								
+								<a id="CityTotal" href="brandshop-CupC-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>全台灣分店</b></a>
+																
+									<a title="前往CupC台北市分店門市" href="brandshopcity-CupC-%e5%8f%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台北市</b></a>
+																	
+									<a title="前往CupC新北市分店門市" href="brandshopcity-CupC-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新北市</b></a>
+																	
+									<a title="前往CupC桃園縣分店門市" href="brandshopcity-CupC-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>桃園縣</b></a>
+																	
+									<a title="前往CupC苗栗縣分店門市" href="brandshopcity-CupC-%e8%8b%97%e6%a0%97%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>苗栗縣</b></a>
+																	
+									<a title="前往CupC台中市分店門市" href="brandshopcity-CupC-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台中市</b></a>
+																	
+									<a title="前往CupC彰化縣分店門市" href="brandshopcity-CupC-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>彰化縣</b></a>
+																	
+									<a title="前往CupC嘉義市分店門市" href="brandshopcity-CupC-%e5%98%89%e7%be%a9%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>嘉義市</b></a>
+																	
+									<a title="前往CupC台南市分店門市" href="brandshopcity-CupC-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台南市</b></a>
+																	
+									<a title="前往CupC高雄市分店門市" href="brandshopcity-CupC-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>高雄市</b></a>
+																	
+									<a title="前往CupC屏東縣分店門市" href="brandshopcity-CupC-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>屏東縣</b></a>
+								
+								
+							</div>
+							<input type="hidden" name="Sel_City" id="Sel_City">
+							
+							
+									
+									
+									<li><span><a title="前往CupC 台北公館店" href="/brandshop-4400-CupC-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%85%ac%e9%a4%a8%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>台北公館店</b></a></span><span class="tel"><b>02-2364-3497</b></span><span class="add"><b>100台北市中正區羅斯福路四段136巷3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 北市和平東店" href="/brandshop-8259-CupC-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8c%97%e5%b8%82%e5%92%8c%e5%b9%b3%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>北市和平東店</b></a></span><span class="tel"><b>02-2738-0301</b></span><span class="add"><b>106台北市大安區和平東路二段118巷56號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 梅花戲院店" href="/brandshop-8260-CupC-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%a2%85%e8%8a%b1%e6%88%b2%e9%99%a2%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>梅花戲院店</b></a></span><span class="tel"><b>02-2736-1022</b></span><span class="add"><b>106台北市信義區和平東路三段63之1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 台北永吉店" href="/brandshop-4398-CupC-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%b0%b8%e5%90%89%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>台北永吉店</b></a></span><span class="tel"><b>02-2766-4031</b></span><span class="add"><b>110台北市信義區永吉路270號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 內湖民權店" href="/brandshop-4401-CupC-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%85%a7%e6%b9%96%e6%b0%91%e6%ac%8a%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>內湖民權店</b></a></span><span class="tel"><b>02-2791-4996</b></span><span class="add"><b>114台北市內湖區民權東路6段81巷口</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 東湖康樂店" href="/brandshop-4402-CupC-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%9d%b1%e6%b9%96%e5%ba%b7%e6%a8%82%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>東湖康樂店</b></a></span><span class="tel"><b>02-2630-6117</b></span><span class="add"><b>114台北市內湖區康樂街132號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 馬祖福沃店" href="/brandshop-8268-CupC-%e5%8f%b0%e5%8c%97%e5%b8%82-%e9%a6%ac%e7%a5%96%e7%a6%8f%e6%b2%83%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>馬祖福沃店</b></a></span><span class="tel"><b>08-362-2120</b></span><span class="add"><b>連江縣南竿鄉福沃村98號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 板橋中山店" href="/brandshop-8263-CupC-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9d%bf%e6%a9%8b%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>板橋中山店</b></a></span><span class="tel"><b>02-2964-9953</b></span><span class="add"><b>220新北市板橋區中山路二段98號之2</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 中和員山店" href="/brandshop-8261-CupC-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%ad%e5%92%8c%e5%93%a1%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>中和員山店</b></a></span><span class="tel"><b>02-2222-7351</b></span><span class="add"><b>235新北市中和區員山路492號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 捷運南勢角店" href="/brandshop-8262-CupC-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%8d%b7%e9%81%8b%e5%8d%97%e5%8b%a2%e8%a7%92%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>捷運南勢角店</b></a></span><span class="tel"><b>02-8942-2204</b></span><span class="add"><b>235新北市中和區捷運路18號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 五股四維店" href="/brandshop-5242-CupC-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%ba%94%e8%82%a1%e5%9b%9b%e7%b6%ad%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>五股四維店</b></a></span><span class="tel"><b>02-2983-9911</b></span><span class="add"><b>248新北市五股區四維路84號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 中壢中原店" href="/brandshop-8381-CupC-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e4%b8%ad%e5%8e%9f%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>中壢中原店</b></a></span><span class="tel"><b>03-437-3029</b></span><span class="add"><b>320桃園縣中壢市大仁街16號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 桃園大興店" href="/brandshop-4408-CupC-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e5%a4%a7%e8%88%88%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>桃園大興店</b></a></span><span class="tel"><b>03-325-2930</b></span><span class="add"><b>330桃園縣桃園市大興路209號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 桃園楊梅店" href="/brandshop-7574-CupC-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e6%a5%8a%e6%a2%85%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>桃園楊梅店</b></a></span><span class="tel"><b>03-488-1981</b></span><span class="add"><b>桃園縣楊梅市新農街443號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 竹南天文店" href="/brandshop-7554-CupC-%e8%8b%97%e6%a0%97%e7%b8%a3-%e7%ab%b9%e5%8d%97%e5%a4%a9%e6%96%87%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>竹南天文店</b></a></span><span class="tel"><b>037-613-955</b></span><span class="add"><b>350苗栗縣竹南鎮天文路125號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 苗栗中華店" href="/brandshop-4411-CupC-%e8%8b%97%e6%a0%97%e7%b8%a3-%e8%8b%97%e6%a0%97%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>苗栗中華店</b></a></span><span class="tel"><b>03-7269-168</b></span><span class="add"><b>360苗栗縣苗栗市中華路248號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 台中雙十店" href="/brandshop-8265-CupC-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e9%9b%99%e5%8d%81%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>台中雙十店</b></a></span><span class="tel"><b>04-2226-3966</b></span><span class="add"><b>400台中市中區雙十路一段3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 太平十甲店" href="/brandshop-7555-CupC-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%aa%e5%b9%b3%e5%8d%81%e7%94%b2%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>太平十甲店</b></a></span><span class="tel"><b>04-2211-5958</b></span><span class="add"><b>401台中市東區十甲路392號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 鹿港中山店" href="/brandshop-7563-CupC-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%b9%bf%e6%b8%af%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>鹿港中山店</b></a></span><span class="tel"><b>04-7777-767</b></span><span class="add"><b>505彰化縣鹿港鎮中山路464號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 嘉義林森店" href="/brandshop-4416-CupC-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e6%9e%97%e6%a3%ae%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>嘉義林森店</b></a></span><span class="tel"><b>05-277-4081</b></span><span class="add"><b>600嘉義市東區林森東路332號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 台南金華店" href="/brandshop-7564-CupC-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%87%91%e8%8f%af%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>台南金華店</b></a></span><span class="tel"><b>06-222-7600</b></span><span class="add"><b>700台南市中西區金華路四段33號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 善化南科店" href="/brandshop-7566-CupC-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%96%84%e5%8c%96%e5%8d%97%e7%a7%91%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>善化南科店</b></a></span><span class="tel"><b>06-5050-989</b></span><span class="add"><b>741台南市善化區環東路二段20號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 高雄九如店" href="/brandshop-8266-CupC-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e4%b9%9d%e5%a6%82%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>高雄九如店</b></a></span><span class="tel"><b>07-382-7357</b></span><span class="add"><b>807高雄市三民區九如一路879-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 小港金府店" href="/brandshop-7568-CupC-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b0%8f%e6%b8%af%e9%87%91%e5%ba%9c%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>小港金府店</b></a></span><span class="tel"><b>07-806-0692</b></span><span class="add"><b>812高雄市小港區金府路115號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 屏東永大店" href="/brandshop-4417-CupC-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e6%b0%b8%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>屏東永大店</b></a></span><span class="tel"><b>08-751-3005</b></span><span class="add"><b>900屏東縣屏東市永大路205號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往CupC 屏東永大店" href="/brandshop-8267-CupC-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e6%b0%b8%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>CupC</b><br>
+										<b>屏東永大店</b></a></span><span class="tel"><b>08-751-3005</b></span><span class="add"><b>900屏東縣屏東市永大路205號</b><br></span></li>
+								
+								
+									
+								
+						</div>

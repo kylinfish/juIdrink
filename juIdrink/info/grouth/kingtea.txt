@@ -1,0 +1,1550 @@
+<div class="right">
+							<h1><b>清玉 - 全台灣分店門市查詢</b></h1>
+							<div class="sort">
+								
+								
+								<a id="CityTotal" href="brandshop-%e6%b8%85%e7%8e%89-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>全台灣分店</b></a>
+																
+									<a title="前往清玉基隆市分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e5%9f%ba%e9%9a%86%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>基隆市</b></a>
+																	
+									<a title="前往清玉台北市分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台北市</b></a>
+																	
+									<a title="前往清玉新北市分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新北市</b></a>
+																	
+									<a title="前往清玉桃園縣分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>桃園縣</b></a>
+																	
+									<a title="前往清玉新竹市分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新竹市</b></a>
+																	
+									<a title="前往清玉新竹縣分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新竹縣</b></a>
+																	
+									<a title="前往清玉苗栗縣分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e8%8b%97%e6%a0%97%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>苗栗縣</b></a>
+																	
+									<a title="前往清玉台中市分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台中市</b></a>
+																	
+									<a title="前往清玉彰化縣分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>彰化縣</b></a>
+																	
+									<a title="前往清玉雲林縣分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>雲林縣</b></a>
+																	
+									<a title="前往清玉嘉義縣分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e5%98%89%e7%be%a9%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>嘉義縣</b></a>
+																	
+									<a title="前往清玉嘉義市分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e5%98%89%e7%be%a9%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>嘉義市</b></a>
+																	
+									<a title="前往清玉南投縣分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e5%8d%97%e6%8a%95%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>南投縣</b></a>
+																	
+									<a title="前往清玉台南市分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台南市</b></a>
+																	
+									<a title="前往清玉高雄市分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>高雄市</b></a>
+																	
+									<a title="前往清玉屏東縣分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>屏東縣</b></a>
+																	
+									<a title="前往清玉宜蘭縣分店門市" href="brandshopcity-%e6%b8%85%e7%8e%89-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>宜蘭縣</b></a>
+								
+								
+							</div>
+							<input type="hidden" name="Sel_City" id="Sel_City">
+							
+							
+									
+									
+									<li><span><a title="前往清玉 基隆廟口店" href="/brandshop-5867-%e6%b8%85%e7%8e%89-%e5%9f%ba%e9%9a%86%e5%b8%82-%e5%9f%ba%e9%9a%86%e5%bb%9f%e5%8f%a3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>基隆廟口店</b></a></span><span class="tel"><b>02-2421-6262</b></span><span class="add"><b>200基隆市仁愛區愛三路28號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北杭州店" href="/brandshop-7262-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%9d%ad%e5%b7%9e%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北杭州店</b></a></span><span class="tel"><b>02-23213770</b></span><span class="add"><b>100台北市中正區杭州南路一段14-7號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北寧夏店" href="/brandshop-7462-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%af%a7%e5%a4%8f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北寧夏店</b></a></span><span class="tel"><b>02-2557-8599</b></span><span class="add"><b>103台北市大同區民生西路149號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北大橋頭店" href="/brandshop-7463-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%a4%a7%e6%a9%8b%e9%a0%ad%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北大橋頭店</b></a></span><span class="tel"><b>02-25987727</b></span><span class="add"><b>103台北市大同區延平北路三段3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北承德店" href="/brandshop-5247-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%89%bf%e5%be%b7%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北承德店</b></a></span><span class="tel"><b>02-2556-7655</b></span><span class="add"><b>103台北市大同區承德路一段30號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北重慶北店" href="/brandshop-7320-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e9%87%8d%e6%85%b6%e5%8c%97%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北重慶北店</b></a></span><span class="tel"><b>02-2595-3060</b></span><span class="add"><b>103台北市大同區重慶北路三段245號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北大直店" href="/brandshop-4374-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%a4%a7%e7%9b%b4%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北大直店</b></a></span><span class="tel"><b>02-8509-2279</b></span><span class="add"><b>104台北市中山區北安路532-4號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北伊通店" href="/brandshop-7148-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e4%bc%8a%e9%80%9a%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北伊通店</b></a></span><span class="tel"><b>02-2503-6908</b></span><span class="add"><b>104台北市中山區伊通街68-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北林森店" href="/brandshop-7300-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%9e%97%e6%a3%ae%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北林森店</b></a></span><span class="tel"><b>02-25638882</b></span><span class="add"><b>104台北市中山區林森北路261-5號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北遼寧店" href="/brandshop-5900-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e9%81%bc%e5%af%a7%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北遼寧店</b></a></span><span class="tel"><b>02-2775-2020</b></span><span class="add"><b>104台北市中山區遼寧街38號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北龍江店" href="/brandshop-6791-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e9%be%8d%e6%b1%9f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北龍江店</b></a></span><span class="tel"><b>02-2509-1003</b></span><span class="add"><b>104台北市中山區龍江路279號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北雙城店" href="/brandshop-4743-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e9%9b%99%e5%9f%8e%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北雙城店</b></a></span><span class="tel"><b>02-25993841</b></span><span class="add"><b>104台北市中山區雙城街15號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北八德店" href="/brandshop-3632-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%85%ab%e5%be%b7%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北八德店</b></a></span><span class="tel"><b>02-2761-9598</b></span><span class="add"><b>105台北市松山區八德路四段74號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北民生店" href="/brandshop-6832-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%b0%91%e7%94%9f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北民生店</b></a></span><span class="tel"><b>02-2545-1588</b></span><span class="add"><b>105台北市松山區民生東路四段99號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北新東店" href="/brandshop-7465-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%96%b0%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北新東店</b></a></span><span class="tel"><b>02-2746-5888</b></span><span class="add"><b>105台北市松山區新東街8號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 大安通化店" href="/brandshop-4671-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%a4%a7%e5%ae%89%e9%80%9a%e5%8c%96%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>大安通化店</b></a></span><span class="tel"><b>02-2707-9006</b></span><span class="add"><b>106 台北市大安區通化街14號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北大安店" href="/brandshop-5248-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%a4%a7%e5%ae%89%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北大安店</b></a></span><span class="tel"><b>02-2705-6688</b></span><span class="add"><b>106台北市大安區大安路一段223號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北和平東店" href="/brandshop-7464-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%92%8c%e5%b9%b3%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北和平東店</b></a></span><span class="tel"><b>02-27371787</b></span><span class="add"><b>106台北市大安區和平東路三段70號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北延吉店" href="/brandshop-5250-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%bb%b6%e5%90%89%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北延吉店</b></a></span><span class="tel"><b>02-2778-1155</b></span><span class="add"><b>106台北市大安區延吉路116號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北復南店" href="/brandshop-5899-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%be%a9%e5%8d%97%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北復南店</b></a></span><span class="tel"><b>02-2708-9923</b></span><span class="add"><b>106台北市大安區復興南路二段142號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北公館店" href="/brandshop-5249-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%85%ac%e9%a4%a8%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北公館店</b></a></span><span class="tel"><b>02-2364-1599</b></span><span class="add"><b>106台北市大安區羅斯福路三段316巷2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北成都店" href="/brandshop-6839-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%88%90%e9%83%bd%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北成都店</b></a></span><span class="tel"><b>02-23895528</b></span><span class="add"><b>108台北市萬華區成都路90號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北五分埔店" href="/brandshop-5898-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e4%ba%94%e5%88%86%e5%9f%94%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北五分埔店</b></a></span><span class="tel"><b>02-2768-3939</b></span><span class="add"><b>110台北市松山區松隆路329巷2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北永春店" href="/brandshop-4801-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%b0%b8%e6%98%a5%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北永春店</b></a></span><span class="tel"><b>02-27685988</b></span><span class="add"><b>110台北市信義區忠孝東路五段431-1號 </b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北信義店" href="/brandshop-6656-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e4%bf%a1%e7%be%a9%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北信義店</b></a></span><span class="tel"><b>02-27272020</b></span><span class="add"><b>110台北市信義區信義路六段103號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北莊敬店" href="/brandshop-6833-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e8%8e%8a%e6%95%ac%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北莊敬店</b></a></span><span class="tel"><b>02-2758-2963</b></span><span class="add"><b>110台北市信義區莊敬路476號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北天母店" href="/brandshop-7191-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%a4%a9%e6%af%8d%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北天母店</b></a></span><span class="tel"><b>02-2871-3456</b></span><span class="add"><b>111台北市士林區中山北路六段820號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 北投中央店" href="/brandshop-7280-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8c%97%e6%8a%95%e4%b8%ad%e5%a4%ae%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>北投中央店</b></a></span><span class="tel"><b>02-2892-1259</b></span><span class="add"><b>112台北市北投區中央南路一段100號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北石牌店" href="/brandshop-7265-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e7%9f%b3%e7%89%8c%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北石牌店</b></a></span><span class="tel"><b>02-28226258</b></span><span class="add"><b>112台北市北投區石牌路二段37號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北內湖店" href="/brandshop-1168-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%85%a7%e6%b9%96%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北內湖店</b></a></span><span class="tel"><b>02-2627-1359</b></span><span class="add"><b>114台北市內湖區內湖路一段435號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 內湖來來店" href="/brandshop-5897-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%85%a7%e6%b9%96%e4%be%86%e4%be%86%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>內湖來來店</b></a></span><span class="tel"><b>02-2659-1988</b></span><span class="add"><b>114台北市內湖區內湖路一段91巷5號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北南港店" href="/brandshop-5896-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%8d%97%e6%b8%af%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北南港店</b></a></span><span class="tel"><b>02-2789-0288</b></span><span class="add"><b>115台北市南港區南港路一段118號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北政大店" href="/brandshop-6835-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%94%bf%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北政大店</b></a></span><span class="tel"><b>02-2234-6646</b></span><span class="add"><b>116台北市文山區指南路二段36號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 景美景文店" href="/brandshop-6800-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%99%af%e7%be%8e%e6%99%af%e6%96%87%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>景美景文店</b></a></span><span class="tel"><b>02-8931-3370</b></span><span class="add"><b>116台北市文山區景文街41號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北萬隆店" href="/brandshop-7466-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e8%90%ac%e9%9a%86%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北萬隆店</b></a></span><span class="tel"><b>02-2935-9330</b></span><span class="add"><b>116台北市文山區羅斯福路五段190-3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 板橋中山店" href="/brandshop-7459-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9d%bf%e6%a9%8b%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>板橋中山店</b></a></span><span class="tel"><b>02-2952-0000</b></span><span class="add"><b>220新北市板橋區中山路二段248號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 板橋文化店" href="/brandshop-6838-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9d%bf%e6%a9%8b%e6%96%87%e5%8c%96%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>板橋文化店</b></a></span><span class="tel"><b>02-2258-5520</b></span><span class="add"><b>220新北市板橋區文化路一段241號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 板橋亞東店" href="/brandshop-7282-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9d%bf%e6%a9%8b%e4%ba%9e%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>板橋亞東店</b></a></span><span class="tel"><b>02-8966-2268</b></span><span class="add"><b>220新北市板橋區四川路二段35號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 板橋四維店" href="/brandshop-6811-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9d%bf%e6%a9%8b%e5%9b%9b%e7%b6%ad%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>板橋四維店</b></a></span><span class="tel"><b>02-22580355</b></span><span class="add"><b>220新北市板橋區四維路300號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 板橋南雅店" href="/brandshop-6796-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9d%bf%e6%a9%8b%e5%8d%97%e9%9b%85%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>板橋南雅店</b></a></span><span class="tel"><b>02-2272-9319</b></span><span class="add"><b>220新北市板橋區南雅南路一段71號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 汐止中興店" href="/brandshop-7152-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%b1%90%e6%ad%a2%e4%b8%ad%e8%88%88%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>汐止中興店</b></a></span><span class="tel"><b>02-2695-3800</b></span><span class="add"><b>221新北市汐止區中興路151號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 汐止忠孝店" href="/brandshop-7153-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%b1%90%e6%ad%a2%e5%bf%a0%e5%ad%9d%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>汐止忠孝店</b></a></span><span class="tel"><b>02-2641-1119</b></span><span class="add"><b>221新北市汐止區忠孝東路273號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台北深坑店" href="/brandshop-7460-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%b7%b1%e5%9d%91%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台北深坑店</b></a></span><span class="tel"><b>02-2662-2525</b></span><span class="add"><b>222新北市深坑區北深路三段</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新店中正店" href="/brandshop-5092-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e5%ba%97%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新店中正店</b></a></span><span class="tel"><b>02-2918-5555</b></span><span class="add"><b>231新北市新店區中正路277號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新店民權店" href="/brandshop-5929-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e5%ba%97%e6%b0%91%e6%ac%8a%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新店民權店</b></a></span><span class="tel"><b>02-2912-1680</b></span><span class="add"><b>231新北市新店區民權路44-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新店安康店" href="/brandshop-6644-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e5%ba%97%e5%ae%89%e5%ba%b7%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新店安康店</b></a></span><span class="tel"><b>02-2212-7667</b></span><span class="add"><b>231新北市新店區安康路2段153號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新店碧潭店" href="/brandshop-7330-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e5%ba%97%e7%a2%a7%e6%bd%ad%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新店碧潭店</b></a></span><span class="tel"><b>02-8911-0230</b></span><span class="add"><b>231新北市新店區新店路211-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 永和中正店" href="/brandshop-3739-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%b0%b8%e5%92%8c%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>永和中正店</b></a></span><span class="tel"><b>02-8921-3437</b></span><span class="add"><b>234新北市永和區中正路499號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 永和智光店" href="/brandshop-7195-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%b0%b8%e5%92%8c%e6%99%ba%e5%85%89%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>永和智光店</b></a></span><span class="tel"><b>02-8943-4088</b></span><span class="add"><b>234新北市永和區中正路87號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 中和中山店" href="/brandshop-7154-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%ad%e5%92%8c%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>中和中山店</b></a></span><span class="tel"><b>02-2248-5586</b></span><span class="add"><b>235新北市中和區中山路二段226號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 中和連城店" href="/brandshop-4744-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%ad%e5%92%8c%e9%80%a3%e5%9f%8e%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>中和連城店</b></a></span><span class="tel"><b>02-2226-6869</b></span><span class="add"><b>235新北市中和區連城路403號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 中和景安店" href="/brandshop-7074-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%ad%e5%92%8c%e6%99%af%e5%ae%89%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>中和景安店</b></a></span><span class="tel"><b>02-8942-3996</b></span><span class="add"><b>235新北市中和區景安路175-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 中和景新店" href="/brandshop-6787-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%ad%e5%92%8c%e6%99%af%e6%96%b0%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>中和景新店</b></a></span><span class="tel"><b>02-2940-4690</b></span><span class="add"><b>235新北市中和區景新街408號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 中和新生店" href="/brandshop-7461-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%ad%e5%92%8c%e6%96%b0%e7%94%9f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>中和新生店</b></a></span><span class="tel"><b>02-22252151</b></span><span class="add"><b>235新北市中和區新生街150號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 土城裕民店" href="/brandshop-7458-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%9c%9f%e5%9f%8e%e8%a3%95%e6%b0%91%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>土城裕民店</b></a></span><span class="tel"><b>02-2266-1010</b></span><span class="add"><b>236新北市土城區裕民路45號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 樹林中山店" href="/brandshop-4745-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%a8%b9%e6%9e%97%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>樹林中山店</b></a></span><span class="tel"><b>02-2687-0044</b></span><span class="add"><b>238新北市樹林區中山路一段44號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 樹林中華店" href="/brandshop-7334-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%a8%b9%e6%9e%97%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>樹林中華店</b></a></span><span class="tel"><b>02-8685-3331</b></span><span class="add"><b>238新北市樹林區中華路82號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 三峽和平店" href="/brandshop-7457-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%89%e5%b3%bd%e5%92%8c%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>三峽和平店</b></a></span><span class="tel"><b>02-2674-0204</b></span><span class="add"><b>239?新北市三峽區和平街3?4號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 鶯歌建國店" href="/brandshop-7605-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%b6%af%e6%ad%8c%e5%bb%ba%e5%9c%8b%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>鶯歌建國店</b></a></span><span class="tel"><b>02-2679-8822</b></span><span class="add"><b>239新北市鶯歌區建國路248號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 三重五華店" href="/brandshop-7317-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%89%e9%87%8d%e4%ba%94%e8%8f%af%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>三重五華店</b></a></span><span class="tel"><b>02-8988-1127</b></span><span class="add"><b>241新北市三重區五華街96號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 三重正義北店" href="/brandshop-6789-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%89%e9%87%8d%e6%ad%a3%e7%be%a9%e5%8c%97%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>三重正義北店</b></a></span><span class="tel"><b>02-2984-2757</b></span><span class="add"><b>241新北市三重區正義北路310號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 三重重新店" href="/brandshop-6615-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%89%e9%87%8d%e9%87%8d%e6%96%b0%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>三重重新店</b></a></span><span class="tel"><b>02-2977-5358</b></span><span class="add"><b>241新北市三重區重新路2段146號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新莊中平店" href="/brandshop-5902-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e8%8e%8a%e4%b8%ad%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新莊中平店</b></a></span><span class="tel"><b>02-8992-9659</b></span><span class="add"><b>242新北市新莊區中平路111號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新莊輔大店" href="/brandshop-6801-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e8%8e%8a%e8%bc%94%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新莊輔大店</b></a></span><span class="tel"><b>02-2906-6999</b></span><span class="add"><b>242新北市新莊區中正路516-31號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新莊五工店" href="/brandshop-5251-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e8%8e%8a%e4%ba%94%e5%b7%a5%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新莊五工店</b></a></span><span class="tel"><b>02-2299-6299</b></span><span class="add"><b>242新北市新莊區五權一路52號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新莊幸福店" href="/brandshop-6646-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e8%8e%8a%e5%b9%b8%e7%a6%8f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新莊幸福店</b></a></span><span class="tel"><b>02-2277-2699</b></span><span class="add"><b>242新北市新莊區幸福路34號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新莊富國店" href="/brandshop-7497-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e8%8e%8a%e5%af%8c%e5%9c%8b%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新莊富國店</b></a></span><span class="tel"><b>02-22066337</b></span><span class="add"><b>242新北市新莊區富國路125號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新莊新泰店" href="/brandshop-7196-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e8%8e%8a%e6%96%b0%e6%b3%b0%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新莊新泰店</b></a></span><span class="tel"><b>02-2206-0128</b></span><span class="add"><b>242新北市新莊區新泰路49號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 泰山明志店" href="/brandshop-5901-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%b3%b0%e5%b1%b1%e6%98%8e%e5%bf%97%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>泰山明志店</b></a></span><span class="tel"><b>02-2906-3888</b></span><span class="add"><b>243新北市泰山區明志路3段161號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 林口中山店" href="/brandshop-7217-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9e%97%e5%8f%a3%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>林口中山店</b></a></span><span class="tel"><b>02-2603-5655</b></span><span class="add"><b>244新北市林口區中山路3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 蘆洲民族店" href="/brandshop-7155-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e8%98%86%e6%b4%b2%e6%b0%91%e6%97%8f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>蘆洲民族店</b></a></span><span class="tel"><b>02-2283-7755</b></span><span class="add"><b>247新北市蘆洲區民族路119號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 蘆洲光華店" href="/brandshop-5267-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e8%98%86%e6%b4%b2%e5%85%89%e8%8f%af%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>蘆洲光華店</b></a></span><span class="tel"><b>02-82863838</b></span><span class="add"><b>247新北市蘆洲區光華路164號 </b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新北八里店" href="/brandshop-7741-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e5%8c%97%e5%85%ab%e9%87%8c%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新北八里店</b></a></span><span class="tel"><b>02-2619-4023</b></span><span class="add"><b>249新北市八里區中山路二段468號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 淡水竹圍店" href="/brandshop-7279-%e6%b8%85%e7%8e%89-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%b7%a1%e6%b0%b4%e7%ab%b9%e5%9c%8d%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>淡水竹圍店</b></a></span><span class="tel"><b>02-28093800</b></span><span class="add"><b>251新北市淡水區竹圍里民權路155號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 中壢中山東店" href="/brandshop-8308-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e4%b8%ad%e5%b1%b1%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>中壢中山東店</b></a></span><span class="tel"><b>03-466-1299</b></span><span class="add"><b>320桃園縣中壢市中山東路二段50號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 中壢建國店" href="/brandshop-7470-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e5%bb%ba%e5%9c%8b%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>中壢建國店</b></a></span><span class="tel"><b>03-422-5860</b></span><span class="add"><b>320桃園縣中壢市中山路118號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 中壢民族店" href="/brandshop-5903-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e6%b0%91%e6%97%8f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>中壢民族店</b></a></span><span class="tel"><b>03-493-3551</b></span><span class="add"><b>320桃園縣中壢市民族路二段130號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 內壢長春店" href="/brandshop-7264-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%85%a7%e5%a3%a2%e9%95%b7%e6%98%a5%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>內壢長春店</b></a></span><span class="tel"><b>03-4536178</b></span><span class="add"><b>320桃園縣中壢市長春路57號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 中壢新中北店" href="/brandshop-6627-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e6%96%b0%e4%b8%ad%e5%8c%97%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>中壢新中北店</b></a></span><span class="tel"><b>03-4657171</b></span><span class="add"><b>320桃園縣中壢市新中北路227號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 中壢新生店" href="/brandshop-7158-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e6%96%b0%e7%94%9f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>中壢新生店</b></a></span><span class="tel"><b>03-426-6188</b></span><span class="add"><b>320桃園縣中壢市新生路150號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 內壢興仁店" href="/brandshop-7471-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%85%a7%e5%a3%a2%e8%88%88%e4%bb%81%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>內壢興仁店</b></a></span><span class="tel"><b>03-4332233</b></span><span class="add"><b>320桃園縣中壢市興仁路二段</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 平鎮龍岡店" href="/brandshop-7326-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%b9%b3%e9%8e%ae%e9%be%8d%e5%b2%a1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>平鎮龍岡店</b></a></span><span class="tel"><b>03-438-7979</b></span><span class="add"><b>320桃園縣中壢市龍東路218號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 龍潭東龍店" href="/brandshop-5906-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%be%8d%e6%bd%ad%e6%9d%b1%e9%be%8d%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>龍潭東龍店</b></a></span><span class="tel"><b>03-470-0536</b></span><span class="add"><b>325桃園縣龍潭鄉東龍路242號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 楊梅大成店" href="/brandshop-5904-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a5%8a%e6%a2%85%e5%a4%a7%e6%88%90%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>楊梅大成店</b></a></span><span class="tel"><b>03-488-3296</b></span><span class="add"><b>326桃園縣楊梅市大成路232號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 桃園大有店" href="/brandshop-5905-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e5%a4%a7%e6%9c%89%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>桃園大有店</b></a></span><span class="tel"><b>03-326-6586</b></span><span class="add"><b>330桃園縣桃園市大有路493號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 桃園中正店" href="/brandshop-3629-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>桃園中正店</b></a></span><span class="tel"><b>03-358-2053</b></span><span class="add"><b>330桃園縣桃園市中正路710-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 桃園南平店" href="/brandshop-7328-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e5%8d%97%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>桃園南平店</b></a></span><span class="tel"><b>03-325-8429</b></span><span class="add"><b>330桃園縣桃園市南平路264號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 桃園桃鶯店" href="/brandshop-5266-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e6%a1%83%e9%b6%af%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>桃園桃鶯店</b></a></span><span class="tel"><b>03-3674958</b></span><span class="add"><b>330桃園縣桃園市桃鶯路176號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 桃園復興店" href="/brandshop-4656-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e5%be%a9%e8%88%88%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>桃園復興店</b></a></span><span class="tel"><b>03-3317067</b></span><span class="add"><b>330桃園縣桃園市復興路365號之8</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 龜山后街店" href="/brandshop-6624-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%be%9c%e5%b1%b1%e5%90%8e%e8%a1%97%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>龜山后街店</b></a></span><span class="tel"><b>03-3509488</b></span><span class="add"><b>333桃園縣龜山鄉中興路一段37號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 林口復興店" href="/brandshop-4746-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%9e%97%e5%8f%a3%e5%be%a9%e8%88%88%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>林口復興店</b></a></span><span class="tel"><b>03-397-0299</b></span><span class="add"><b>333桃園縣龜山鄉復興一路218號之一</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 八德桃鶯店" href="/brandshop-6628-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%85%ab%e5%be%b7%e6%a1%83%e9%b6%af%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>八德桃鶯店</b></a></span><span class="tel"><b>03-367-1756</b></span><span class="add"><b>334桃園縣八德市桃鶯路9號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 八德大湳店" href="/brandshop-6790-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%85%ab%e5%be%b7%e5%a4%a7%e6%b9%b3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>八德大湳店</b></a></span><span class="tel"><b>03-367-0962</b></span><span class="add"><b>334桃園縣八德市廣福路152號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 八德興豐店" href="/brandshop-7190-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%85%ab%e5%be%b7%e8%88%88%e8%b1%90%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>八德興豐店</b></a></span><span class="tel"><b>03-368-8882</b></span><span class="add"><b>334桃園縣八德市興豐路739號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 桃園大溪店" href="/brandshop-7469-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e5%a4%a7%e6%ba%aa%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>桃園大溪店</b></a></span><span class="tel"><b>03-388-0755</b></span><span class="add"><b>335桃園縣大溪鎮慈湖路100號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 大園中山店" href="/brandshop-7318-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%a4%a7%e5%9c%92%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>大園中山店</b></a></span><span class="tel"><b>03-385-8558</b></span><span class="add"><b>337桃園縣大園鄉中山北路28號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 桃園大竹店" href="/brandshop-7327-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e5%a4%a7%e7%ab%b9%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>桃園大竹店</b></a></span><span class="tel"><b>03--323-5990</b></span><span class="add"><b>338桃園縣蘆竹鄉大竹路478號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 桃園南崁店" href="/brandshop-4748-%e6%b8%85%e7%8e%89-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e5%8d%97%e5%b4%81%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>桃園南崁店</b></a></span><span class="tel"><b>03-222-7063</b></span><span class="add"><b>338桃園縣蘆竹鄉南崁路133號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新竹民族店" href="/brandshop-5907-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e6%b0%91%e6%97%8f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新竹民族店</b></a></span><span class="tel"><b>03-522-0720</b></span><span class="add"><b>300新竹市東區民族路33-15號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新竹光復店" href="/brandshop-5245-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e5%85%89%e5%be%a9%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新竹光復店</b></a></span><span class="tel"><b>03-5795649</b></span><span class="add"><b>300新竹市東區光復路201號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新竹西大店" href="/brandshop-4859-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e8%a5%bf%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新竹西大店</b></a></span><span class="tel"><b>03-525-5105</b></span><span class="add"><b>300新竹市東區西大路379號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新竹南大店" href="/brandshop-5073-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e5%8d%97%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新竹南大店</b></a></span><span class="tel"><b>03-5611369</b></span><span class="add"><b>300新竹市東區南大路499號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新竹科園店" href="/brandshop-1158-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e7%a7%91%e5%9c%92%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新竹科園店</b></a></span><span class="tel"><b>03-579-8258</b></span><span class="add"><b>300新竹市東區科學園路5號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新竹食品店" href="/brandshop-6625-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e9%a3%9f%e5%93%81%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新竹食品店</b></a></span><span class="tel"><b>03-5730938</b></span><span class="add"><b>300新竹市東區食品路175號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新竹大庄店" href="/brandshop-7156-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e5%a4%a7%e5%ba%84%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新竹大庄店</b></a></span><span class="tel"><b>03-5402708</b></span><span class="add"><b>300新竹市香山區大庄路22號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新竹牛埔店" href="/brandshop-7197-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e7%89%9b%e5%9f%94%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新竹牛埔店</b></a></span><span class="tel"><b>03-540-2337</b></span><span class="add"><b>300新竹市香山區牛埔路166號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 竹北中正西店" href="/brandshop-6836-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e7%ab%b9%e5%8c%97%e4%b8%ad%e6%ad%a3%e8%a5%bf%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>竹北中正西店</b></a></span><span class="tel"><b>03-656-6177</b></span><span class="add"><b>302新竹縣竹北市中正西路113號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 竹北文興店" href="/brandshop-7199-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e7%ab%b9%e5%8c%97%e6%96%87%e8%88%88%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>竹北文興店</b></a></span><span class="tel"><b>03-657-7052</b></span><span class="add"><b>302新竹縣竹北市文興路一段102號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 竹北博愛店" href="/brandshop-5252-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e7%ab%b9%e5%8c%97%e5%8d%9a%e6%84%9b%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>竹北博愛店</b></a></span><span class="tel"><b>03-555-7700</b></span><span class="add"><b>302新竹縣竹北市博愛路341號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 竹北縣政店" href="/brandshop-5928-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e7%ab%b9%e5%8c%97%e7%b8%a3%e6%94%bf%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>竹北縣政店</b></a></span><span class="tel"><b>03-555-1131</b></span><span class="add"><b>302新竹縣竹北市縣政九路175號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 竹東長春店" href="/brandshop-7192-%e6%b8%85%e7%8e%89-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e7%ab%b9%e6%9d%b1%e9%95%b7%e6%98%a5%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>竹東長春店</b></a></span><span class="tel"><b>03-510-1419</b></span><span class="add"><b>310新竹縣竹東鎮商華街61號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 竹南光復店" href="/brandshop-4661-%e6%b8%85%e7%8e%89-%e8%8b%97%e6%a0%97%e7%b8%a3-%e7%ab%b9%e5%8d%97%e5%85%89%e5%be%a9%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>竹南光復店</b></a></span><span class="tel"><b>037-472077</b></span><span class="add"><b>350苗栗縣竹南鎮光復路139號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 頭份中華店" href="/brandshop-7333-%e6%b8%85%e7%8e%89-%e8%8b%97%e6%a0%97%e7%b8%a3-%e9%a0%ad%e4%bb%bd%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>頭份中華店</b></a></span><span class="tel"><b>037-590-199</b></span><span class="add"><b>351苗栗縣頭份鎮中華路1023號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 頭份建國店" href="/brandshop-5253-%e6%b8%85%e7%8e%89-%e8%8b%97%e6%a0%97%e7%b8%a3-%e9%a0%ad%e4%bb%bd%e5%bb%ba%e5%9c%8b%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>頭份建國店</b></a></span><span class="tel"><b>037-664088</b></span><span class="add"><b>351苗栗縣頭份鎮建國路65號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 苗栗苑裡店" href="/brandshop-4749-%e6%b8%85%e7%8e%89-%e8%8b%97%e6%a0%97%e7%b8%a3-%e8%8b%97%e6%a0%97%e8%8b%91%e8%a3%a1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>苗栗苑裡店</b></a></span><span class="tel"><b>037-861616</b></span><span class="add"><b>358苗栗縣苑裡鎮和平路210號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 苗栗南苗店" href="/brandshop-7160-%e6%b8%85%e7%8e%89-%e8%8b%97%e6%a0%97%e7%b8%a3-%e8%8b%97%e6%a0%97%e5%8d%97%e8%8b%97%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>苗栗南苗店</b></a></span><span class="tel"><b>037-366969</b></span><span class="add"><b>360苗栗縣苗栗市中正路923號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中中正店" href="/brandshop-5914-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中中正店</b></a></span><span class="tel"><b>04-2223-5521</b></span><span class="add"><b>400台中市中區中正路23號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中大智店" href="/brandshop-7474-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%a4%a7%e6%99%ba%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中大智店</b></a></span><span class="tel"><b>04-2221-1868</b></span><span class="add"><b>401台中市東區大智路5號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中大慶店" href="/brandshop-4497-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%a4%a7%e6%85%b6%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中大慶店</b></a></span><span class="tel"><b>04-22607979</b></span><span class="add"><b>402台中市南區大慶街2段11-10號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中忠孝店" href="/brandshop-3746-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%bf%a0%e5%ad%9d%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中忠孝店</b></a></span><span class="tel"><b>04-2285-7123</b></span><span class="add"><b>402台中市南區忠孝路128號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中美村南店" href="/brandshop-8215-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e7%be%8e%e6%9d%91%e5%8d%97%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中美村南店</b></a></span><span class="tel"><b>04-2260-0389</b></span><span class="add"><b>402台中市南區美村南路128號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中民生店" href="/brandshop-7299-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%b0%91%e7%94%9f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中民生店</b></a></span><span class="tel"><b>04-2225-2576</b></span><span class="add"><b>403台中市西區民生路153-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中南屯店" href="/brandshop-4759-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%8d%97%e5%b1%af%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中南屯店</b></a></span><span class="tel"><b>04-23759259</b></span><span class="add"><b>403台中市西區南屯路一段42號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中勤美店" href="/brandshop-2255-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%8b%a4%e7%be%8e%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中勤美店</b></a></span><span class="tel"><b>04-2326-1228</b></span><span class="add"><b>403台中市西區美村路一段163號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新台中美村店" href="/brandshop-7556-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e6%96%b0%e5%8f%b0%e4%b8%ad%e7%be%8e%e6%9d%91%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新台中美村店</b></a></span><span class="tel"><b>04-2378-1788</b></span><span class="add"><b>403台中市西區美村路一段574號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中新民店" href="/brandshop-1166-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%96%b0%e6%b0%91%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中新民店</b></a></span><span class="tel"><b>04-2230-0088</b></span><span class="add"><b>404台中市北區三民路三段251號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中北平店" href="/brandshop-2261-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%8c%97%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中北平店</b></a></span><span class="tel"><b>04-2293-8666</b></span><span class="add"><b>404台中市北區北平路二段95號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中漢口店" href="/brandshop-2267-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%bc%a2%e5%8f%a3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中漢口店</b></a></span><span class="tel"><b>04-2235-5858</b></span><span class="add"><b>404台中市北區漢口路四段369-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中健行店" href="/brandshop-4758-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%81%a5%e8%a1%8c%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中健行店</b></a></span><span class="tel"><b>04-22077889</b></span><span class="add"><b>404台中市西區健行路599號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中水湳店" href="/brandshop-2269-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%b0%b4%e6%b9%b3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中水湳店</b></a></span><span class="tel"><b>04-2298-3838</b></span><span class="add"><b>406台中市北屯區中清路71號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中昌平店" href="/brandshop-2263-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%98%8c%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中昌平店</b></a></span><span class="tel"><b>04-2242-7789</b></span><span class="add"><b>406台中市北屯區昌平路一段284號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中東山店" href="/brandshop-4750-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%9d%b1%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中東山店</b></a></span><span class="tel"><b>04-24390568</b></span><span class="add"><b>406台中市北屯區東山路1段289之7號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中世貿店" href="/brandshop-2254-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e4%b8%96%e8%b2%bf%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中世貿店</b></a></span><span class="tel"><b>04-2355-2388</b></span><span class="add"><b>407台中市西屯區中工三路71-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中中科店" href="/brandshop-2259-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e4%b8%ad%e7%a7%91%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中中科店</b></a></span><span class="tel"><b>04-2463-8188</b></span><span class="add"><b>407台中市西屯區西屯路三段150-56號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中西屯店" href="/brandshop-4354-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e8%a5%bf%e5%b1%af%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中西屯店</b></a></span><span class="tel"><b>04-2708-1010</b></span><span class="add"><b>407台中市西屯區西屯路三段34-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中福星2店" href="/brandshop-4132-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e7%a6%8f%e6%98%9f2%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中福星2店</b></a></span><span class="tel"><b>04-24515158</b></span><span class="add"><b>407台中市西屯區福星路332-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中福星1店" href="/brandshop-7557-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e7%a6%8f%e6%98%9f1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中福星1店</b></a></span><span class="tel"><b>04-2452-6425</b></span><span class="add"><b>407台中市西屯區福星路649號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中福科店" href="/brandshop-1853-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e7%a6%8f%e7%a7%91%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中福科店</b></a></span><span class="tel"><b>04-2465-5577</b></span><span class="add"><b>407台中市西屯區福科路940號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中朝馬店" href="/brandshop-2251-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%9c%9d%e9%a6%ac%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中朝馬店</b></a></span><span class="tel"><b>04-2259-1008</b></span><span class="add"><b>407台中市西屯區黎明路二段903號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中青海店" href="/brandshop-2260-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e9%9d%92%e6%b5%b7%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中青海店</b></a></span><span class="tel"><b>04-2314-5799</b></span><span class="add"><b>407台中西屯區漢口路二段2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中大墩店" href="/brandshop-2250-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%a4%a7%e5%a2%a9%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中大墩店</b></a></span><span class="tel"><b>04-2320-6779</b></span><span class="add"><b>408台中市南屯區大墩十一街288號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中嶺東店" href="/brandshop-5927-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%b6%ba%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中嶺東店</b></a></span><span class="tel"><b>04-2380-5223</b></span><span class="add"><b>408台中市南屯區永春南路80號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中向心南店" href="/brandshop-4737-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%90%91%e5%bf%83%e5%8d%97%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中向心南店</b></a></span><span class="tel"><b>04-24735220</b></span><span class="add"><b>408台中市南屯區向心南路986號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中黎南店" href="/brandshop-1180-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e9%bb%8e%e5%8d%97%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中黎南店</b></a></span><span class="tel"><b>04-2382-1771</b></span><span class="add"><b>408台中市南屯區黎明路一段1129號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中黎明店" href="/brandshop-2252-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e9%bb%8e%e6%98%8e%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中黎明店</b></a></span><span class="tel"><b>04-2252-1178</b></span><span class="add"><b>408台中市南屯區黎明路二段342號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 太平新高店" href="/brandshop-5868-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%aa%e5%b9%b3%e6%96%b0%e9%ab%98%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>太平新高店</b></a></span><span class="tel"><b>04-23921919</b></span><span class="add"><b>411台中市太平區中山路4段51號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中勤益店" href="/brandshop-4754-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%8b%a4%e7%9b%8a%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中勤益店</b></a></span><span class="tel"><b>04-23938662</b></span><span class="add"><b>411台中市太平區中山路一段247號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 太平中山店" href="/brandshop-4753-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%aa%e5%b9%b3%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>太平中山店</b></a></span><span class="tel"><b>04-2395-8822</b></span><span class="add"><b>411台中市太平區中山路四段184號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中太平店" href="/brandshop-2271-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%a4%aa%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中太平店</b></a></span><span class="tel"><b>04-2275-1818</b></span><span class="add"><b>411台中市太平區太平路563號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 大里修平店" href="/brandshop-1174-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e9%87%8c%e4%bf%ae%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>大里修平店</b></a></span><span class="tel"><b>04-2491-0992</b></span><span class="add"><b>412 台中市大里區工業路6號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 大里大明店" href="/brandshop-2272-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e9%87%8c%e5%a4%a7%e6%98%8e%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>大里大明店</b></a></span><span class="tel"><b>04-2482-2110</b></span><span class="add"><b>412台中市大里區大明路301號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 大里中興店" href="/brandshop-4752-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e9%87%8c%e4%b8%ad%e8%88%88%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>大里中興店</b></a></span><span class="tel"><b>04-24864468</b></span><span class="add"><b>412台中市大里區中興路2段165號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 大里塗城店" href="/brandshop-7558-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e9%87%8c%e5%a1%97%e5%9f%8e%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>大里塗城店</b></a></span><span class="tel"><b>04-2492-0963</b></span><span class="add"><b>412台中市大里區中興路一段330號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 霧峰中正店" href="/brandshop-4757-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%9c%a7%e5%b3%b0%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>霧峰中正店</b></a></span><span class="tel"><b>04-23303998</b></span><span class="add"><b>413台中市霧峰區中正路874號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 烏日明道店" href="/brandshop-1182-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e7%83%8f%e6%97%a5%e6%98%8e%e9%81%93%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>烏日明道店</b></a></span><span class="tel"><b>04-2337-8489</b></span><span class="add"><b>414台中市烏日區中山路一段470號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 烏日溪南店" href="/brandshop-4756-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e7%83%8f%e6%97%a5%e6%ba%aa%e5%8d%97%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>烏日溪南店</b></a></span><span class="tel"><b>04-2335-5422</b></span><span class="add"><b>414台中市烏日區溪南路一段612號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 豐原成功店" href="/brandshop-4380-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e8%b1%90%e5%8e%9f%e6%88%90%e5%8a%9f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>豐原成功店</b></a></span><span class="tel"><b>04-25252155</b></span><span class="add"><b>420台中市豐原區成功路225號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 豐原博愛店" href="/brandshop-2257-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e8%b1%90%e5%8e%9f%e5%8d%9a%e6%84%9b%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>豐原博愛店</b></a></span><span class="tel"><b>04-2520-2255</b></span><span class="add"><b>420台中市豐原區博愛街55號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新后里甲后店" href="/brandshop-7559-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e6%96%b0%e5%90%8e%e9%87%8c%e7%94%b2%e5%90%8e%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新后里甲后店</b></a></span><span class="tel"><b>04-2557-6699</b></span><span class="add"><b>421台中市后里區甲后路450號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 潭子勝利店" href="/brandshop-2270-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e6%bd%ad%e5%ad%90%e5%8b%9d%e5%88%a9%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>潭子勝利店</b></a></span><span class="tel"><b>04-2531-1818</b></span><span class="add"><b>427台中市潭子區勝利路315號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中清泉崗店" href="/brandshop-5912-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%b8%85%e6%b3%89%e5%b4%97%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中清泉崗店</b></a></span><span class="tel"><b>04-2566-3362</b></span><span class="add"><b>428台中市大雅區中清路四段289-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 大雅民生店" href="/brandshop-1164-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e9%9b%85%e6%b0%91%e7%94%9f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>大雅民生店</b></a></span><span class="tel"><b>04-2568-6025</b></span><span class="add"><b>428台中市大雅區民生路一段27號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 社口中山店" href="/brandshop-7324-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e7%a4%be%e5%8f%a3%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>社口中山店</b></a></span><span class="tel"><b>04-2562-7500</b></span><span class="add"><b>429台中市神岡區中山路480號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 神岡中山店" href="/brandshop-5913-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e7%a5%9e%e5%b2%a1%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>神岡中山店</b></a></span><span class="tel"><b>04-2562-7500</b></span><span class="add"><b>429台中市神岡區中山路480號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 神岡豐洲店" href="/brandshop-7166-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e7%a5%9e%e5%b2%a1%e8%b1%90%e6%b4%b2%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>神岡豐洲店</b></a></span><span class="tel"><b>04-2525-0566</b></span><span class="add"><b>429台中市神岡區豐洲路458號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 大肚沙田店" href="/brandshop-4755-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e8%82%9a%e6%b2%99%e7%94%b0%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>大肚沙田店</b></a></span><span class="tel"><b>04-26999919</b></span><span class="add"><b>432台中市大肚區沙田路二段744號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 大肚遊園店" href="/brandshop-7561-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e8%82%9a%e9%81%8a%e5%9c%92%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>大肚遊園店</b></a></span><span class="tel"><b>04-2691-6707</b></span><span class="add"><b>432台中市大肚區遊園路二段72號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 沙鹿巨業店" href="/brandshop-1183-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e6%b2%99%e9%b9%bf%e5%b7%a8%e6%a5%ad%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>沙鹿巨業店</b></a></span><span class="tel"><b>04-2665-2777</b></span><span class="add"><b>433台中市沙鹿區中山路266號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 新沙鹿中山店" href="/brandshop-7562-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e6%96%b0%e6%b2%99%e9%b9%bf%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>新沙鹿中山店</b></a></span><span class="tel"><b>04-2665-6877</b></span><span class="add"><b>433台中市沙鹿區中山路449-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中國際店" href="/brandshop-4751-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%9c%8b%e9%9a%9b%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中國際店</b></a></span><span class="tel"><b>04-2631-2345</b></span><span class="add"><b>434台中市龍井區國際街150號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中東海店" href="/brandshop-2264-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%9d%b1%e6%b5%b7%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中東海店</b></a></span><span class="tel"><b>04-2633-0789</b></span><span class="add"><b>434台中市龍井區臺灣大道五段3巷49號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中梧棲店" href="/brandshop-6788-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%a2%a7%e6%a3%b2%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中梧棲店</b></a></span><span class="tel"><b>04-2657-6838</b></span><span class="add"><b>435台中市梧棲區文化路二段157號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台中清水店" href="/brandshop-6834-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%b8%85%e6%b0%b4%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台中清水店</b></a></span><span class="tel"><b>04-2622-2185</b></span><span class="add"><b>436台中市清水區中山路267號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 大甲順天店" href="/brandshop-1179-%e6%b8%85%e7%8e%89-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e7%94%b2%e9%a0%86%e5%a4%a9%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>大甲順天店</b></a></span><span class="tel"><b>04-2686-1899</b></span><span class="add"><b>437台中市大甲區順天路167號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 彰化三民店" href="/brandshop-1160-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e4%b8%89%e6%b0%91%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>彰化三民店</b></a></span><span class="tel"><b>04-722-0071</b></span><span class="add"><b>500彰化縣彰化市三民路283號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 彰化中正店" href="/brandshop-1175-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>彰化中正店</b></a></span><span class="tel"><b>04-727-3888</b></span><span class="add"><b>500彰化縣彰化市中正路二段130號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 彰化旭光店" href="/brandshop-2256-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e6%97%ad%e5%85%89%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>彰化旭光店</b></a></span><span class="tel"><b>04-722-1025</b></span><span class="add"><b>500彰化縣彰化市旭光路269號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 彰化花壇店" href="/brandshop-7613-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e8%8a%b1%e5%a3%87%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>彰化花壇店</b></a></span><span class="tel"><b>04-7863810</b></span><span class="add"><b>503彰化縣花壇鄉中正路311號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 鹿港中山店" href="/brandshop-2253-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%b9%bf%e6%b8%af%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>鹿港中山店</b></a></span><span class="tel"><b>04-776-0388</b></span><span class="add"><b>505彰化縣鹿港鎮中山路25號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 彰化伸港店" href="/brandshop-3741-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e4%bc%b8%e6%b8%af%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>彰化伸港店</b></a></span><span class="tel"><b>04-798-8640</b></span><span class="add"><b>509彰化縣伸港鄉中山路1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 員林中正店" href="/brandshop-1184-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%93%a1%e6%9e%97%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>員林中正店</b></a></span><span class="tel"><b>04-839-5058</b></span><span class="add"><b>510彰化縣員林鎮中正路231號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 員林靜修店" href="/brandshop-1178-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%93%a1%e6%9e%97%e9%9d%9c%e4%bf%ae%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>員林靜修店</b></a></span><span class="tel"><b>04-837-5238</b></span><span class="add"><b>510彰化縣員林鎮靜修路43號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 彰化社頭店" href="/brandshop-5254-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e7%a4%be%e9%a0%ad%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>彰化社頭店</b></a></span><span class="tel"><b>04-873-1399</b></span><span class="add"><b>511彰化縣社頭鄉員集路二段171號 </b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 北斗中華店" href="/brandshop-1181-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%8c%97%e6%96%97%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>北斗中華店</b></a></span><span class="tel"><b>04-887-7655</b></span><span class="add"><b>521彰化縣北斗鎮中華路216號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 彰化二林店" href="/brandshop-5926-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e4%ba%8c%e6%9e%97%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>彰化二林店</b></a></span><span class="tel"><b>04-895-1352</b></span><span class="add"><b>526彰化縣二林鎮東和里斗苑路五段163-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 彰化王功店" href="/brandshop-5925-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e7%8e%8b%e5%8a%9f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>彰化王功店</b></a></span><span class="tel"><b>04-893-3383</b></span><span class="add"><b>528彰化縣芳苑鄉博愛村芳漢路631號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 和美鹿和店" href="/brandshop-8427-%e6%b8%85%e7%8e%89-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%92%8c%e7%be%8e%e9%b9%bf%e5%92%8c%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>和美鹿和店</b></a></span><span class="tel"><b>04-755-9229</b></span><span class="add"><b>彰化縣和美鎮鹿和路六段409之1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 斗南中山店" href="/brandshop-7189-%e6%b8%85%e7%8e%89-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e6%96%97%e5%8d%97%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>斗南中山店</b></a></span><span class="tel"><b>05-595-2180</b></span><span class="add"><b>630雲林縣斗南鎮中山路75號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 虎尾中正店" href="/brandshop-3742-%e6%b8%85%e7%8e%89-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e8%99%8e%e5%b0%be%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>虎尾中正店</b></a></span><span class="tel"><b>05-636-3157</b></span><span class="add"><b>632雲林縣虎尾鎮中正路371之1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 虎尾光復店" href="/brandshop-7475-%e6%b8%85%e7%8e%89-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e8%99%8e%e5%b0%be%e5%85%89%e5%be%a9%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>虎尾光復店</b></a></span><span class="tel"><b>05-633-7486</b></span><span class="add"><b>632雲林縣虎尾鎮光復路280號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 雲林麥寮店" href="/brandshop-7169-%e6%b8%85%e7%8e%89-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e9%9b%b2%e6%9e%97%e9%ba%a5%e5%af%ae%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>雲林麥寮店</b></a></span><span class="tel"><b>05-693-3369</b></span><span class="add"><b>638雲林縣麥寮鄉中興路21號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 斗六中山店" href="/brandshop-3743-%e6%b8%85%e7%8e%89-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e6%96%97%e5%85%ad%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>斗六中山店</b></a></span><span class="tel"><b>05-5334546</b></span><span class="add"><b>640雲林縣斗六市中山路344號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 北港民主店" href="/brandshop-7316-%e6%b8%85%e7%8e%89-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e5%8c%97%e6%b8%af%e6%b0%91%e4%b8%bb%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>北港民主店</b></a></span><span class="tel"><b>05-773-0366</b></span><span class="add"><b>651雲林縣北港鎮民主路68號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 朴子山通店" href="/brandshop-7742-%e6%b8%85%e7%8e%89-%e5%98%89%e7%be%a9%e7%b8%a3-%e6%9c%b4%e5%ad%90%e5%b1%b1%e9%80%9a%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>朴子山通店</b></a></span><span class="tel"><b>05-379-0321</b></span><span class="add"><b>613嘉義縣朴子市山通路39號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 民雄建國店" href="/brandshop-7477-%e6%b8%85%e7%8e%89-%e5%98%89%e7%be%a9%e7%b8%a3-%e6%b0%91%e9%9b%84%e5%bb%ba%e5%9c%8b%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>民雄建國店</b></a></span><span class="tel"><b>05-220-2014</b></span><span class="add"><b>621嘉義縣民雄鄉建國路三段185號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 嘉義中山店" href="/brandshop-3744-%e6%b8%85%e7%8e%89-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>嘉義中山店</b></a></span><span class="tel"><b>05-228-9222</b></span><span class="add"><b>600嘉義市西區中山路337號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 嘉義友愛店" href="/brandshop-7331-%e6%b8%85%e7%8e%89-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e5%8f%8b%e6%84%9b%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>嘉義友愛店</b></a></span><span class="tel"><b>05-233-5683</b></span><span class="add"><b>600嘉義市西區友愛路196號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 嘉義民族店" href="/brandshop-7476-%e6%b8%85%e7%8e%89-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e6%b0%91%e6%97%8f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>嘉義民族店</b></a></span><span class="tel"><b>05-227-5227</b></span><span class="add"><b>600嘉義市西區民族路764號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 南投民族店" href="/brandshop-3740-%e6%b8%85%e7%8e%89-%e5%8d%97%e6%8a%95%e7%b8%a3-%e5%8d%97%e6%8a%95%e6%b0%91%e6%97%8f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>南投民族店</b></a></span><span class="tel"><b>049-222-6727</b></span><span class="add"><b>540南投縣南投市民族路183號 </b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 草屯中正店" href="/brandshop-1173-%e6%b8%85%e7%8e%89-%e5%8d%97%e6%8a%95%e7%b8%a3-%e8%8d%89%e5%b1%af%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>草屯中正店</b></a></span><span class="tel"><b>049-235-7658</b></span><span class="add"><b>542南投縣草屯鎮中正路777-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 草屯碧山店" href="/brandshop-5090-%e6%b8%85%e7%8e%89-%e5%8d%97%e6%8a%95%e7%b8%a3-%e8%8d%89%e5%b1%af%e7%a2%a7%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>草屯碧山店</b></a></span><span class="tel"><b>049-2318958</b></span><span class="add"><b>542南投縣草屯鎮碧山路188號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 埔里中正店" href="/brandshop-1176-%e6%b8%85%e7%8e%89-%e5%8d%97%e6%8a%95%e7%b8%a3-%e5%9f%94%e9%87%8c%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>埔里中正店</b></a></span><span class="tel"><b>049-290-3208</b></span><span class="add"><b>545南投縣埔里鎮中正路345號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 埔里南昌店" href="/brandshop-5908-%e6%b8%85%e7%8e%89-%e5%8d%97%e6%8a%95%e7%b8%a3-%e5%9f%94%e9%87%8c%e5%8d%97%e6%98%8c%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>埔里南昌店</b></a></span><span class="tel"><b>049-298-9955</b></span><span class="add"><b>545南投縣埔里鎮西門里南昌街252號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 南投名間店" href="/brandshop-4867-%e6%b8%85%e7%8e%89-%e5%8d%97%e6%8a%95%e7%b8%a3-%e5%8d%97%e6%8a%95%e5%90%8d%e9%96%93%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>南投名間店</b></a></span><span class="tel"><b>049-2734889</b></span><span class="add"><b>551南投縣名間鄉南雅村員集路140號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 竹山下橫店" href="/brandshop-7740-%e6%b8%85%e7%8e%89-%e5%8d%97%e6%8a%95%e7%b8%a3-%e7%ab%b9%e5%b1%b1%e4%b8%8b%e6%a9%ab%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>竹山下橫店</b></a></span><span class="tel"><b>049-265-8353</b></span><span class="add"><b>557南投縣竹山鎮下橫街47-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台南民族店" href="/brandshop-6795-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%b0%91%e6%97%8f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台南民族店</b></a></span><span class="tel"><b>06-225-7088</b></span><span class="add"><b>700台南市中西區民族路二段88號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台南府前店" href="/brandshop-6623-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%ba%9c%e5%89%8d%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台南府前店</b></a></span><span class="tel"><b>06-223-9997</b></span><span class="add"><b>700台南市中西區府前路二段18號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台南仁和店" href="/brandshop-7321-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e4%bb%81%e5%92%8c%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台南仁和店</b></a></span><span class="tel"><b>06-290-0207</b></span><span class="add"><b>701台南市東區仁和路76號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台南育樂店" href="/brandshop-7170-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e8%82%b2%e6%a8%82%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台南育樂店</b></a></span><span class="tel"><b>06-2003792</b></span><span class="add"><b>701台南市東區育樂街46巷2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台南東門店" href="/brandshop-6799-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%9d%b1%e9%96%80%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台南東門店</b></a></span><span class="tel"><b>06-208-0071</b></span><span class="add"><b>701台南市東區東門路二段267號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台南崇德店" href="/brandshop-6626-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%b4%87%e5%be%b7%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台南崇德店</b></a></span><span class="tel"><b>06-289-8077</b></span><span class="add"><b>701台南市東區崇德路665號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台南大同店" href="/brandshop-6792-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%a4%a7%e5%90%8c%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台南大同店</b></a></span><span class="tel"><b>06-215-9977</b></span><span class="add"><b>702台南市南區大同路二段340號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台南金華店" href="/brandshop-3745-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%87%91%e8%8f%af%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台南金華店</b></a></span><span class="tel"><b>06-261-8282</b></span><span class="add"><b>702台南市南區金華路二段238號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台南開元店" href="/brandshop-7478-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%96%8b%e5%85%83%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台南開元店</b></a></span><span class="tel"><b>06-209-2518</b></span><span class="add"><b>704台南市北區開元路553號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台南安平店" href="/brandshop-7322-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%ae%89%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台南安平店</b></a></span><span class="tel"><b>06-350-6668</b></span><span class="add"><b>708台南市安平區安平路376號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台南本田店" href="/brandshop-7193-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%9c%ac%e7%94%b0%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台南本田店</b></a></span><span class="tel"><b>06-245-9000</b></span><span class="add"><b>709台南市安南區安中路四段1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 永康中正店" href="/brandshop-7323-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>永康中正店</b></a></span><span class="tel"><b>06-201-6620</b></span><span class="add"><b>710 台南市永康區中正路107號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台南新化店" href="/brandshop-7198-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%96%b0%e5%8c%96%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台南新化店</b></a></span><span class="tel"><b>06-590-4353</b></span><span class="add"><b>712台南市新化區中山路301號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 台南仁德店" href="/brandshop-6793-%e6%b8%85%e7%8e%89-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e4%bb%81%e5%be%b7%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>台南仁德店</b></a></span><span class="tel"><b>06-249-7098</b></span><span class="add"><b>717台南市仁德區中正路二段1138號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄七賢店" href="/brandshop-7486-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e4%b8%83%e8%b3%a2%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄七賢店</b></a></span><span class="tel"><b>07-2365123</b></span><span class="add"><b>800高雄市新興區七賢一路321號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄新崛江店" href="/brandshop-7519-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%96%b0%e5%b4%9b%e6%b1%9f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄新崛江店</b></a></span><span class="tel"><b>07-261-4666</b></span><span class="add"><b>800高雄市新興區文橫二路154號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄市議會店" href="/brandshop-7533-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%b8%82%e8%ad%b0%e6%9c%83%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄市議會店</b></a></span><span class="tel"><b>07-2166555</b></span><span class="add"><b>801高雄市前金區自強一路61號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄自強店" href="/brandshop-4718-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e8%87%aa%e5%bc%b7%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄自強店</b></a></span><span class="tel"><b>07-241-5050</b></span><span class="add"><b>801高雄市前金區自強二路15號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄三多店" href="/brandshop-4740-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e4%b8%89%e5%a4%9a%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄三多店</b></a></span><span class="tel"><b>07-331-0868</b></span><span class="add"><b>802高雄市苓雅區三多三路214-7號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄民生店" href="/brandshop-7481-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%b0%91%e7%94%9f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄民生店</b></a></span><span class="tel"><b>07-223-3678</b></span><span class="add"><b>802高雄市苓雅區光華一路182號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄光華店" href="/brandshop-4475-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%85%89%e8%8f%af%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄光華店</b></a></span><span class="tel"><b>07-7168585</b></span><span class="add"><b>802高雄市苓雅區光華二路424號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄忠孝店" href="/brandshop-7482-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%bf%a0%e5%ad%9d%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄忠孝店</b></a></span><span class="tel"><b>07-335-3468</b></span><span class="add"><b>802高雄市苓雅區忠孝二路79號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄武廟店" href="/brandshop-5909-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%ad%a6%e5%bb%9f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄武廟店</b></a></span><span class="tel"><b>07-715-2701</b></span><span class="add"><b>802高雄市苓雅區武廟路117號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄瑞豐店" href="/brandshop-7329-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e7%91%9e%e8%b1%90%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄瑞豐店</b></a></span><span class="tel"><b>07-559-7088</b></span><span class="add"><b>804高雄市鼓山區裕誠路1146-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄瑞隆店" href="/brandshop-7567-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e7%91%9e%e9%9a%86%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄瑞隆店</b></a></span><span class="tel"><b>07-722-6552</b></span><span class="add"><b>806高雄市前鎮區瑞隆路396號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄三民店" href="/brandshop-7479-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e4%b8%89%e6%b0%91%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄三民店</b></a></span><span class="tel"><b>07-389-2668</b></span><span class="add"><b>807高雄市三民區大昌二路159號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄大昌店" href="/brandshop-3630-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%a4%a7%e6%98%8c%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄大昌店</b></a></span><span class="tel"><b>07-398-2030</b></span><span class="add"><b>807高雄市三民區大昌二路564號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄站前店" href="/brandshop-7345-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e7%ab%99%e5%89%8d%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄站前店</b></a></span><span class="tel"><b>07-288-8883</b></span><span class="add"><b>807高雄市三民區中山一路311號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄鼎中店" href="/brandshop-7480-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e9%bc%8e%e4%b8%ad%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄鼎中店</b></a></span><span class="tel"><b>07-310-9920</b></span><span class="add"><b>807高雄市三民區鼎中路716號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄熱河店" href="/brandshop-5910-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e7%86%b1%e6%b2%b3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄熱河店</b></a></span><span class="tel"><b>07-311-9879</b></span><span class="add"><b>807高雄市三民區熱河一街330號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 楠梓軍校店" href="/brandshop-7483-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a5%a0%e6%a2%93%e8%bb%8d%e6%a0%a1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>楠梓軍校店</b></a></span><span class="tel"><b>07-360-0277</b></span><span class="add"><b>811高雄市楠梓區軍校路872號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 楠梓德賢店" href="/brandshop-5911-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a5%a0%e6%a2%93%e5%be%b7%e8%b3%a2%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>楠梓德賢店</b></a></span><span class="tel"><b>07-362-3139</b></span><span class="add"><b>811高雄市楠梓區德賢路245號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 小港二苓店" href="/brandshop-7669-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b0%8f%e6%b8%af%e4%ba%8c%e8%8b%93%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>小港二苓店</b></a></span><span class="tel"><b>07-801-1777</b></span><span class="add"><b>812高雄市小港區二苓路265號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄蓮潭店" href="/brandshop-7569-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e8%93%ae%e6%bd%ad%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄蓮潭店</b></a></span><span class="tel"><b>07-581-0505</b></span><span class="add"><b>813高雄市左營區左營大路107號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄裕誠店" href="/brandshop-3631-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e8%a3%95%e8%aa%a0%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄裕誠店</b></a></span><span class="tel"><b>07-556-3767</b></span><span class="add"><b>813高雄市左營區裕誠路191號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 岡山壽天店" href="/brandshop-7325-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b2%a1%e5%b1%b1%e5%a3%bd%e5%a4%a9%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>岡山壽天店</b></a></span><span class="tel"><b>07-623-0800</b></span><span class="add"><b>820高雄市岡山區壽天路112號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 高雄五甲二店" href="/brandshop-7485-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e4%ba%94%e7%94%b2%e4%ba%8c%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>高雄五甲二店</b></a></span><span class="tel"><b>07-831-6565</b></span><span class="add"><b>830高雄市鳳山區五甲二路518號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 鳳山青年店" href="/brandshop-7332-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e9%9d%92%e5%b9%b4%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>鳳山青年店</b></a></span><span class="tel"><b>07-777-8892</b></span><span class="add"><b>830高雄市鳳山區青年路二段377號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 旗山延平店" href="/brandshop-7484-%e6%b8%85%e7%8e%89-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%97%97%e5%b1%b1%e5%bb%b6%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>旗山延平店</b></a></span><span class="tel"><b>07-662-6008</b></span><span class="add"><b>842高雄市旗山區延平一路637號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 屏東復興店" href="/brandshop-7488-%e6%b8%85%e7%8e%89-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e5%be%a9%e8%88%88%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>屏東復興店</b></a></span><span class="tel"><b>087-3333-88</b></span><span class="add"><b>900屏東縣屏東市復興北路17號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 潮州新生店" href="/brandshop-7606-%e6%b8%85%e7%8e%89-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e6%bd%ae%e5%b7%9e%e6%96%b0%e7%94%9f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>潮州新生店</b></a></span><span class="tel"><b>08-789-7375</b></span><span class="add"><b>920屏東縣潮州鎮新生路67號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 屏東民生店" href="/brandshop-8214-%e6%b8%85%e7%8e%89-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e6%b0%91%e7%94%9f%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>屏東民生店</b></a></span><span class="tel"><b>08-722-2720</b></span><span class="add"><b>屏東縣屏東市民生路4-7號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 宜蘭新月店" href="/brandshop-7663-%e6%b8%85%e7%8e%89-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e6%96%b0%e6%9c%88%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>宜蘭新月店</b></a></span><span class="tel"><b>03-9314567</b></span><span class="add"><b>260宜蘭縣宜蘭市神農路2段113號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 宜蘭礁溪店" href="/brandshop-7467-%e6%b8%85%e7%8e%89-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e7%a4%81%e6%ba%aa%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>宜蘭礁溪店</b></a></span><span class="tel"><b>03-988-5055</b></span><span class="add"><b>262宜蘭縣礁溪鄉礁溪路五段23巷</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往清玉 宜蘭羅東店" href="/brandshop-7468-%e6%b8%85%e7%8e%89-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e7%be%85%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>清玉</b><br>
+										<b>宜蘭羅東店</b></a></span><span class="tel"><b>03-957-7957</b></span><span class="add"><b>265宜蘭縣羅東鎮興東路70號</b><br></span></li>
+								
+								
+									
+								
+						</div>

@@ -1,0 +1,976 @@
+<div class="right">
+							<h1><b>大苑子 - 全台灣分店門市查詢</b></h1>
+							<div class="sort">
+								
+								
+								<a id="CityTotal" href="brandshop-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>全台灣分店</b></a>
+																
+									<a title="前往大苑子基隆市分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%9f%ba%e9%9a%86%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>基隆市</b></a>
+																	
+									<a title="前往大苑子台北市分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台北市</b></a>
+																	
+									<a title="前往大苑子新北市分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新北市</b></a>
+																	
+									<a title="前往大苑子桃園縣分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>桃園縣</b></a>
+																	
+									<a title="前往大苑子新竹市分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新竹市</b></a>
+																	
+									<a title="前往大苑子新竹縣分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新竹縣</b></a>
+																	
+									<a title="前往大苑子苗栗縣分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e8%8b%97%e6%a0%97%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>苗栗縣</b></a>
+																	
+									<a title="前往大苑子台中市分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台中市</b></a>
+																	
+									<a title="前往大苑子彰化縣分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>彰化縣</b></a>
+																	
+									<a title="前往大苑子雲林縣分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>雲林縣</b></a>
+																	
+									<a title="前往大苑子嘉義縣分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%98%89%e7%be%a9%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>嘉義縣</b></a>
+																	
+									<a title="前往大苑子嘉義市分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%98%89%e7%be%a9%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>嘉義市</b></a>
+																	
+									<a title="前往大苑子南投縣分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8d%97%e6%8a%95%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>南投縣</b></a>
+																	
+									<a title="前往大苑子台南市分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台南市</b></a>
+																	
+									<a title="前往大苑子高雄市分店門市" href="brandshopcity-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>高雄市</b></a>
+								
+								
+							</div>
+							<input type="hidden" name="Sel_City" id="Sel_City">
+							
+							
+									
+									
+									<li><span><a title="前往大苑子 基隆義二店" href="/brandshop-8403-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%9f%ba%e9%9a%86%e5%b8%82-%e5%9f%ba%e9%9a%86%e7%be%a9%e4%ba%8c%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>基隆義二店</b></a></span><span class="tel"><b>02-24266222</b></span><span class="add"><b>202基隆市中正區義二路27號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台北長春店" href="/brandshop-8213-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e9%95%b7%e6%98%a5%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台北長春店</b></a></span><span class="tel"><b>02-25060760</b></span><span class="add"><b>104台北市中山區伊通街127-4號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台北合江店" href="/brandshop-8212-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%90%88%e6%b1%9f%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台北合江店</b></a></span><span class="tel"><b>02-25081238</b></span><span class="add"><b>104台北市中山區合江街113號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台北錦西店" href="/brandshop-8316-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e9%8c%a6%e8%a5%bf%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台北錦西店</b></a></span><span class="tel"><b>02-25218196</b></span><span class="add"><b>104台北市中山區錦西街5號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 南京開發店" href="/brandshop-8317-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8d%97%e4%ba%ac%e9%96%8b%e7%99%bc%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>南京開發店</b></a></span><span class="tel"><b>02-27610015</b></span><span class="add"><b>105台北市松山區南京東路五段123巷6弄1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台北莊敬店" href="/brandshop-274-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e8%8e%8a%e6%95%ac%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台北莊敬店</b></a></span><span class="tel"><b>02-23451155</b></span><span class="add"><b>110台北市信義區莊敬路343號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台北景美店" href="/brandshop-7381-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%99%af%e7%be%8e%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台北景美店</b></a></span><span class="tel"><b>02-29332525</b></span><span class="add"><b>116台北市文山區景文街94號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 板橋中山店" href="/brandshop-276-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9d%bf%e6%a9%8b%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>板橋中山店</b></a></span><span class="tel"><b>02-29582567</b></span><span class="add"><b>220新北市板橋區中山路二段185號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 土城裕民店" href="/brandshop-7253-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%9c%9f%e5%9f%8e%e8%a3%95%e6%b0%91%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>土城裕民店</b></a></span><span class="tel"><b>02-22700680</b></span><span class="add"><b>236新北市土城區裕民路97號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 中壢中北店" href="/brandshop-7252-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e4%b8%ad%e5%8c%97%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>中壢中北店</b></a></span><span class="tel"><b>03-4665010</b></span><span class="add"><b>320桃園縣中壢市中北路32號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 中壢長春店" href="/brandshop-6840-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e9%95%b7%e6%98%a5%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>中壢長春店</b></a></span><span class="tel"><b>03-4636119</b></span><span class="add"><b>320桃園縣中壢市長春路24號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 中壢健行店" href="/brandshop-7315-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e5%81%a5%e8%a1%8c%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>中壢健行店</b></a></span><span class="tel"><b>03-2840155</b></span><span class="add"><b>320桃園縣中壢市健行路153號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 中壢中原店" href="/brandshop-7157-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e4%b8%ad%e5%8e%9f%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>中壢中原店</b></a></span><span class="tel"><b>03-4368888</b></span><span class="add"><b>320桃園縣中壢市新中北路228號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 中壢新生店" href="/brandshop-7380-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e6%96%b0%e7%94%9f%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>中壢新生店</b></a></span><span class="tel"><b>03-4260008</b></span><span class="add"><b>320桃園縣中壢市新生路203號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 龍潭龍元店" href="/brandshop-7134-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%be%8d%e6%bd%ad%e9%be%8d%e5%85%83%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>龍潭龍元店</b></a></span><span class="tel"><b>03-4709933</b></span><span class="add"><b>325桃園縣龍潭鄉龍元路33號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 楊梅大成店" href="/brandshop-7603-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a5%8a%e6%a2%85%e5%a4%a7%e6%88%90%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>楊梅大成店</b></a></span><span class="tel"><b>03-4851636</b></span><span class="add"><b>326桃園縣楊梅市大成路162號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 桃園中正店" href="/brandshop-7383-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>桃園中正店</b></a></span><span class="tel"><b>03-3355180</b></span><span class="add"><b>330桃園縣桃園市中正路514號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 龜山中興店" href="/brandshop-7384-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%be%9c%e5%b1%b1%e4%b8%ad%e8%88%88%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>龜山中興店</b></a></span><span class="tel"><b>03-3506333</b></span><span class="add"><b>333桃園縣龜山鄉中興路426號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 林口長庚店" href="/brandshop-8209-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%9e%97%e5%8f%a3%e9%95%b7%e5%ba%9a%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>林口長庚店</b></a></span><span class="tel"><b>03-3187939</b></span><span class="add"><b>333桃園縣龜山鄉復興北路38號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 八德桃鶯店" href="/brandshop-7186-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%85%ab%e5%be%b7%e6%a1%83%e9%b6%af%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>八德桃鶯店</b></a></span><span class="tel"><b>03-3674052</b></span><span class="add"><b>334桃園縣八德市桃鶯路65號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 桃園大園店" href="/brandshop-8356-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e5%a4%a7%e5%9c%92%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>桃園大園店</b></a></span><span class="tel"><b>03-3866228</b></span><span class="add"><b>337桃園縣大園鄉中山北路52號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 南崁店" href="/brandshop-8210-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%8d%97%e5%b4%81%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>南崁店</b></a></span><span class="tel"><b>03-2225133</b></span><span class="add"><b>338桃園縣蘆竹鄉南崁路176號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新竹中正店" href="/brandshop-7601-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新竹中正店</b></a></span><span class="tel"><b>03-5339077</b></span><span class="add"><b>300新竹市北區中正路384號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新竹水田店" href="/brandshop-7251-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e6%b0%b4%e7%94%b0%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新竹水田店</b></a></span><span class="tel"><b>03-5325535</b></span><span class="add"><b>300新竹市北區水田街139號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新竹北大店" href="/brandshop-270-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e5%8c%97%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新竹北大店</b></a></span><span class="tel"><b>03-5259963</b></span><span class="add"><b>300新竹市北區北大路299號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新竹東門店" href="/brandshop-3624-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e6%9d%b1%e9%96%80%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新竹東門店</b></a></span><span class="tel"><b>03-526-3363</b></span><span class="add"><b>300新竹市北區東門街204號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新竹民族店" href="/brandshop-7602-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e6%b0%91%e6%97%8f%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新竹民族店</b></a></span><span class="tel"><b>03-5230708</b></span><span class="add"><b>300新竹市東區民族路28號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新竹巨城店" href="/brandshop-4809-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e5%b7%a8%e5%9f%8e%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新竹巨城店</b></a></span><span class="tel"><b>近期開幕</b></span><span class="add"><b>300新竹市東區民權路155號 </b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新竹光復店" href="/brandshop-272-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e5%85%89%e5%be%a9%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新竹光復店</b></a></span><span class="tel"><b>03-6667003</b></span><span class="add"><b>300新竹市東區光復路一段125號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新竹園區店" href="/brandshop-267-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e5%9c%92%e5%8d%80%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新竹園區店</b></a></span><span class="tel"><b>03-5782366</b></span><span class="add"><b>300新竹市東區光復路一段444號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新竹站前店" href="/brandshop-4362-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e7%ab%99%e5%89%8d%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新竹站前店</b></a></span><span class="tel"><b>03-5226990</b></span><span class="add"><b>300新竹市東區林森路12號 </b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新竹南大店" href="/brandshop-4363-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e5%8d%97%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新竹南大店</b></a></span><span class="tel"><b>近期開幕</b></span><span class="add"><b>300新竹市東區南大路382號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新竹清大店" href="/brandshop-269-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e6%b8%85%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新竹清大店</b></a></span><span class="tel"><b>03-5736958</b></span><span class="add"><b>300新竹市東區建功一路12號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新竹食品店" href="/brandshop-8211-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e9%a3%9f%e5%93%81%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新竹食品店</b></a></span><span class="tel"><b>03-5752034</b></span><span class="add"><b>300新竹市東區食品路187號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 竹北三民店" href="/brandshop-273-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e7%ab%b9%e5%8c%97%e4%b8%89%e6%b0%91%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>竹北三民店</b></a></span><span class="tel"><b>03-5528221</b></span><span class="add"><b>302新竹縣竹北市三民路371號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 竹北中正店" href="/brandshop-4726-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e7%ab%b9%e5%8c%97%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>竹北中正店</b></a></span><span class="tel"><b>03-5513336</b></span><span class="add"><b>302新竹縣竹北市中正西路120號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 湖口站前店" href="/brandshop-7312-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e6%b9%96%e5%8f%a3%e7%ab%99%e5%89%8d%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>湖口站前店</b></a></span><span class="tel"><b>035-905217</b></span><span class="add"><b>303新竹縣湖口鄉中正路一段12號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 湖口仁和店" href="/brandshop-4725-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e6%b9%96%e5%8f%a3%e4%bb%81%e5%92%8c%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>湖口仁和店</b></a></span><span class="tel"><b>03-5970999</b></span><span class="add"><b>303新竹縣湖口鄉仁和路134號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新竹新豐店" href="/brandshop-271-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e6%96%b0%e7%ab%b9%e6%96%b0%e8%b1%90%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新竹新豐店</b></a></span><span class="tel"><b>03-5593329</b></span><span class="add"><b>304新竹縣新豐鄉新興路211號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 竹東長春店" href="/brandshop-5886-%e5%a4%a7%e8%8b%91%e5%ad%90-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e7%ab%b9%e6%9d%b1%e9%95%b7%e6%98%a5%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>竹東長春店</b></a></span><span class="tel"><b>03-5956529</b></span><span class="add"><b>310新竹縣竹東鎮長春路二段31號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 竹南光復店" href="/brandshop-2209-%e5%a4%a7%e8%8b%91%e5%ad%90-%e8%8b%97%e6%a0%97%e7%b8%a3-%e7%ab%b9%e5%8d%97%e5%85%89%e5%be%a9%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>竹南光復店</b></a></span><span class="tel"><b>037-472008</b></span><span class="add"><b>350苗栗縣竹南鎮光復路176-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 竹南博愛店" href="/brandshop-278-%e5%a4%a7%e8%8b%91%e5%ad%90-%e8%8b%97%e6%a0%97%e7%b8%a3-%e7%ab%b9%e5%8d%97%e5%8d%9a%e6%84%9b%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>竹南博愛店</b></a></span><span class="tel"><b>037-479100</b></span><span class="add"><b>350苗栗縣竹南鎮博愛街188號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 頭份中正店" href="/brandshop-2202-%e5%a4%a7%e8%8b%91%e5%ad%90-%e8%8b%97%e6%a0%97%e7%b8%a3-%e9%a0%ad%e4%bb%bd%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>頭份中正店</b></a></span><span class="tel"><b>037-663331</b></span><span class="add"><b>351苗栗縣頭份鎮中正路55號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 頭份建國店" href="/brandshop-2210-%e5%a4%a7%e8%8b%91%e5%ad%90-%e8%8b%97%e6%a0%97%e7%b8%a3-%e9%a0%ad%e4%bb%bd%e5%bb%ba%e5%9c%8b%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>頭份建國店</b></a></span><span class="tel"><b>037-683252</b></span><span class="add"><b>351苗栗縣頭份鎮建國路172號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 苗栗中正店" href="/brandshop-7597-%e5%a4%a7%e8%8b%91%e5%ad%90-%e8%8b%97%e6%a0%97%e7%b8%a3-%e8%8b%97%e6%a0%97%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>苗栗中正店</b></a></span><span class="tel"><b>037-365321</b></span><span class="add"><b>360苗栗縣苗栗市中正路921號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 苗栗府前店" href="/brandshop-7666-%e5%a4%a7%e8%8b%91%e5%ad%90-%e8%8b%97%e6%a0%97%e7%b8%a3-%e8%8b%97%e6%a0%97%e5%ba%9c%e5%89%8d%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>苗栗府前店</b></a></span><span class="tel"><b>037-359000</b></span><span class="add"><b>360苗栗縣苗栗市府前路173號 </b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中大慶店" href="/brandshop-2215-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%a4%a7%e6%85%b6%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中大慶店</b></a></span><span class="tel"><b>04-22600345</b></span><span class="add"><b>402台中市南區大慶街二段6-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中忠孝店" href="/brandshop-2207-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%bf%a0%e5%ad%9d%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中忠孝店</b></a></span><span class="tel"><b>04-22851855</b></span><span class="add"><b>402台中市南區忠孝路117號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 美村南店" href="/brandshop-4806-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e7%be%8e%e6%9d%91%e5%8d%97%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>美村南店</b></a></span><span class="tel"><b>04-22603968</b></span><span class="add"><b>402台中市南區美村南路135號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中公益店" href="/brandshop-3622-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%85%ac%e7%9b%8a%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中公益店</b></a></span><span class="tel"><b>04-2326-2221</b></span><span class="add"><b>403台中市西區公益路118號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中民權店" href="/brandshop-2232-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%b0%91%e6%ac%8a%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中民權店</b></a></span><span class="tel"><b>04-22257898</b></span><span class="add"><b>403台中市西區民權路71號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中向上店" href="/brandshop-2201-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%90%91%e4%b8%8a%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中向上店</b></a></span><span class="tel"><b>04-23012122</b></span><span class="add"><b>403台中市西區向上路一段254號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中精誠店" href="/brandshop-2231-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e7%b2%be%e8%aa%a0%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中精誠店</b></a></span><span class="tel"><b>04-23108389</b></span><span class="add"><b>403台中市西區精誠路164號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中北平店" href="/brandshop-2200-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%8c%97%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中北平店</b></a></span><span class="tel"><b>04-22980663</b></span><span class="add"><b>404台中市北區北平路二段135號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中永興店" href="/brandshop-279-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%b0%b8%e8%88%88%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中永興店</b></a></span><span class="tel"><b>04-22351110</b></span><span class="add"><b>404台中市北區永興街140號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中西屯店" href="/brandshop-2203-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e8%a5%bf%e5%b1%af%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中西屯店</b></a></span><span class="tel"><b>04-23255656</b></span><span class="add"><b>404台中市北區西屯路一段381號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中學士店" href="/brandshop-7599-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%ad%b8%e5%a3%ab%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中學士店</b></a></span><span class="tel"><b>04-22333020</b></span><span class="add"><b>404台中市北區學士路152號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 水湳店" href="/brandshop-2230-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e6%b0%b4%e6%b9%b3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>水湳店</b></a></span><span class="tel"><b>04-22985808</b></span><span class="add"><b>406台中市北屯區大鵬路22號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中昌平店" href="/brandshop-2227-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%98%8c%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中昌平店</b></a></span><span class="tel"><b>04-22468988</b></span><span class="add"><b>406台中市北屯區昌平路一段294號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中東山店" href="/brandshop-2204-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%9d%b1%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中東山店</b></a></span><span class="tel"><b>04-24360358</b></span><span class="add"><b>406台中市北屯區東山路一段125-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中世貿店" href="/brandshop-2221-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e4%b8%96%e8%b2%bf%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中世貿店</b></a></span><span class="tel"><b>04-23587255</b></span><span class="add"><b>407台中市西屯區中工三路114號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 逢甲河南店" href="/brandshop-2217-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%80%a2%e7%94%b2%e6%b2%b3%e5%8d%97%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>逢甲河南店</b></a></span><span class="tel"><b>04-24515767</b></span><span class="add"><b>407台中市西屯區河南路二段342號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中青海店" href="/brandshop-2223-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e9%9d%92%e6%b5%b7%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中青海店</b></a></span><span class="tel"><b>04-23127576</b></span><span class="add"><b>407台中市西屯區青海路一段53號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 逢甲福星店" href="/brandshop-5883-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%80%a2%e7%94%b2%e7%a6%8f%e6%98%9f%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>逢甲福星店</b></a></span><span class="tel"><b>04-24525110</b></span><span class="add"><b>407台中市西屯區福星路513號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中大墩店" href="/brandshop-7596-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%a4%a7%e5%a2%a9%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中大墩店</b></a></span><span class="tel"><b>04-23261877</b></span><span class="add"><b>408台中市南屯區大墩路759號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中南屯店" href="/brandshop-2214-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%8d%97%e5%b1%af%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中南屯店</b></a></span><span class="tel"><b>04-24720916</b></span><span class="add"><b>408台中市南屯區南屯路二段106號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台中黎明店" href="/brandshop-4805-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e9%bb%8e%e6%98%8e%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台中黎明店</b></a></span><span class="tel"><b>04-22540233</b></span><span class="add"><b>408台中市南屯區黎明路二段394號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 太平中山店" href="/brandshop-2205-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%aa%e5%b9%b3%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>太平中山店</b></a></span><span class="tel"><b>04-23953633</b></span><span class="add"><b>411台中市太平區中山路四段162號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 太平店" href="/brandshop-2213-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%aa%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>太平店</b></a></span><span class="tel"><b>04-22736883</b></span><span class="add"><b>411台中市太平區太平路591號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 大里立人店" href="/brandshop-2197-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e9%87%8c%e7%ab%8b%e4%ba%ba%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>大里立人店</b></a></span><span class="tel"><b>04-24850991</b></span><span class="add"><b>412台中市大里區中興路二段183-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 大里中興店" href="/brandshop-2235-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e9%87%8c%e4%b8%ad%e8%88%88%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>大里中興店</b></a></span><span class="tel"><b>04-24865808</b></span><span class="add"><b>412台中市大里區中興路二段423號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 大里成功店" href="/brandshop-2234-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e9%87%8c%e6%88%90%e5%8a%9f%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>大里成功店</b></a></span><span class="tel"><b>04-24930092</b></span><span class="add"><b>412台中市大里區成功路452號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 霧峰店" href="/brandshop-2222-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%9c%a7%e5%b3%b0%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>霧峰店</b></a></span><span class="tel"><b>04-23390716</b></span><span class="add"><b>413台中市霧峰區中正路917號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 烏日店" href="/brandshop-280-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e7%83%8f%e6%97%a5%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>烏日店</b></a></span><span class="tel"><b>04-23378889</b></span><span class="add"><b>414台中市烏日區中山路二段349號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 豐原三民店" href="/brandshop-7668-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e8%b1%90%e5%8e%9f%e4%b8%89%e6%b0%91%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>豐原三民店</b></a></span><span class="tel"><b>04-25257711</b></span><span class="add"><b>420台中市豐原區三民路123號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 后里店" href="/brandshop-2211-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%90%8e%e9%87%8c%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>后里店</b></a></span><span class="tel"><b>04-25565818</b></span><span class="add"><b>421台中市后里區甲后路342號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 潭子圓通店" href="/brandshop-2216-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e6%bd%ad%e5%ad%90%e5%9c%93%e9%80%9a%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>潭子圓通店</b></a></span><span class="tel"><b>04-25322632</b></span><span class="add"><b>427台中市潭子區圓通南路283號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 大雅學府店" href="/brandshop-2224-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e9%9b%85%e5%ad%b8%e5%ba%9c%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>大雅學府店</b></a></span><span class="tel"><b>04-25668350</b></span><span class="add"><b>428台中市大雅區學府路327號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 沙鹿中山店" href="/brandshop-2233-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e6%b2%99%e9%b9%bf%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>沙鹿中山店</b></a></span><span class="tel"><b>04-26628343</b></span><span class="add"><b>433台中市沙鹿區中山路325號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 清水店" href="/brandshop-2212-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e6%b8%85%e6%b0%b4%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>清水店</b></a></span><span class="tel"><b>04-26228989</b></span><span class="add"><b>436台中市清水區中山路189號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 大甲順天店" href="/brandshop-2228-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e7%94%b2%e9%a0%86%e5%a4%a9%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>大甲順天店</b></a></span><span class="tel"><b>04-26880323</b></span><span class="add"><b>437台中市大甲區順天路168號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 彰化大埔店" href="/brandshop-292-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e5%a4%a7%e5%9f%94%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>彰化大埔店</b></a></span><span class="tel"><b>04-7123778</b></span><span class="add"><b>500彰化縣彰化市大埔路580號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 彰化中正店" href="/brandshop-295-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>彰化中正店</b></a></span><span class="tel"><b>04-7282752</b></span><span class="add"><b>500彰化縣彰化市中正路二段557號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 彰化民族店" href="/brandshop-291-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e6%b0%91%e6%97%8f%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>彰化民族店</b></a></span><span class="tel"><b>04-7266086</b></span><span class="add"><b>500彰化縣彰化市民族路333號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 永安店" href="/brandshop-297-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e6%b0%b8%e5%ae%89%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>永安店</b></a></span><span class="tel"><b>04-7203788</b></span><span class="add"><b>500彰化縣彰化市永安街152號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 彰化師大店" href="/brandshop-293-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e5%b8%ab%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>彰化師大店</b></a></span><span class="tel"><b>04-7272212</b></span><span class="add"><b>500彰化縣彰化市進德路10號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 大竹店" href="/brandshop-296-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%a4%a7%e7%ab%b9%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>大竹店</b></a></span><span class="tel"><b>04-7327998</b></span><span class="add"><b>500彰化縣彰化市彰南路二段122號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 彰美店" href="/brandshop-294-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e7%be%8e%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>彰美店</b></a></span><span class="tel"><b>04-7266618</b></span><span class="add"><b>500彰化縣彰化市彰美路一段222號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 花壇店" href="/brandshop-5885-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e8%8a%b1%e5%a3%87%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>花壇店</b></a></span><span class="tel"><b>待網友回報</b></span><span class="add"><b>503彰化縣花壇鄉中正路168號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 花壇店" href="/brandshop-2218-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e8%8a%b1%e5%a3%87%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>花壇店</b></a></span><span class="tel"><b>04-7880086</b></span><span class="add"><b>503彰化縣花壇鄉中正路193號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 秀水店" href="/brandshop-2198-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e7%a7%80%e6%b0%b4%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>秀水店</b></a></span><span class="tel"><b>04-7686500</b></span><span class="add"><b>504彰化縣秀水鄉彰水路二段603號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 鹿港中山店" href="/brandshop-289-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%b9%bf%e6%b8%af%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>鹿港中山店</b></a></span><span class="tel"><b>04-7775500</b></span><span class="add"><b>505彰化縣鹿港鎮中山路275號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 鹿港復興店" href="/brandshop-290-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%b9%bf%e6%b8%af%e5%be%a9%e8%88%88%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>鹿港復興店</b></a></span><span class="tel"><b>04-7745999</b></span><span class="add"><b>505彰化縣鹿港鎮復興路316號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 和美鹿和店" href="/brandshop-277-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%92%8c%e7%be%8e%e9%b9%bf%e5%92%8c%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>和美鹿和店</b></a></span><span class="tel"><b>04-7569006</b></span><span class="add"><b>508彰化縣和美鎮鹿和路六段369號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 和美店" href="/brandshop-288-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%92%8c%e7%be%8e%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>和美店</b></a></span><span class="tel"><b>04-7573456</b></span><span class="add"><b>508彰化縣和美鎮彰美路六段162號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 員林大同店" href="/brandshop-2208-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%93%a1%e6%9e%97%e5%a4%a7%e5%90%8c%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>員林大同店</b></a></span><span class="tel"><b>04-8315471</b></span><span class="add"><b>510彰化縣員林鎮三民東街242號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 惠來店" href="/brandshop-282-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e6%83%a0%e4%be%86%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>惠來店</b></a></span><span class="tel"><b>04-8393900</b></span><span class="add"><b>510彰化縣員林鎮中山路一段593號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 南門店" href="/brandshop-283-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%8d%97%e9%96%80%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>南門店</b></a></span><span class="tel"><b>04-8394688</b></span><span class="add"><b>510彰化縣員林鎮中正路278號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 靜修店" href="/brandshop-281-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%9d%9c%e4%bf%ae%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>靜修店</b></a></span><span class="tel"><b>04-8391889</b></span><span class="add"><b>510彰化縣員林鎮靜修路24-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 社頭店" href="/brandshop-284-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e7%a4%be%e9%a0%ad%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>社頭店</b></a></span><span class="tel"><b>04-8728562</b></span><span class="add"><b>511彰化縣社頭鄉社斗路一段243號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 永靖店" href="/brandshop-285-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e6%b0%b8%e9%9d%96%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>永靖店</b></a></span><span class="tel"><b>04-8248848</b></span><span class="add"><b>512彰化縣永靖鄉瑚璉路310號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 溪湖店" href="/brandshop-298-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e6%ba%aa%e6%b9%96%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>溪湖店</b></a></span><span class="tel"><b>04-8850388</b></span><span class="add"><b>514彰化縣溪湖鎮彰水路三段290號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 大村店" href="/brandshop-2206-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%a4%a7%e6%9d%91%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>大村店</b></a></span><span class="tel"><b>04-8537900</b></span><span class="add"><b>515彰化縣大村鄉中山路二段244-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 田中店" href="/brandshop-2225-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e7%94%b0%e4%b8%ad%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>田中店</b></a></span><span class="tel"><b>04-8744908</b></span><span class="add"><b>520彰化縣田中鎮斗中路一段66號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 北斗店" href="/brandshop-287-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%8c%97%e6%96%97%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>北斗店</b></a></span><span class="tel"><b>04-8889455</b></span><span class="add"><b>521彰化縣北斗鎮中華路241號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 田尾店" href="/brandshop-286-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e7%94%b0%e5%b0%be%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>田尾店</b></a></span><span class="tel"><b>04-8830601</b></span><span class="add"><b>522彰化縣田尾鄉光復路二段752號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 二林店" href="/brandshop-2220-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e4%ba%8c%e6%9e%97%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>二林店</b></a></span><span class="tel"><b>04-8955050</b></span><span class="add"><b>526彰化縣二林鎮中正路32號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 彰化彰水店" href="/brandshop-5884-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e5%bd%b0%e6%b0%b4%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>彰化彰水店</b></a></span><span class="tel"><b>待網友回報</b></span><span class="add"><b>彰化縣彰化市彰水路84號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 斗南店" href="/brandshop-311-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e6%96%97%e5%8d%97%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>斗南店</b></a></span><span class="tel"><b>05-5978986</b></span><span class="add"><b>630雲林縣斗南鎮文元街15號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 虎尾中正店" href="/brandshop-317-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e8%99%8e%e5%b0%be%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>虎尾中正店</b></a></span><span class="tel"><b>05-6365265</b></span><span class="add"><b>632雲林縣虎尾鎮中正路96號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 斗六中山店" href="/brandshop-315-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e6%96%97%e5%85%ad%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>斗六中山店</b></a></span><span class="tel"><b>05-5362632</b></span><span class="add"><b>640雲林縣斗六市中山路378號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 斗六民生店" href="/brandshop-316-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e6%96%97%e5%85%ad%e6%b0%91%e7%94%9f%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>斗六民生店</b></a></span><span class="tel"><b>05-5373998</b></span><span class="add"><b>640雲林縣斗六市民生路174號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 西螺店" href="/brandshop-314-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e8%a5%bf%e8%9e%ba%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>西螺店</b></a></span><span class="tel"><b>05-5871177</b></span><span class="add"><b>648雲林縣西螺鎮中山路143號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 北港店" href="/brandshop-313-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e5%8c%97%e6%b8%af%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>北港店</b></a></span><span class="tel"><b>05-7730099</b></span><span class="add"><b>651雲林縣北港鎮民主路65號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 朴子店" href="/brandshop-312-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%98%89%e7%be%a9%e7%b8%a3-%e6%9c%b4%e5%ad%90%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>朴子店</b></a></span><span class="tel"><b>05-3709523</b></span><span class="add"><b>613嘉義縣朴子市海通路25號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 民雄店" href="/brandshop-4804-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%98%89%e7%be%a9%e7%b8%a3-%e6%b0%91%e9%9b%84%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>民雄店</b></a></span><span class="tel"><b>05-2065858</b></span><span class="add"><b>621嘉義縣民雄鄉中樂路101號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 嘉義站前店" href="/brandshop-4833-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e7%ab%99%e5%89%8d%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>嘉義站前店</b></a></span><span class="tel"><b>近期開幕</b></span><span class="add"><b>600嘉義市西區仁愛路449號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 嘉義民族店" href="/brandshop-8318-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e6%b0%91%e6%97%8f%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>嘉義民族店</b></a></span><span class="tel"><b>05-2288586</b></span><span class="add"><b>600嘉義市東區民族路453號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 南投民族店" href="/brandshop-303-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8d%97%e6%8a%95%e7%b8%a3-%e5%8d%97%e6%8a%95%e6%b0%91%e6%97%8f%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>南投民族店</b></a></span><span class="tel"><b>049-2239998</b></span><span class="add"><b>540南投縣南投市民族路190號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 南投店" href="/brandshop-302-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8d%97%e6%8a%95%e7%b8%a3-%e5%8d%97%e6%8a%95%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>南投店</b></a></span><span class="tel"><b>049-2201122</b></span><span class="add"><b>540南投縣南投市彰南路一段996號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 草屯中正店" href="/brandshop-300-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8d%97%e6%8a%95%e7%b8%a3-%e8%8d%89%e5%b1%af%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>草屯中正店</b></a></span><span class="tel"><b>049-2310979</b></span><span class="add"><b>542南投縣草屯鎮中正路614號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 草屯虎山店" href="/brandshop-301-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8d%97%e6%8a%95%e7%b8%a3-%e8%8d%89%e5%b1%af%e8%99%8e%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>草屯虎山店</b></a></span><span class="tel"><b>049-2335558</b></span><span class="add"><b>542南投縣草屯鎮虎山路483號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 埔里店" href="/brandshop-305-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8d%97%e6%8a%95%e7%b8%a3-%e5%9f%94%e9%87%8c%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>埔里店</b></a></span><span class="tel"><b>049-2987049</b></span><span class="add"><b>545南投縣埔里鎮中正路381號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 竹山店" href="/brandshop-304-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8d%97%e6%8a%95%e7%b8%a3-%e7%ab%b9%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>竹山店</b></a></span><span class="tel"><b>049-2639077</b></span><span class="add"><b>557南投縣竹山鎮集山路三段1006號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台南民族店" href="/brandshop-4807-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%b0%91%e6%97%8f%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台南民族店</b></a></span><span class="tel"><b>06-2235559</b></span><span class="add"><b>700台南市中西區民族路3段34號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台南府前店" href="/brandshop-7348-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%ba%9c%e5%89%8d%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台南府前店</b></a></span><span class="tel"><b>06-2236585</b></span><span class="add"><b>700台南市中西區府前路二段25號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台南青年店" href="/brandshop-7187-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%9d%92%e5%b9%b4%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台南青年店</b></a></span><span class="tel"><b>06-2225099</b></span><span class="add"><b>700台南市中西區青年路169號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台南大同店" href="/brandshop-7664-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%a4%a7%e5%90%8c%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台南大同店</b></a></span><span class="tel"><b>06-2148666</b></span><span class="add"><b>701台南市東區大同路二段75號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台南東門店" href="/brandshop-7188-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%9d%b1%e9%96%80%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台南東門店</b></a></span><span class="tel"><b>06-2091556</b></span><span class="add"><b>701台南市東區東門路二段265號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台南東寧店" href="/brandshop-306-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%9d%b1%e5%af%a7%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台南東寧店</b></a></span><span class="tel"><b>06-2367600</b></span><span class="add"><b>701台南市東區東寧路408號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台南崇德店" href="/brandshop-2277-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%b4%87%e5%be%b7%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台南崇德店</b></a></span><span class="tel"><b>06-2678068</b></span><span class="add"><b>701台南市東區崇德路457號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台南金華店" href="/brandshop-7314-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%87%91%e8%8f%af%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台南金華店</b></a></span><span class="tel"><b>06-2637726</b></span><span class="add"><b>702台南市南區金華路二段139號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台南公園店" href="/brandshop-2280-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%85%ac%e5%9c%92%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台南公園店</b></a></span><span class="tel"><b>06-2822558</b></span><span class="add"><b>704台南市北區公園路856號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台南文賢店" href="/brandshop-307-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%96%87%e8%b3%a2%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台南文賢店</b></a></span><span class="tel"><b>06-2588882</b></span><span class="add"><b>704台南市北區文賢路271號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台南開元店" href="/brandshop-2279-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%96%8b%e5%85%83%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台南開元店</b></a></span><span class="tel"><b>06-2755077</b></span><span class="add"><b>704台南市北區開元路355-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台南海佃店" href="/brandshop-7313-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%b5%b7%e4%bd%83%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台南海佃店</b></a></span><span class="tel"><b>06-2509666</b></span><span class="add"><b>709台南市安南區海佃路一段233號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 台南奇美店" href="/brandshop-7382-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%a5%87%e7%be%8e%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>台南奇美店</b></a></span><span class="tel"><b>06-2521296</b></span><span class="add"><b>710台南市永康區大武街19號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 永康中正店" href="/brandshop-2282-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>永康中正店</b></a></span><span class="tel"><b>06-2438855</b></span><span class="add"><b>710台南市永康區中正路1002號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 歸仁店" href="/brandshop-2275-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%ad%b8%e4%bb%81%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>歸仁店</b></a></span><span class="tel"><b>06-3301189</b></span><span class="add"><b>711台南市歸仁區中山路二段16號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新營店" href="/brandshop-2283-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e7%87%9f%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新營店</b></a></span><span class="tel"><b>06-6326600</b></span><span class="add"><b>730台南市新營區復興路12號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 善化中正店" href="/brandshop-6589-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%96%84%e5%8c%96%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>善化中正店</b></a></span><span class="tel"><b>06-5830219</b></span><span class="add"><b>741台南市善化區中正路454號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 新市店" href="/brandshop-7600-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e5%b8%82%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>新市店</b></a></span><span class="tel"><b>06-5890933</b></span><span class="add"><b>744台南市新市區中正路181號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 永康崑山店" href="/brandshop-7665-%e5%a4%a7%e8%8b%91%e5%ad%90-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%b4%91%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>永康崑山店</b></a></span><span class="tel"><b>06-2058510</b></span><span class="add"><b>台南市永康區大灣路899號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 高雄六合店" href="/brandshop-3625-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%85%ad%e5%90%88%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>高雄六合店</b></a></span><span class="tel"><b>07-2239800</b></span><span class="add"><b>802高雄市苓雅區六合路42-5號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 高雄文橫店" href="/brandshop-2278-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%96%87%e6%a9%ab%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>高雄文橫店</b></a></span><span class="tel"><b>07-3388900</b></span><span class="add"><b>802高雄市苓雅區文橫二路5號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 高雄自強店" href="/brandshop-8319-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e8%87%aa%e5%bc%b7%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>高雄自強店</b></a></span><span class="tel"><b>07-2692666</b></span><span class="add"><b>802高雄市苓雅區自強三路129號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 高雄文化店" href="/brandshop-7604-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%96%87%e5%8c%96%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>高雄文化店</b></a></span><span class="tel"><b>07-2233275</b></span><span class="add"><b>802高雄市苓雅區廣州一街145-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 高雄大昌店" href="/brandshop-309-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%a4%a7%e6%98%8c%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>高雄大昌店</b></a></span><span class="tel"><b>07-3813335</b></span><span class="add"><b>807高雄市三民區大昌一路2-6號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 高雄陽明店" href="/brandshop-308-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e9%99%bd%e6%98%8e%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>高雄陽明店</b></a></span><span class="tel"><b>07-3803003</b></span><span class="add"><b>807高雄市三民區陽明路153號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 高雄熱河店" href="/brandshop-2276-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e7%86%b1%e6%b2%b3%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>高雄熱河店</b></a></span><span class="tel"><b>07-3120101</b></span><span class="add"><b>807高雄市三民區熱河一街307號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 高雄左大店" href="/brandshop-7598-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%b7%a6%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>高雄左大店</b></a></span><span class="tel"><b>07-5888991</b></span><span class="add"><b>813高雄市左營區左營大路51號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 高雄後昌店" href="/brandshop-310-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%be%8c%e6%98%8c%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>高雄後昌店</b></a></span><span class="tel"><b>07-3630456</b></span><span class="add"><b>813高雄市左營區後昌路695號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 鳳山中山店" href="/brandshop-7172-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>鳳山中山店</b></a></span><span class="tel"><b>07-7405655</b></span><span class="add"><b>830高雄市鳳山區中山路100號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 五甲店" href="/brandshop-4808-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%ab%98%e9%9b%84%e5%b8%82-%e4%ba%94%e7%94%b2%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>五甲店</b></a></span><span class="tel"><b>07-8123566</b></span><span class="add"><b>830高雄市鳳山區五甲三路18號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往大苑子 鳳山青年店" href="/brandshop-7667-%e5%a4%a7%e8%8b%91%e5%ad%90-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e9%9d%92%e5%b9%b4%e5%ba%97.html" class="name">
+										<b>大苑子</b><br>
+										<b>鳳山青年店</b></a></span><span class="tel"><b>07-7777102</b></span><span class="add"><b>830高雄市鳳山區青年路二段204號</b><br></span></li>
+								
+								
+									
+								
+						</div>

@@ -1,0 +1,1890 @@
+<div class="right">
+							<h1><b>茶的魔手 - 全台灣分店門市查詢</b></h1>
+							<div class="sort">
+								
+								
+								<a id="CityTotal" href="brandshop-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>全台灣分店</b></a>
+																
+									<a title="前往茶的魔手基隆市分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%9f%ba%e9%9a%86%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>基隆市</b></a>
+																	
+									<a title="前往茶的魔手台北市分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台北市</b></a>
+																	
+									<a title="前往茶的魔手新北市分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新北市</b></a>
+																	
+									<a title="前往茶的魔手桃園縣分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>桃園縣</b></a>
+																	
+									<a title="前往茶的魔手新竹市分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%96%b0%e7%ab%b9%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新竹市</b></a>
+																	
+									<a title="前往茶的魔手新竹縣分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新竹縣</b></a>
+																	
+									<a title="前往茶的魔手苗栗縣分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e8%8b%97%e6%a0%97%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>苗栗縣</b></a>
+																	
+									<a title="前往茶的魔手台中市分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台中市</b></a>
+																	
+									<a title="前往茶的魔手彰化縣分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>彰化縣</b></a>
+																	
+									<a title="前往茶的魔手雲林縣分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>雲林縣</b></a>
+																	
+									<a title="前往茶的魔手嘉義縣分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%98%89%e7%be%a9%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>嘉義縣</b></a>
+																	
+									<a title="前往茶的魔手嘉義市分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%98%89%e7%be%a9%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>嘉義市</b></a>
+																	
+									<a title="前往茶的魔手南投縣分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8d%97%e6%8a%95%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>南投縣</b></a>
+																	
+									<a title="前往茶的魔手台南市分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台南市</b></a>
+																	
+									<a title="前往茶的魔手高雄市分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>高雄市</b></a>
+																	
+									<a title="前往茶的魔手屏東縣分店門市" href="brandshopcity-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>屏東縣</b></a>
+								
+								
+							</div>
+							<input type="hidden" name="Sel_City" id="Sel_City">
+							
+							
+									
+									
+									<li><span><a title="前往茶的魔手 基隆中山店" href="/brandshop-8134-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%9f%ba%e9%9a%86%e5%b8%82-%e5%9f%ba%e9%9a%86%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>基隆中山店</b></a></span><span class="tel"><b>02-24212161</b></span><span class="add"><b>203基隆市中山區西定路19號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台北永春店" href="/brandshop-7897-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%b0%b8%e6%98%a5%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台北永春店</b></a></span><span class="tel"><b>02-27532485</b></span><span class="add"><b>110台北市信義區忠孝東路五段423巷51號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台北星雲店" href="/brandshop-7896-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%98%9f%e9%9b%b2%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台北星雲店</b></a></span><span class="tel"><b>02-87917786</b></span><span class="add"><b>114台北市內湖區星雲街19號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 板橋國慶店" href="/brandshop-8140-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9d%bf%e6%a9%8b%e5%9c%8b%e6%85%b6%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>板橋國慶店</b></a></span><span class="tel"><b>02-89512846</b></span><span class="add"><b>220新北市板橋區國慶路166號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 中和民享店" href="/brandshop-8139-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%ad%e5%92%8c%e6%b0%91%e4%ba%ab%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>中和民享店</b></a></span><span class="tel"><b>02-8221-5432</b></span><span class="add"><b>235新北市中和區民享街66號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 三重文化北店" href="/brandshop-8138-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%89%e9%87%8d%e6%96%87%e5%8c%96%e5%8c%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>三重文化北店</b></a></span><span class="tel"><b>02-29717666</b></span><span class="add"><b>241新北市三重區文化北路94號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新莊五工店" href="/brandshop-8141-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e8%8e%8a%e4%ba%94%e5%b7%a5%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新莊五工店</b></a></span><span class="tel"><b>02-22980268</b></span><span class="add"><b>242新北市新莊區五工三路99號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 桃園中正店" href="/brandshop-8102-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>桃園中正店</b></a></span><span class="tel"><b>03-325-0003</b></span><span class="add"><b>330桃園縣桃園市中正路624號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 桃園中華店" href="/brandshop-8103-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>桃園中華店</b></a></span><span class="tel"><b>03-3366616</b></span><span class="add"><b>330桃園縣桃園市中華路152號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 桃園秀山店" href="/brandshop-8269-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e7%a7%80%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>桃園秀山店</b></a></span><span class="tel"><b>03-3322238</b></span><span class="add"><b>330桃園縣桃園市秀山路105號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 龜山山鶯店" href="/brandshop-8105-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%be%9c%e5%b1%b1%e5%b1%b1%e9%b6%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>龜山山鶯店</b></a></span><span class="tel"><b>03-3191693</b></span><span class="add"><b>333桃園縣龜山鄉山鶯路156-4號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 桃園桃鶯店" href="/brandshop-8104-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e6%a1%83%e9%b6%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>桃園桃鶯店</b></a></span><span class="tel"><b>待網友回報</b></span><span class="add"><b>334桃園縣八德市桃鶯路118號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新竹科園店" href="/brandshop-8143-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e7%a7%91%e5%9c%92%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新竹科園店</b></a></span><span class="tel"><b>03-5784073</b></span><span class="add"><b>300新竹市東區民有一街1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新竹建中店" href="/brandshop-8144-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e5%bb%ba%e4%b8%ad%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新竹建中店</b></a></span><span class="tel"><b>03-5716199</b></span><span class="add"><b>300新竹市東區建中一路19號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 竹北自強南店" href="/brandshop-8146-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e7%ab%b9%e5%8c%97%e8%87%aa%e5%bc%b7%e5%8d%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>竹北自強南店</b></a></span><span class="tel"><b>03-6683189</b></span><span class="add"><b>302新竹縣竹北市自強南路169號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新竹竹東店" href="/brandshop-8148-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e6%96%b0%e7%ab%b9%e7%ab%b9%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新竹竹東店</b></a></span><span class="tel"><b>03-5100281</b></span><span class="add"><b>310新竹縣竹東鎮商華街60號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 竹東中興店" href="/brandshop-8147-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e7%ab%b9%e6%9d%b1%e4%b8%ad%e8%88%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>竹東中興店</b></a></span><span class="tel"><b>03-5833656</b></span><span class="add"><b>新竹縣竹東鎮中興三段245巷2號 </b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 苗栗至公店" href="/brandshop-8101-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e8%8b%97%e6%a0%97%e7%b8%a3-%e8%8b%97%e6%a0%97%e8%87%b3%e5%85%ac%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>苗栗至公店</b></a></span><span class="tel"><b>03-7371999</b></span><span class="add"><b>360苗栗縣苗栗市至公路154號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台中十甲店" href="/brandshop-7889-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%8d%81%e7%94%b2%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台中十甲店</b></a></span><span class="tel"><b>04-22135522</b></span><span class="add"><b>401台中市東區十甲路348號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台中學府店" href="/brandshop-7891-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%ad%b8%e5%ba%9c%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台中學府店</b></a></span><span class="tel"><b>04-22202366</b></span><span class="add"><b>402台中市南區學府路169號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台中精誠店" href="/brandshop-7887-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e7%b2%be%e8%aa%a0%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台中精誠店</b></a></span><span class="tel"><b>04-24731855</b></span><span class="add"><b>403台中市西區精誠路345號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台中北平店" href="/brandshop-7884-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%8c%97%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台中北平店</b></a></span><span class="tel"><b>04-22953666</b></span><span class="add"><b>404台中市北區北平路二段100-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台中北平店" href="/brandshop-8200-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%8c%97%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台中北平店</b></a></span><span class="tel"><b>04-22953666</b></span><span class="add"><b>404台中市北區北平路二段100-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 逢甲文華店" href="/brandshop-7885-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%80%a2%e7%94%b2%e6%96%87%e8%8f%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>逢甲文華店</b></a></span><span class="tel"><b>04-24521169</b></span><span class="add"><b>407台中市西屯區文華路127巷9號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台中西屯店" href="/brandshop-7886-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e8%a5%bf%e5%b1%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台中西屯店</b></a></span><span class="tel"><b>04-24521152</b></span><span class="add"><b>407台中市西屯區西屯路二段269-49號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台中東興店" href="/brandshop-7890-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%9d%b1%e8%88%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台中東興店</b></a></span><span class="tel"><b>04-24725100　</b></span><span class="add"><b>408台中市南屯區東興路二段266號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 大里仁化店" href="/brandshop-8194-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e9%87%8c%e4%bb%81%e5%8c%96%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>大里仁化店</b></a></span><span class="tel"><b>04-24915536</b></span><span class="add"><b>412台中市大里區仁化路584號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 大里金塗城店" href="/brandshop-8193-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e9%87%8c%e9%87%91%e5%a1%97%e5%9f%8e%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>大里金塗城店</b></a></span><span class="tel"><b>04-24930498</b></span><span class="add"><b>412台中市大里區塗城路775號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 大雅學府店" href="/brandshop-7883-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e9%9b%85%e5%ad%b8%e5%ba%9c%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>大雅學府店</b></a></span><span class="tel"><b>04-25669538</b></span><span class="add"><b>428台中市大雅區學府路250巷</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 神岡豐洲店" href="/brandshop-7892-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e7%a5%9e%e5%b2%a1%e8%b1%90%e6%b4%b2%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>神岡豐洲店</b></a></span><span class="tel"><b>04-25205252</b></span><span class="add"><b>429台中市神岡區豐洲路466號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 沙鹿鎮南店" href="/brandshop-7888-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e6%b2%99%e9%b9%bf%e9%8e%ae%e5%8d%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>沙鹿鎮南店</b></a></span><span class="tel"><b>04-26651172</b></span><span class="add"><b>433台中市沙鹿區鎮南路二段602號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 龍井中央店" href="/brandshop-7895-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%be%8d%e4%ba%95%e4%b8%ad%e5%a4%ae%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>龍井中央店</b></a></span><span class="tel"><b>04-2630-9995</b></span><span class="add"><b>434台中市龍井區中央路二段65號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 梧棲中央店" href="/brandshop-7893-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e6%a2%a7%e6%a3%b2%e4%b8%ad%e5%a4%ae%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>梧棲中央店</b></a></span><span class="tel"><b>04-26569888</b></span><span class="add"><b>435台中市梧棲區中央路一段915號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 大雅雅潭店" href="/brandshop-7882-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e9%9b%85%e9%9b%85%e6%bd%ad%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>大雅雅潭店</b></a></span><span class="tel"><b>04-25608727</b></span><span class="add"><b>台中市大雅區雅潭路164號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 彰化大埔店" href="/brandshop-8160-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e5%a4%a7%e5%9f%94%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>彰化大埔店</b></a></span><span class="tel"><b>04-7110867</b></span><span class="add"><b>500彰化縣彰化市大埔路628號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 彰化南郭店" href="/brandshop-8159-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e5%8d%97%e9%83%ad%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>彰化南郭店</b></a></span><span class="tel"><b>04-7277786</b></span><span class="add"><b>500彰化縣彰化市南郭路一段226-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 彰化彰美店" href="/brandshop-8161-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e5%bd%b0%e7%be%8e%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>彰化彰美店</b></a></span><span class="tel"><b>04-7287647</b></span><span class="add"><b>500彰化縣彰化市彰美路一段231號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 鹿港民生店" href="/brandshop-8168-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%b9%bf%e6%b8%af%e6%b0%91%e7%94%9f%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>鹿港民生店</b></a></span><span class="tel"><b>04-7772666</b></span><span class="add"><b>505彰化縣鹿港鎮民生路120號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 福興彰水店" href="/brandshop-8169-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e7%a6%8f%e8%88%88%e5%bd%b0%e6%b0%b4%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>福興彰水店</b></a></span><span class="tel"><b>04-7698228</b></span><span class="add"><b>506彰化縣福興鄉彰水路96號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 員林員水店" href="/brandshop-8166-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%93%a1%e6%9e%97%e5%93%a1%e6%b0%b4%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>員林員水店</b></a></span><span class="tel"><b>04-8390016</b></span><span class="add"><b>510彰化縣員林鎮員水路二段521號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 員林靜修店" href="/brandshop-8167-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%93%a1%e6%9e%97%e9%9d%9c%e4%bf%ae%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>員林靜修店</b></a></span><span class="tel"><b>04-8391089</b></span><span class="add"><b>510彰化縣員林鎮靜修路49-4號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 田中中州店" href="/brandshop-8164-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e7%94%b0%e4%b8%ad%e4%b8%ad%e5%b7%9e%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>田中中州店</b></a></span><span class="tel"><b>04-8761181</b></span><span class="add"><b>520彰化縣田中鎮中州路一段134號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 北斗中華店" href="/brandshop-8163-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%8c%97%e6%96%97%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>北斗中華店</b></a></span><span class="tel"><b>04-8883611</b></span><span class="add"><b>521彰化縣北斗鎮中華路351號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 二林新生店" href="/brandshop-8162-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e4%ba%8c%e6%9e%97%e6%96%b0%e7%94%9f%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>二林新生店</b></a></span><span class="tel"><b>04-8962306</b></span><span class="add"><b>526彰化縣二林鎮新生路66號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 花壇中山店" href="/brandshop-8165-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e8%8a%b1%e5%a3%87%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>花壇中山店</b></a></span><span class="tel"><b>04-7868199</b></span><span class="add"><b>彰化縣花壇鄉中山路二段18號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 斗六上海店" href="/brandshop-8136-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e6%96%97%e5%85%ad%e4%b8%8a%e6%b5%b7%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>斗六上海店</b></a></span><span class="tel"><b>05-5377665</b></span><span class="add"><b>640雲林縣斗六市上海路258號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 西螺中山店" href="/brandshop-8137-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e8%a5%bf%e8%9e%ba%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>西螺中山店</b></a></span><span class="tel"><b>05-5876267</b></span><span class="add"><b>648雲林縣西螺鎮中山路77號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 二崙油車店" href="/brandshop-8135-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e4%ba%8c%e5%b4%99%e6%b2%b9%e8%bb%8a%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>二崙油車店</b></a></span><span class="tel"><b>05-5980707</b></span><span class="add"><b>649雲林縣二崙鄉成功路58號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 嘉義中埔中山店" href="/brandshop-8153-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%98%89%e7%be%a9%e7%b8%a3-%e5%98%89%e7%be%a9%e4%b8%ad%e5%9f%94%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>嘉義中埔中山店</b></a></span><span class="tel"><b>05-2301555</b></span><span class="add"><b>606嘉義縣中埔鄉中山路五段726號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 水上中山店" href="/brandshop-8154-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%98%89%e7%be%a9%e7%b8%a3-%e6%b0%b4%e4%b8%8a%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>水上中山店</b></a></span><span class="tel"><b>05-2681777</b></span><span class="add"><b>608嘉義縣水上鄉中山路二段311號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 民雄文化店" href="/brandshop-8156-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%98%89%e7%be%a9%e7%b8%a3-%e6%b0%91%e9%9b%84%e6%96%87%e5%8c%96%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>民雄文化店</b></a></span><span class="tel"><b>05-2266776</b></span><span class="add"><b>621嘉義縣民雄鄉文化路5-3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 嘉義水上中庄店" href="/brandshop-8155-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%98%89%e7%be%a9%e7%b8%a3-%e5%98%89%e7%be%a9%e6%b0%b4%e4%b8%8a%e4%b8%ad%e5%ba%84%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>嘉義水上中庄店</b></a></span><span class="tel"><b>05-2892888</b></span><span class="add"><b>嘉義縣水上鄉忠和村70之37號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 民雄埤角店" href="/brandshop-8157-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%98%89%e7%be%a9%e7%b8%a3-%e6%b0%91%e9%9b%84%e5%9f%a4%e8%a7%92%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>民雄埤角店</b></a></span><span class="tel"><b>05-2212388</b></span><span class="add"><b>嘉義縣民雄鄉福樂村埤角372號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 嘉義鹿草店" href="/brandshop-8158-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%98%89%e7%be%a9%e7%b8%a3-%e5%98%89%e7%be%a9%e9%b9%bf%e8%8d%89%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>嘉義鹿草店</b></a></span><span class="tel"><b>05-3752888</b></span><span class="add"><b>嘉義縣鹿草鄉西井村526號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 嘉義民生南店" href="/brandshop-8149-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e6%b0%91%e7%94%9f%e5%8d%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>嘉義民生南店</b></a></span><span class="tel"><b>05-2357555</b></span><span class="add"><b>600嘉義市民生南路471號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 嘉義興業店" href="/brandshop-8151-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e8%88%88%e6%a5%ad%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>嘉義興業店</b></a></span><span class="tel"><b>05-2831888</b></span><span class="add"><b>600嘉義市西區興業西路278號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 嘉義吳鳳店" href="/brandshop-8152-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e5%90%b3%e9%b3%b3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>嘉義吳鳳店</b></a></span><span class="tel"><b>05-2290555</b></span><span class="add"><b>嘉義市東區吳鳳南路196號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 嘉義中埔店" href="/brandshop-8150-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e4%b8%ad%e5%9f%94%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>嘉義中埔店</b></a></span><span class="tel"><b>05-2300661</b></span><span class="add"><b>嘉義市保安二路158號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 南投彰南店" href="/brandshop-8091-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8d%97%e6%8a%95%e7%b8%a3-%e5%8d%97%e6%8a%95%e5%bd%b0%e5%8d%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>南投彰南店</b></a></span><span class="tel"><b>049-2207930</b></span><span class="add"><b>540南投縣南投市彰南路一段972號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 草屯中山店" href="/brandshop-8093-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8d%97%e6%8a%95%e7%b8%a3-%e8%8d%89%e5%b1%af%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>草屯中山店</b></a></span><span class="tel"><b>049-2321979</b></span><span class="add"><b>542南投縣草屯鎮中山街127號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 名間南雅店" href="/brandshop-8092-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8d%97%e6%8a%95%e7%b8%a3-%e5%90%8d%e9%96%93%e5%8d%97%e9%9b%85%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>名間南雅店</b></a></span><span class="tel"><b>049-2736109</b></span><span class="add"><b>551南投縣名間鄉南雅街148號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 中西中山店" href="/brandshop-7901-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%b8%ad%e8%a5%bf%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>中西中山店</b></a></span><span class="tel"><b>06-2253966</b></span><span class="add"><b>700台南市中西區中山路125-70號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 中西公園店" href="/brandshop-7902-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%b8%ad%e8%a5%bf%e5%85%ac%e5%9c%92%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>中西公園店</b></a></span><span class="tel"><b>06-2527661</b></span><span class="add"><b>700台南市中西區公園路1070號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 中西民族店385" href="/brandshop-7904-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%b8%ad%e8%a5%bf%e6%b0%91%e6%97%8f%e5%ba%97385.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>中西民族店385</b></a></span><span class="tel"><b>06-2212668</b></span><span class="add"><b>700台南市中西區民族路二段385號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 中西民族店270" href="/brandshop-7903-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%b8%ad%e8%a5%bf%e6%b0%91%e6%97%8f%e5%ba%97270.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>中西民族店270</b></a></span><span class="tel"><b>06-2211483</b></span><span class="add"><b>700台南市中西區民族路三段270號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 中西民權店" href="/brandshop-7905-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%b8%ad%e8%a5%bf%e6%b0%91%e6%ac%8a%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>中西民權店</b></a></span><span class="tel"><b>06-3583970</b></span><span class="add"><b>700台南市中西區民權路三段464號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 中西成功店" href="/brandshop-7906-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%b8%ad%e8%a5%bf%e6%88%90%e5%8a%9f%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>中西成功店</b></a></span><span class="tel"><b>06-2216850</b></span><span class="add"><b>700台南市中西區成功路187號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 中西西賢一店" href="/brandshop-7907-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%b8%ad%e8%a5%bf%e8%a5%bf%e8%b3%a2%e4%b8%80%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>中西西賢一店</b></a></span><span class="tel"><b>06-3507991</b></span><span class="add"><b>700台南市中西區西賢一街102號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南府中店" href="/brandshop-7910-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%ba%9c%e4%b8%ad%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南府中店</b></a></span><span class="tel"><b>06-2203926</b></span><span class="add"><b>700台南市中西區府中街81號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 中西府前店" href="/brandshop-7908-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%b8%ad%e8%a5%bf%e5%ba%9c%e5%89%8d%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>中西府前店</b></a></span><span class="tel"><b>06-2266579</b></span><span class="add"><b>700台南市中西區府前路二段36號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 中西金華店" href="/brandshop-7909-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%b8%ad%e8%a5%bf%e9%87%91%e8%8f%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>中西金華店</b></a></span><span class="tel"><b>06-2295991</b></span><span class="add"><b>700台南市中西區金華路三段249號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南大同店6" href="/brandshop-8024-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%a4%a7%e5%90%8c%e5%ba%976.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南大同店6</b></a></span><span class="tel"><b>06-2138025</b></span><span class="add"><b>701台南市東區大同路一段6號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南大同店140" href="/brandshop-8023-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%a4%a7%e5%90%8c%e5%ba%97140.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南大同店140</b></a></span><span class="tel"><b>06-2153266</b></span><span class="add"><b>701台南市東區大同路二段140號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 成功大學店" href="/brandshop-8170-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%88%90%e5%8a%9f%e5%a4%a7%e5%ad%b8%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>成功大學店</b></a></span><span class="tel"><b>06-2360678</b></span><span class="add"><b>701台南市東區大學路西段37號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南小東店" href="/brandshop-8025-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%b0%8f%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南小東店</b></a></span><span class="tel"><b>06-2377388</b></span><span class="add"><b>701台南市東區小東路384號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南中華東店" href="/brandshop-8026-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e4%b8%ad%e8%8f%af%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南中華東店</b></a></span><span class="tel"><b>06-3361689</b></span><span class="add"><b>701台南市東區中華東路二段205號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南仁東店" href="/brandshop-8027-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e4%bb%81%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南仁東店</b></a></span><span class="tel"><b>06-2608777</b></span><span class="add"><b>701台南市東區仁東街26號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南光明店" href="/brandshop-8028-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%85%89%e6%98%8e%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南光明店</b></a></span><span class="tel"><b>06-2080972</b></span><span class="add"><b>701台南市東區光明街177號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南成大店" href="/brandshop-8029-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%88%90%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南成大店</b></a></span><span class="tel"><b>06-2366617</b></span><span class="add"><b>701台南市東區育樂街59號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南東安店" href="/brandshop-8030-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%9d%b1%e5%ae%89%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南東安店</b></a></span><span class="tel"><b>06-2099177</b></span><span class="add"><b>701台南市東區東安路15號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南東門店258" href="/brandshop-8032-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%9d%b1%e9%96%80%e5%ba%97258.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南東門店258</b></a></span><span class="tel"><b>06-2893926</b></span><span class="add"><b>701台南市東區東門路二段258號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南東門店161" href="/brandshop-8031-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%9d%b1%e9%96%80%e5%ba%97161.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南東門店161</b></a></span><span class="tel"><b>06-2897833</b></span><span class="add"><b>701台南市東區東門路三段161號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南東寧店" href="/brandshop-8033-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%9d%b1%e5%af%a7%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南東寧店</b></a></span><span class="tel"><b>06-2099167</b></span><span class="add"><b>701台南市東區東寧路336-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南長榮店" href="/brandshop-8034-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%95%b7%e6%a6%ae%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南長榮店</b></a></span><span class="tel"><b>06-2089111</b></span><span class="add"><b>701台南市東區長榮路三段18號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南青年店" href="/brandshop-8035-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%9d%92%e5%b9%b4%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南青年店</b></a></span><span class="tel"><b>06-2006123</b></span><span class="add"><b>701台南市東區青年路253號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南崇明店37" href="/brandshop-8036-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%b4%87%e6%98%8e%e5%ba%9737.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南崇明店37</b></a></span><span class="tel"><b>06-2672916</b></span><span class="add"><b>701台南市東區崇明路37號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南崇明店632" href="/brandshop-8037-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%b4%87%e6%98%8e%e5%ba%97632.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南崇明店632</b></a></span><span class="tel"><b>06-2909292</b></span><span class="add"><b>701台南市東區崇明路632號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南崇德店1049" href="/brandshop-8038-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%b4%87%e5%be%b7%e5%ba%971049.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南崇德店1049</b></a></span><span class="tel"><b>06-2897795</b></span><span class="add"><b>701台南市東區崇德路1049號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南崇德店287" href="/brandshop-8039-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%b4%87%e5%be%b7%e5%ba%97287.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南崇德店287</b></a></span><span class="tel"><b>06-3362909</b></span><span class="add"><b>701台南市東區崇德路287號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南崇德店655" href="/brandshop-8040-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%b4%87%e5%be%b7%e5%ba%97655.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南崇德店655</b></a></span><span class="tel"><b>06-3368470</b></span><span class="add"><b>701台南市東區崇德路665號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南勝利店" href="/brandshop-8041-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%8b%9d%e5%88%a9%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南勝利店</b></a></span><span class="tel"><b>06-2742617</b></span><span class="add"><b>701台南市東區勝利路31號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南裕文店" href="/brandshop-8042-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e8%a3%95%e6%96%87%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南裕文店</b></a></span><span class="tel"><b>06-2891239</b></span><span class="add"><b>701台南市東區裕文路7號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南裕信店" href="/brandshop-8043-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e8%a3%95%e4%bf%a1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南裕信店</b></a></span><span class="tel"><b>06-3315799</b></span><span class="add"><b>701台南市東區裕信路437號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南裕農店" href="/brandshop-8044-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e8%a3%95%e8%be%b2%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南裕農店</b></a></span><span class="tel"><b>06-2362699</b></span><span class="add"><b>701台南市東區裕農路611-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南衛國店" href="/brandshop-8045-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e8%a1%9b%e5%9c%8b%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南衛國店</b></a></span><span class="tel"><b>06-2003926</b></span><span class="add"><b>701台南市東區衛國街106巷17弄66號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南大成店" href="/brandshop-8046-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%a4%a7%e6%88%90%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南大成店</b></a></span><span class="tel"><b>06-2921515</b></span><span class="add"><b>702台南市南區大成路二段58號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南中華西店" href="/brandshop-8047-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e4%b8%ad%e8%8f%af%e8%a5%bf%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南中華西店</b></a></span><span class="tel"><b>06-2617666</b></span><span class="add"><b>702台南市南區中華西路一段186號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南中華南店176" href="/brandshop-8048-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e4%b8%ad%e8%8f%af%e5%8d%97%e5%ba%97176.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南中華南店176</b></a></span><span class="tel"><b>06-2151727</b></span><span class="add"><b>702台南市南區中華南路一段176號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南中華南店231" href="/brandshop-8049-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e4%b8%ad%e8%8f%af%e5%8d%97%e5%ba%97231.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南中華南店231</b></a></span><span class="tel"><b>06-2626555</b></span><span class="add"><b>702台南市南區中華南路二段231號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南文南店" href="/brandshop-8058-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%96%87%e5%8d%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南文南店</b></a></span><span class="tel"><b>06-2613816</b></span><span class="add"><b>702台南市南區文南路314號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南永安店" href="/brandshop-8050-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%b0%b8%e5%ae%89%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南永安店</b></a></span><span class="tel"><b>06-2912525</b></span><span class="add"><b>702台南市南區永安街280號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南明興店" href="/brandshop-8051-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%98%8e%e8%88%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南明興店</b></a></span><span class="tel"><b>06-2620882</b></span><span class="add"><b>702台南市南區明興路625-3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南金華店262" href="/brandshop-8052-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%87%91%e8%8f%af%e5%ba%97262.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南金華店262</b></a></span><span class="tel"><b>06-2655388</b></span><span class="add"><b>702台南市南區金華路一段262號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南金華店5" href="/brandshop-8053-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%87%91%e8%8f%af%e5%ba%975.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南金華店5</b></a></span><span class="tel"><b>06-2631637</b></span><span class="add"><b>702台南市南區金華路二段9巷2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南夏林店" href="/brandshop-8054-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%a4%8f%e6%9e%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南夏林店</b></a></span><span class="tel"><b>06-2219841</b></span><span class="add"><b>702台南市南區夏林路72號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南健康店178" href="/brandshop-8055-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%81%a5%e5%ba%b7%e5%ba%97178.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南健康店178</b></a></span><span class="tel"><b>06-2141155</b></span><span class="add"><b>702台南市南區健康路一段178號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南健康店422" href="/brandshop-8056-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%81%a5%e5%ba%b7%e5%ba%97422.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南健康店422</b></a></span><span class="tel"><b>06-2133323</b></span><span class="add"><b>702台南市南區健康路一段422號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南新建店" href="/brandshop-8057-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%96%b0%e5%bb%ba%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南新建店</b></a></span><span class="tel"><b>06-2634513</b></span><span class="add"><b>702台南市南區新建路26巷1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南灣裡店" href="/brandshop-8059-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e7%81%a3%e8%a3%a1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南灣裡店</b></a></span><span class="tel"><b>06-2963926</b></span><span class="add"><b>702台南市南區灣裡路321號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南大港店" href="/brandshop-7924-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%a4%a7%e6%b8%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南大港店</b></a></span><span class="tel"><b>06-2599233</b></span><span class="add"><b>704台南市北區大港街77號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南大興店" href="/brandshop-7925-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%a4%a7%e8%88%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南大興店</b></a></span><span class="tel"><b>06-3589301</b></span><span class="add"><b>704台南市北區大興街574號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南中華北店" href="/brandshop-7926-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e4%b8%ad%e8%8f%af%e5%8c%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南中華北店</b></a></span><span class="tel"><b>06-3506655</b></span><span class="add"><b>704台南市北區中華北路一段28號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南公園店" href="/brandshop-7927-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%85%ac%e5%9c%92%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南公園店</b></a></span><span class="tel"><b>06-2835015</b></span><span class="add"><b>704台南市北區公園路716號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南文賢店" href="/brandshop-7928-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%96%87%e8%b3%a2%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南文賢店</b></a></span><span class="tel"><b>06-3501506</b></span><span class="add"><b>704台南市北區文賢路319號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南北門店" href="/brandshop-7929-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%8c%97%e9%96%80%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南北門店</b></a></span><span class="tel"><b>06-2813888</b></span><span class="add"><b>704台南市北區北門路二段549號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南北園店" href="/brandshop-7930-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%8c%97%e5%9c%92%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南北園店</b></a></span><span class="tel"><b>06-2008119</b></span><span class="add"><b>704台南市北區北園街42-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南民德店" href="/brandshop-7931-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%b0%91%e5%be%b7%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南民德店</b></a></span><span class="tel"><b>06-3506708</b></span><span class="add"><b>704台南市北區民德路77號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南西門店" href="/brandshop-7932-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e8%a5%bf%e9%96%80%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南西門店</b></a></span><span class="tel"><b>06-2825959</b></span><span class="add"><b>704台南市北區西門路四段455號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南育德店" href="/brandshop-7933-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e8%82%b2%e5%be%b7%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南育德店</b></a></span><span class="tel"><b>06-2831399</b></span><span class="add"><b>704台南市北區育德路452號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南和緯店" href="/brandshop-7934-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%92%8c%e7%b7%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南和緯店</b></a></span><span class="tel"><b>06-2592288</b></span><span class="add"><b>704台南市北區和緯路五段56號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南林森店" href="/brandshop-7935-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%9e%97%e6%a3%ae%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南林森店</b></a></span><span class="tel"><b>06-2004070</b></span><span class="add"><b>704台南市北區林森路3段90號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南海安店" href="/brandshop-7936-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%b5%b7%e5%ae%89%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南海安店</b></a></span><span class="tel"><b>06-2816663</b></span><span class="add"><b>704台南市北區海安路三段688號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南開元店" href="/brandshop-7937-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%96%8b%e5%85%83%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南開元店</b></a></span><span class="tel"><b>06-2098789</b></span><span class="add"><b>704台南市北區開元路160號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南臨安店" href="/brandshop-7938-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e8%87%a8%e5%ae%89%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南臨安店</b></a></span><span class="tel"><b>06-2266199</b></span><span class="add"><b>704台南市北區臨安路二段86號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安平文平店420" href="/brandshop-7972-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%b9%b3%e6%96%87%e5%b9%b3%e5%ba%97420.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安平文平店420</b></a></span><span class="tel"><b>06-2972118</b></span><span class="add"><b>708台南市安平區文平路420號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安平安平店722" href="/brandshop-7973-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%b9%b3%e5%ae%89%e5%b9%b3%e5%ba%97722.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安平安平店722</b></a></span><span class="tel"><b>06-2238176</b></span><span class="add"><b>708台南市安平區安平路722號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安平府前店" href="/brandshop-7974-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%b9%b3%e5%ba%9c%e5%89%8d%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安平府前店</b></a></span><span class="tel"><b>06-2952661</b></span><span class="add"><b>708台南市安平區府前路二段504號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安平郡平店" href="/brandshop-7975-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%b9%b3%e9%83%a1%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安平郡平店</b></a></span><span class="tel"><b>06-2939011</b></span><span class="add"><b>708台南市安平區郡平路170號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安平華平店" href="/brandshop-7976-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%b9%b3%e8%8f%af%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安平華平店</b></a></span><span class="tel"><b>06-2951597</b></span><span class="add"><b>708台南市安平區華平路74號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安平慶平店" href="/brandshop-7977-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%b9%b3%e6%85%b6%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安平慶平店</b></a></span><span class="tel"><b>06-2951515</b></span><span class="add"><b>708台南市安平區慶平路469號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南大安店" href="/brandshop-7983-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%a4%a7%e5%ae%89%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南大安店</b></a></span><span class="tel"><b>06-2478923</b></span><span class="add"><b>709台南市安南區大安街27號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南公學店" href="/brandshop-7984-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%85%ac%e5%ad%b8%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南公學店</b></a></span><span class="tel"><b>06-2456996</b></span><span class="add"><b>709台南市安南區公學路四段189之1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南北安店66" href="/brandshop-7986-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%8c%97%e5%ae%89%e5%ba%9766.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南北安店66</b></a></span><span class="tel"><b>06-2818226</b></span><span class="add"><b>709台南市安南區北安路二段66號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南北安店408" href="/brandshop-7985-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%8c%97%e5%ae%89%e5%ba%97408.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南北安店408</b></a></span><span class="tel"><b>06-3553311</b></span><span class="add"><b>709台南市安南區北安路三段408號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南本原店" href="/brandshop-7987-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e6%9c%ac%e5%8e%9f%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南本原店</b></a></span><span class="tel"><b>06-2565075</b></span><span class="add"><b>709台南市安南區本原街一段97巷190號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南同安店" href="/brandshop-7988-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%90%8c%e5%ae%89%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南同安店</b></a></span><span class="tel"><b>06-2470686</b></span><span class="add"><b>709台南市安南區同安路5號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南安中店235" href="/brandshop-7989-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ae%89%e4%b8%ad%e5%ba%97235.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南安中店235</b></a></span><span class="tel"><b>06-2471633</b></span><span class="add"><b>709台南市安南區安中四段235號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南安中店624" href="/brandshop-7992-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ae%89%e4%b8%ad%e5%ba%97624.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南安中店624</b></a></span><span class="tel"><b>06-2463288</b></span><span class="add"><b>709台南市安南區安中路一段624號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南安中店422" href="/brandshop-7991-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ae%89%e4%b8%ad%e5%ba%97422.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南安中店422</b></a></span><span class="tel"><b>06-2464703</b></span><span class="add"><b>709台南市安南區安中路三段422之1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南安中店301" href="/brandshop-7990-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ae%89%e4%b8%ad%e5%ba%97301.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南安中店301</b></a></span><span class="tel"><b>06-2570499</b></span><span class="add"><b>709台南市安南區安中路六段301-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南安中店631" href="/brandshop-7993-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ae%89%e4%b8%ad%e5%ba%97631.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南安中店631</b></a></span><span class="tel"><b>06-2570480</b></span><span class="add"><b>709台南市安南區安中路六段631號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南安吉店" href="/brandshop-7994-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ae%89%e5%90%89%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南安吉店</b></a></span><span class="tel"><b>06-2560842</b></span><span class="add"><b>709台南市安南區安吉路一段226號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南安和店40" href="/brandshop-8000-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ae%89%e5%92%8c%e5%ba%9740.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南安和店40</b></a></span><span class="tel"><b>06-3565555</b></span><span class="add"><b>709台南市安南區安和路4段40號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南安和店139" href="/brandshop-7996-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ae%89%e5%92%8c%e5%ba%97139.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南安和店139</b></a></span><span class="tel"><b>06-2511678</b></span><span class="add"><b>709台南市安南區安和路一段139號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南安和店287" href="/brandshop-7998-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ae%89%e5%92%8c%e5%ba%97287.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南安和店287</b></a></span><span class="tel"><b>06-2563795</b></span><span class="add"><b>709台南市安南區安和路一段287號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南安和店311" href="/brandshop-7999-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ae%89%e5%92%8c%e5%ba%97311.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南安和店311</b></a></span><span class="tel"><b>06-3558099</b></span><span class="add"><b>709台南市安南區安和路二段311號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南安和店131" href="/brandshop-7995-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ae%89%e5%92%8c%e5%ba%97131.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南安和店131</b></a></span><span class="tel"><b>06-3558777</b></span><span class="add"><b>709台南市安南區安和路五段131號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南安和店26" href="/brandshop-7997-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ae%89%e5%92%8c%e5%ba%9726.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南安和店26</b></a></span><span class="tel"><b>06-3568000</b></span><span class="add"><b>709台南市安南區安和路六段26號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南安富店" href="/brandshop-8001-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ae%89%e5%af%8c%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南安富店</b></a></span><span class="tel"><b>06-3501893</b></span><span class="add"><b>709台南市安南區安富街311號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南府安店" href="/brandshop-8002-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%ba%9c%e5%ae%89%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南府安店</b></a></span><span class="tel"><b>06-3589252</b></span><span class="add"><b>709台南市安南區府安路五段152號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南長和店363" href="/brandshop-8003-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e9%95%b7%e5%92%8c%e5%ba%97363.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南長和店363</b></a></span><span class="tel"><b>06-3555099</b></span><span class="add"><b>709台南市安南區長和路二段12巷363號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南長和店67" href="/brandshop-8004-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e9%95%b7%e5%92%8c%e5%ba%9767.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南長和店67</b></a></span><span class="tel"><b>06-3558799</b></span><span class="add"><b>709台南市安南區長和路三段67號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南長溪店596" href="/brandshop-8006-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e9%95%b7%e6%ba%aa%e5%ba%97596.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南長溪店596</b></a></span><span class="tel"><b>06-2459988</b></span><span class="add"><b>709台南市安南區長溪路二段596號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南長溪店365" href="/brandshop-8005-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e9%95%b7%e6%ba%aa%e5%ba%97365.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南長溪店365</b></a></span><span class="tel"><b>06-2559630</b></span><span class="add"><b>709台南市安南區長溪路三段365號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南海中店" href="/brandshop-8007-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e6%b5%b7%e4%b8%ad%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南海中店</b></a></span><span class="tel"><b>06-2564422</b></span><span class="add"><b>709台南市安南區海中街63號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南海佃店126" href="/brandshop-8008-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e6%b5%b7%e4%bd%83%e5%ba%97126.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南海佃店126</b></a></span><span class="tel"><b>06-2509803</b></span><span class="add"><b>709台南市安南區海佃路一段126號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南海佃店639" href="/brandshop-8010-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e6%b5%b7%e4%bd%83%e5%ba%97639.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南海佃店639</b></a></span><span class="tel"><b>06-2479094</b></span><span class="add"><b>709台南市安南區海佃路二段639號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南海佃店287" href="/brandshop-8009-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e6%b5%b7%e4%bd%83%e5%ba%97287.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南海佃店287</b></a></span><span class="tel"><b>06-2459629</b></span><span class="add"><b>709台南市安南區海佃路三段287號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南郡安店" href="/brandshop-8011-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e9%83%a1%e5%ae%89%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南郡安店</b></a></span><span class="tel"><b>06-3587388</b></span><span class="add"><b>709台南市安南區郡安路六段70號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安南國安店" href="/brandshop-8012-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%8d%97%e5%9c%8b%e5%ae%89%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安南國安店</b></a></span><span class="tel"><b>06-2586237</b></span><span class="add"><b>709台南市安南區國安街155巷22號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 鹽田科工店" href="/brandshop-8013-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%b9%bd%e7%94%b0%e7%a7%91%e5%b7%a5%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>鹽田科工店</b></a></span><span class="tel"><b>06-3842077</b></span><span class="add"><b>709台南市安南區鹽田路83號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康大仁店" href="/brandshop-7941-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%a4%a7%e4%bb%81%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康大仁店</b></a></span><span class="tel"><b>06-2736347</b></span><span class="add"><b>710台南市永康區大仁街3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康大武店" href="/brandshop-7942-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%a4%a7%e6%ad%a6%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康大武店</b></a></span><span class="tel"><b>06-2526777</b></span><span class="add"><b>710台南市永康區大武街32號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康大橋店" href="/brandshop-7943-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%a4%a7%e6%a9%8b%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康大橋店</b></a></span><span class="tel"><b>06-3038830</b></span><span class="add"><b>710台南市永康區大橋二街96號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康大灣六店" href="/brandshop-7944-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%a4%a7%e7%81%a3%e5%85%ad%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康大灣六店</b></a></span><span class="tel"><b>06-2071177</b></span><span class="add"><b>710台南市永康區大灣六街79號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 大灣二店" href="/brandshop-8171-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%a4%a7%e7%81%a3%e4%ba%8c%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>大灣二店</b></a></span><span class="tel"><b>06-2071122</b></span><span class="add"><b>710台南市永康區大灣路465號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康大灣店" href="/brandshop-7945-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%a4%a7%e7%81%a3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康大灣店</b></a></span><span class="tel"><b>06-2071122</b></span><span class="add"><b>710台南市永康區大灣路465號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康中山北店" href="/brandshop-7946-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e5%b1%b1%e5%8c%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康中山北店</b></a></span><span class="tel"><b>06-2333737</b></span><span class="add"><b>710台南市永康區中山北路439號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康中山東店" href="/brandshop-7947-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e5%b1%b1%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康中山東店</b></a></span><span class="tel"><b>06-3036080</b></span><span class="add"><b>710台南市永康區中山東路222號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康中山南店167" href="/brandshop-7948-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e5%b1%b1%e5%8d%97%e5%ba%97167.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康中山南店167</b></a></span><span class="tel"><b>06-3021118</b></span><span class="add"><b>710台南市永康區中山南路167號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康中山南店476" href="/brandshop-7949-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e5%b1%b1%e5%8d%97%e5%ba%97476.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康中山南店476</b></a></span><span class="tel"><b>06-3027799</b></span><span class="add"><b>710台南市永康區中山南路476號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康中正北店707" href="/brandshop-7950-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e6%ad%a3%e5%8c%97%e5%ba%97707.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康中正北店707</b></a></span><span class="tel"><b>06-2549666</b></span><span class="add"><b>710台南市永康區中正北路707號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康中正北店902" href="/brandshop-7951-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e6%ad%a3%e5%8c%97%e5%ba%97902.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康中正北店902</b></a></span><span class="tel"><b>06-2542777</b></span><span class="add"><b>710台南市永康區中正北路922號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康中正南店" href="/brandshop-7955-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e6%ad%a3%e5%8d%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康中正南店</b></a></span><span class="tel"><b>06-2432616</b></span><span class="add"><b>710台南市永康區中正南路343號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康中正店69" href="/brandshop-7952-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e6%ad%a3%e5%ba%9769.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康中正店69</b></a></span><span class="tel"><b>06-2325029</b></span><span class="add"><b>710台南市永康區中正路69號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康中正店760" href="/brandshop-7953-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e6%ad%a3%e5%ba%97760.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康中正店760</b></a></span><span class="tel"><b>06-2434739</b></span><span class="add"><b>710台南市永康區中正路760號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康中正店962" href="/brandshop-7954-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e6%ad%a3%e5%ba%97962.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康中正店962</b></a></span><span class="tel"><b>06-2438789</b></span><span class="add"><b>710台南市永康區中正路962號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康中華二店" href="/brandshop-7956-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e8%8f%af%e4%ba%8c%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康中華二店</b></a></span><span class="tel"><b>06-3117799</b></span><span class="add"><b>710台南市永康區中華二路375號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康文化店" href="/brandshop-7957-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e6%96%87%e5%8c%96%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康文化店</b></a></span><span class="tel"><b>06-2024162</b></span><span class="add"><b>710台南市永康區文化路257號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康正強店" href="/brandshop-7958-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e6%ad%a3%e5%bc%b7%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康正強店</b></a></span><span class="tel"><b>06-2037867</b></span><span class="add"><b>710台南市永康區正強街196號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康永大店" href="/brandshop-7959-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e6%b0%b8%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康永大店</b></a></span><span class="tel"><b>06-2016166</b></span><span class="add"><b>710台南市永康區永大路二段597號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康永安店" href="/brandshop-7960-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e6%b0%b8%e5%ae%89%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康永安店</b></a></span><span class="tel"><b>06-2533888</b></span><span class="add"><b>710台南市永康區永安路117號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康永明店" href="/brandshop-7961-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e6%b0%b8%e6%98%8e%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康永明店</b></a></span><span class="tel"><b>06-3013288</b></span><span class="add"><b>710台南市永康區永明街112號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康永華店" href="/brandshop-7962-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e6%b0%b8%e8%8f%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康永華店</b></a></span><span class="tel"><b>06-2071331</b></span><span class="add"><b>710台南市永康區永華路117號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康自強店" href="/brandshop-7963-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e8%87%aa%e5%bc%b7%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康自強店</b></a></span><span class="tel"><b>06-2320567</b></span><span class="add"><b>710台南市永康區自強路605號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康尚頂店" href="/brandshop-7964-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%b0%9a%e9%a0%82%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康尚頂店</b></a></span><span class="tel"><b>06-2432118</b></span><span class="add"><b>710台南市永康區尚頂路69號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康南興店" href="/brandshop-7965-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%8d%97%e8%88%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康南興店</b></a></span><span class="tel"><b>06-2721118</b></span><span class="add"><b>710台南市永康區南興路3巷7-9號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康富強店" href="/brandshop-7966-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%af%8c%e5%bc%b7%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康富強店</b></a></span><span class="tel"><b>06-2731286</b></span><span class="add"><b>710台南市永康區富強路二段8號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康復國一店" href="/brandshop-7967-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%be%a9%e5%9c%8b%e4%b8%80%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康復國一店</b></a></span><span class="tel"><b>06-2024420</b></span><span class="add"><b>710台南市永康區復國一路326號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康復興店" href="/brandshop-7968-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%be%a9%e8%88%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康復興店</b></a></span><span class="tel"><b>06-3136208</b></span><span class="add"><b>710台南市永康區復興路291號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永康華興店" href="/brandshop-7969-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e8%8f%af%e8%88%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永康華興店</b></a></span><span class="tel"><b>06-3116677</b></span><span class="add"><b>710台南市永康區華興街131號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 歸仁中山店" href="/brandshop-8083-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%ad%b8%e4%bb%81%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>歸仁中山店</b></a></span><span class="tel"><b>06-3387429</b></span><span class="add"><b>711台南市歸仁區中山路一段353號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 歸仁中正南店" href="/brandshop-8084-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%ad%b8%e4%bb%81%e4%b8%ad%e6%ad%a3%e5%8d%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>歸仁中正南店</b></a></span><span class="tel"><b>06-2390810</b></span><span class="add"><b>711台南市歸仁區中正南路一段62號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 歸仁六甲店" href="/brandshop-7939-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%ad%b8%e4%bb%81%e5%85%ad%e7%94%b2%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>歸仁六甲店</b></a></span><span class="tel"><b>06-3386088</b></span><span class="add"><b>711台南市歸仁區六甲里六甲路223號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 歸仁民生北店" href="/brandshop-8085-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%ad%b8%e4%bb%81%e6%b0%91%e7%94%9f%e5%8c%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>歸仁民生北店</b></a></span><span class="tel"><b>06-3387688</b></span><span class="add"><b>711台南市歸仁區民生北街102號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 歸仁民權北店" href="/brandshop-8086-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%ad%b8%e4%bb%81%e6%b0%91%e6%ac%8a%e5%8c%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>歸仁民權北店</b></a></span><span class="tel"><b>06-3386980</b></span><span class="add"><b>711台南市歸仁區民權北路69號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 歸仁和順店" href="/brandshop-8087-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%ad%b8%e4%bb%81%e5%92%8c%e9%a0%86%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>歸仁和順店</b></a></span><span class="tel"><b>06-2735898</b></span><span class="add"><b>711台南市歸仁區和順路二段356號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 歸仁長榮店" href="/brandshop-8088-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%ad%b8%e4%bb%81%e9%95%b7%e6%a6%ae%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>歸仁長榮店</b></a></span><span class="tel"><b>06-2781393</b></span><span class="add"><b>711台南市歸仁區長榮路一段207號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新化中正店" href="/brandshop-8069-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e5%8c%96%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新化中正店</b></a></span><span class="tel"><b>06-5907399</b></span><span class="add"><b>712台南市新化區中正路345號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新化那菝林店" href="/brandshop-8070-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e5%8c%96%e9%82%a3%e8%8f%9d%e6%9e%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新化那菝林店</b></a></span><span class="tel"><b>06-5912111</b></span><span class="add"><b>712台南市新化區那菝林72號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新化忠孝店" href="/brandshop-8071-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e5%8c%96%e5%bf%a0%e5%ad%9d%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新化忠孝店</b></a></span><span class="tel"><b>06-5970952</b></span><span class="add"><b>712台南市新化區忠孝路189號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 玉井中山店" href="/brandshop-7970-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e7%8e%89%e4%ba%95%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>玉井中山店</b></a></span><span class="tel"><b>06-5749381</b></span><span class="add"><b>714台南市玉井區中山路372號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 楠西茄菝店" href="/brandshop-8081-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%a5%a0%e8%a5%bf%e8%8c%84%e8%8f%9d%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>楠西茄菝店</b></a></span><span class="tel"><b>06-5752996</b></span><span class="add"><b>715台南市楠西區茄拔路163號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 仁德二仁店" href="/brandshop-7911-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e4%ba%8c%e4%bb%81%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>仁德二仁店</b></a></span><span class="tel"><b>06-2663861</b></span><span class="add"><b>717台南市仁德區二仁路一段142號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 仁德中山店" href="/brandshop-7912-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>仁德中山店</b></a></span><span class="tel"><b>06-2705198</b></span><span class="add"><b>717台南市仁德區中山路168號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 仁德中正店211" href="/brandshop-7914-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e4%b8%ad%e6%ad%a3%e5%ba%97211.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>仁德中正店211</b></a></span><span class="tel"><b>06-2664990</b></span><span class="add"><b>717台南市仁德區中正路一段211號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 仁德中正店686" href="/brandshop-7916-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e4%b8%ad%e6%ad%a3%e5%ba%97686.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>仁德中正店686</b></a></span><span class="tel"><b>06-2663399</b></span><span class="add"><b>717台南市仁德區中正路一段686號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 仁德中正店1089" href="/brandshop-7913-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e4%b8%ad%e6%ad%a3%e5%ba%971089.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>仁德中正店1089</b></a></span><span class="tel"><b>06-2496786</b></span><span class="add"><b>717台南市仁德區中正路二段1089號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 仁德中正店460" href="/brandshop-7915-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e4%b8%ad%e6%ad%a3%e5%ba%97460.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>仁德中正店460</b></a></span><span class="tel"><b>06-2703005</b></span><span class="add"><b>717台南市仁德區中正路二段460號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 仁德中正店701" href="/brandshop-7917-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e4%b8%ad%e6%ad%a3%e5%ba%97701.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>仁德中正店701</b></a></span><span class="tel"><b>06-2718898</b></span><span class="add"><b>717台南市仁德區中正路三段701號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 仁德中洲店" href="/brandshop-7918-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e4%b8%ad%e6%b4%b2%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>仁德中洲店</b></a></span><span class="tel"><b>06-2667513</b></span><span class="add"><b>717台南市仁德區中洲276-10號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 仁德太子店" href="/brandshop-7919-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e5%a4%aa%e5%ad%90%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>仁德太子店</b></a></span><span class="tel"><b>06-2721238</b></span><span class="add"><b>717台南市仁德區太子路199號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 仁德文華一店" href="/brandshop-7920-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e6%96%87%e8%8f%af%e4%b8%80%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>仁德文華一店</b></a></span><span class="tel"><b>06-2891120</b></span><span class="add"><b>717台南市仁德區文華一街106號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 仁德正義店" href="/brandshop-7921-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e6%ad%a3%e7%be%a9%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>仁德正義店</b></a></span><span class="tel"><b>06-2702468</b></span><span class="add"><b>717台南市仁德區正義路128號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新田店" href="/brandshop-7922-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e7%94%b0%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新田店</b></a></span><span class="tel"><b>06-2703123</b></span><span class="add"><b>717台南市仁德區勝利路142號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 關廟南雄路店861" href="/brandshop-8090-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%97%9c%e5%bb%9f%e5%8d%97%e9%9b%84%e8%b7%af%e5%ba%97861.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>關廟南雄路店861</b></a></span><span class="tel"><b>06-5961887</b></span><span class="add"><b>718台南市關廟區南雄路一段861號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 關廟南雄路店50" href="/brandshop-8089-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%97%9c%e5%bb%9f%e5%8d%97%e9%9b%84%e8%b7%af%e5%ba%9750.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>關廟南雄路店50</b></a></span><span class="tel"><b>06-5957802</b></span><span class="add"><b>718台南市關廟區南雄路二段50號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 關廟保東店" href="/brandshop-7940-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%97%9c%e5%bb%9f%e4%bf%9d%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>關廟保東店</b></a></span><span class="tel"><b>06-5962658</b></span><span class="add"><b>718台南市關廟區埤頭里保東路123號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 官田中山店" href="/brandshop-8021-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%98%e7%94%b0%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>官田中山店</b></a></span><span class="tel"><b>06-5791111</b></span><span class="add"><b>720台南市官田區中山路一段56號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 麻豆中山店" href="/brandshop-8061-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%ba%bb%e8%b1%86%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>麻豆中山店</b></a></span><span class="tel"><b>06-5718989</b></span><span class="add"><b>721台南市麻豆區中山路153號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 麻豆民權店" href="/brandshop-8062-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%ba%bb%e8%b1%86%e6%b0%91%e6%ac%8a%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>麻豆民權店</b></a></span><span class="tel"><b>06-5726622</b></span><span class="add"><b>721台南市麻豆區民權路10-9號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 麻豆忠孝店" href="/brandshop-8063-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%ba%bb%e8%b1%86%e5%bf%a0%e5%ad%9d%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>麻豆忠孝店</b></a></span><span class="tel"><b>06-5716639</b></span><span class="add"><b>721台南市麻豆區忠孝路23-25號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 佳里仁愛店" href="/brandshop-8015-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bd%b3%e9%87%8c%e4%bb%81%e6%84%9b%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>佳里仁愛店</b></a></span><span class="tel"><b>06-7228772</b></span><span class="add"><b>722台南市佳里區仁愛路374號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 佳里安南店" href="/brandshop-8016-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bd%b3%e9%87%8c%e5%ae%89%e5%8d%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>佳里安南店</b></a></span><span class="tel"><b>06-7210222</b></span><span class="add"><b>722台南市佳里區安南路592號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 佳里延平店" href="/brandshop-8017-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bd%b3%e9%87%8c%e5%bb%b6%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>佳里延平店</b></a></span><span class="tel"><b>06-7233424</b></span><span class="add"><b>722台南市佳里區延平路311號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 佳里忠孝店" href="/brandshop-8018-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bd%b3%e9%87%8c%e5%bf%a0%e5%ad%9d%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>佳里忠孝店</b></a></span><span class="tel"><b>06-7235541</b></span><span class="add"><b>722台南市佳里區忠孝路325號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 佳里進學店" href="/brandshop-8019-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bd%b3%e9%87%8c%e9%80%b2%e5%ad%b8%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>佳里進學店</b></a></span><span class="tel"><b>06-7226660</b></span><span class="add"><b>722台南市佳里區進學路14號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 台南漚汪店" href="/brandshop-8281-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%bc%9a%e6%b1%aa%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>台南漚汪店</b></a></span><span class="tel"><b>06-7940160?</b></span><span class="add"><b>722台南市佳里區新生路285號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 佳里興化店" href="/brandshop-8020-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bd%b3%e9%87%8c%e8%88%88%e5%8c%96%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>佳里興化店</b></a></span><span class="tel"><b>06-7265688</b></span><span class="add"><b>722台南市佳里區興化里442號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 西港中山店" href="/brandshop-8014-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e8%a5%bf%e6%b8%af%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>西港中山店</b></a></span><span class="tel"><b>06-7957768</b></span><span class="add"><b>723台南市西港區中山路277號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 七股大埕店" href="/brandshop-7898-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%b8%83%e8%82%a1%e5%a4%a7%e5%9f%95%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>七股大埕店</b></a></span><span class="tel"><b>06-7872425</b></span><span class="add"><b>724台南市七股區大埕村276號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 將軍汪西華店" href="/brandshop-8060-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%b0%87%e8%bb%8d%e6%b1%aa%e8%a5%bf%e8%8f%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>將軍汪西華店</b></a></span><span class="tel"><b>06-7940160</b></span><span class="add"><b>725台南市將軍區漚汪西華里2-6號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 學甲中正店" href="/brandshop-8082-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ad%b8%e7%94%b2%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>學甲中正店</b></a></span><span class="tel"><b>06-7833345</b></span><span class="add"><b>726台南市學甲區中正路241號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新營三民店" href="/brandshop-8076-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e7%87%9f%e4%b8%89%e6%b0%91%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新營三民店</b></a></span><span class="tel"><b>06-6350056</b></span><span class="add"><b>730台南市新營區三民路112-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新營民治店1" href="/brandshop-8077-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e7%87%9f%e6%b0%91%e6%b2%bb%e5%ba%971.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新營民治店1</b></a></span><span class="tel"><b>06-6372818</b></span><span class="add"><b>730台南市新營區民治路1之8號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新營民治店377" href="/brandshop-8078-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e7%87%9f%e6%b0%91%e6%b2%bb%e5%ba%97377.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新營民治店377</b></a></span><span class="tel"><b>06-6591395</b></span><span class="add"><b>730台南市新營區民治路337號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新營復興店" href="/brandshop-8079-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e7%87%9f%e5%be%a9%e8%88%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新營復興店</b></a></span><span class="tel"><b>06-6372828</b></span><span class="add"><b>730台南市新營區復興路121號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新營新進店" href="/brandshop-8080-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e7%87%9f%e6%96%b0%e9%80%b2%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新營新進店</b></a></span><span class="tel"><b>06-6377111</b></span><span class="add"><b>730台南市新營區新進路二段72號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 白河新生店" href="/brandshop-7971-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e7%99%bd%e6%b2%b3%e6%96%b0%e7%94%9f%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>白河新生店</b></a></span><span class="tel"><b>06-6853336</b></span><span class="add"><b>732台南市白河區新生路6號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 東山中興店" href="/brandshop-8022-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%9d%b1%e5%b1%b1%e4%b8%ad%e8%88%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>東山中興店</b></a></span><span class="tel"><b>06-6800868</b></span><span class="add"><b>733台南市東山區中興路70號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 六甲中正店" href="/brandshop-7923-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%85%ad%e7%94%b2%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>六甲中正店</b></a></span><span class="tel"><b>06-6988333</b></span><span class="add"><b>734台南市六甲區中正路508號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 下營中山店" href="/brandshop-7899-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%b8%8b%e7%87%9f%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>下營中山店</b></a></span><span class="tel"><b>06-897777</b></span><span class="add"><b>735台南市下營區中山路一段38號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 善化三民店" href="/brandshop-8064-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%96%84%e5%8c%96%e4%b8%89%e6%b0%91%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>善化三民店</b></a></span><span class="tel"><b>06-5811572</b></span><span class="add"><b>741台南市善化區三民路1之41號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 善化中山店100" href="/brandshop-8065-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%96%84%e5%8c%96%e4%b8%ad%e5%b1%b1%e5%ba%97100.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>善化中山店100</b></a></span><span class="tel"><b>06-5856789</b></span><span class="add"><b>741台南市善化區中山路100號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 善化中山店422" href="/brandshop-8066-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%96%84%e5%8c%96%e4%b8%ad%e5%b1%b1%e5%ba%97422.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>善化中山店422</b></a></span><span class="tel"><b>06-5816831</b></span><span class="add"><b>741台南市善化區中山路422號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 善化二店" href="/brandshop-8250-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%96%84%e5%8c%96%e4%ba%8c%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>善化二店</b></a></span><span class="tel"><b>06-5839316</b></span><span class="add"><b>741台南市善化區中正路400號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 善化中正店" href="/brandshop-8067-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%96%84%e5%8c%96%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>善化中正店</b></a></span><span class="tel"><b>06-5839316</b></span><span class="add"><b>741台南市善化區中正路400號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 善化興農店" href="/brandshop-8068-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%96%84%e5%8c%96%e8%88%88%e8%be%b2%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>善化興農店</b></a></span><span class="tel"><b>06-5811960</b></span><span class="add"><b>741台南市善化區興農路20號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 山上南洲店" href="/brandshop-7900-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%b1%b1%e4%b8%8a%e5%8d%97%e6%b4%b2%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>山上南洲店</b></a></span><span class="tel"><b>06-5782777</b></span><span class="add"><b>743台南市山上區南洲54號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新市中正店" href="/brandshop-8072-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e5%b8%82%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新市中正店</b></a></span><span class="tel"><b>06-5899626</b></span><span class="add"><b>744台南市新市區中正路274號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新市復興店" href="/brandshop-8073-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e5%b8%82%e5%be%a9%e8%88%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新市復興店</b></a></span><span class="tel"><b>06-5895882</b></span><span class="add"><b>744台南市新市區復興路71號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新市華興店" href="/brandshop-8074-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e5%b8%82%e8%8f%af%e8%88%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新市華興店</b></a></span><span class="tel"><b>06-5011782</b></span><span class="add"><b>744台南市新市區華興街68號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新市豐華店" href="/brandshop-8075-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e5%b8%82%e8%b1%90%e8%8f%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新市豐華店</b></a></span><span class="tel"><b>06-5893870</b></span><span class="add"><b>744台南市新市區豐華村53-10號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安定海寮店" href="/brandshop-7979-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%ae%9a%e6%b5%b7%e5%af%ae%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安定海寮店</b></a></span><span class="tel"><b>06-5931119</b></span><span class="add"><b>745台南市安定區海寮里7之72號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安定港尾店" href="/brandshop-7981-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%ae%9a%e6%b8%af%e5%b0%be%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安定港尾店</b></a></span><span class="tel"><b>06-5976817</b></span><span class="add"><b>745台南市安定區港尾里37-15號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安定蘇林店" href="/brandshop-7982-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%ae%9a%e8%98%87%e6%9e%97%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安定蘇林店</b></a></span><span class="tel"><b>06-5975662</b></span><span class="add"><b>745台南市安定區蘇林里214之1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 六甲中華店" href="/brandshop-8394-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%85%ad%e7%94%b2%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>六甲中華店</b></a></span><span class="tel"><b>06-6993939</b></span><span class="add"><b>台南市六甲區中正路313號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安定六嘉店" href="/brandshop-7978-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%ae%9a%e5%85%ad%e5%98%89%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安定六嘉店</b></a></span><span class="tel"><b>06-5933449</b></span><span class="add"><b>台南市安定區六嘉村39之8號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 安定港口店" href="/brandshop-7980-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%ae%9a%e6%b8%af%e5%8f%a3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>安定港口店</b></a></span><span class="tel"><b>06-5937533</b></span><span class="add"><b>台南市安定區港口村224號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 十二佃店" href="/brandshop-8282-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8d%81%e4%ba%8c%e4%bd%83%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>十二佃店</b></a></span><span class="tel"><b>06-2456996</b></span><span class="add"><b>台南市安南區公學路4段189-1</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新市科學園區店" href="/brandshop-8287-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e5%b8%82%e7%a7%91%e5%ad%b8%e5%9c%92%e5%8d%80%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新市科學園區店</b></a></span><span class="tel"><b>06-5992555</b></span><span class="add"><b>台南市新市區社內里50-126號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 鳳山五福店" href="/brandshop-8122-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e4%ba%94%e7%a6%8f%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>鳳山五福店</b></a></span><span class="tel"><b>待網友回報</b></span><span class="add"><b>800高雄市新興區五福一路114-20號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 新興六合店" href="/brandshop-8121-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%96%b0%e8%88%88%e5%85%ad%e5%90%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>新興六合店</b></a></span><span class="tel"><b>07-2359666</b></span><span class="add"><b>800高雄市新興區六合一路90號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 高雄三多店" href="/brandshop-8116-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e4%b8%89%e5%a4%9a%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>高雄三多店</b></a></span><span class="tel"><b>07-7219470</b></span><span class="add"><b>802高雄市苓雅區三多二路23號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 高雄苓雅店" href="/brandshop-8117-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e8%8b%93%e9%9b%85%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>高雄苓雅店</b></a></span><span class="tel"><b>07-2695006</b></span><span class="add"><b>802高雄市苓雅區苓雅二路87-4號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 苓雅福德店" href="/brandshop-8118-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e8%8b%93%e9%9b%85%e7%a6%8f%e5%be%b7%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>苓雅福德店</b></a></span><span class="tel"><b>07-7224617</b></span><span class="add"><b>802高雄市苓雅區福德三路251號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 鹽埕堀江店" href="/brandshop-8178-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b9%bd%e5%9f%95%e5%a0%80%e6%b1%9f%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>鹽埕堀江店</b></a></span><span class="tel"><b>07-5216665</b></span><span class="add"><b>803高雄市鹽埕區五福四路221號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 鼓山慶豐店" href="/brandshop-8127-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%bc%93%e5%b1%b1%e6%85%b6%e8%b1%90%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>鼓山慶豐店</b></a></span><span class="tel"><b>07-5505609</b></span><span class="add"><b>804高雄市鼓山區慶豐街12號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 高雄一心店" href="/brandshop-8115-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e4%b8%80%e5%bf%83%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>高雄一心店</b></a></span><span class="tel"><b>07-7161667</b></span><span class="add"><b>806高雄市前鎮區一心一路262號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 前鎮草衙店" href="/brandshop-8253-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%89%8d%e9%8e%ae%e8%8d%89%e8%a1%99%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>前鎮草衙店</b></a></span><span class="tel"><b>07-8118638</b></span><span class="add"><b>806高雄市前鎮區草衙二路376號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 前鎮岡山西店" href="/brandshop-8206-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%89%8d%e9%8e%ae%e5%b2%a1%e5%b1%b1%e8%a5%bf%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>前鎮岡山西店</b></a></span><span class="tel"><b>07-7241707</b></span><span class="add"><b>806高雄市前鎮區崗山西街195號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 三民建興店" href="/brandshop-8106-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e4%b8%89%e6%b0%91%e5%bb%ba%e8%88%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>三民建興店</b></a></span><span class="tel"><b>07-3890998</b></span><span class="add"><b>807高雄市三民區建興路292號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 高雄鼎山店" href="/brandshop-20178-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e9%bc%8e%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>高雄鼎山店</b></a></span><span class="tel"><b>07-3929666</b></span><span class="add"><b>807高雄市三民區鼎山街575號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 楠梓梓新店" href="/brandshop-8123-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a5%a0%e6%a2%93%e6%a2%93%e6%96%b0%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>楠梓梓新店</b></a></span><span class="tel"><b>待網友回報</b></span><span class="add"><b>811高雄市楠梓區楠梓新路208號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 楠梓瑞屏店" href="/brandshop-8201-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a5%a0%e6%a2%93%e7%91%9e%e5%b1%8f%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>楠梓瑞屏店</b></a></span><span class="tel"><b>07-3638857</b></span><span class="add"><b>811高雄市楠梓區瑞屏路60號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 楠梓樂群店" href="/brandshop-8124-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a5%a0%e6%a2%93%e6%a8%82%e7%be%a4%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>楠梓樂群店</b></a></span><span class="tel"><b>07-3630927</b></span><span class="add"><b>811高雄市楠梓區樂群路89號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 小港漢民店" href="/brandshop-8108-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b0%8f%e6%b8%af%e6%bc%a2%e6%b0%91%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>小港漢民店</b></a></span><span class="tel"><b>07-8053888</b></span><span class="add"><b>812高雄市小港區漢民路650號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 左營文自店" href="/brandshop-8110-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b7%a6%e7%87%9f%e6%96%87%e8%87%aa%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>左營文自店</b></a></span><span class="tel"><b>07-3430090</b></span><span class="add"><b>813高雄市左營區文自路870號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 高雄左營店" href="/brandshop-8111-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%b7%a6%e7%87%9f%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>高雄左營店</b></a></span><span class="tel"><b>07-5871971</b></span><span class="add"><b>813高雄市左營區左營大路121號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 高雄左營二店" href="/brandshop-8112-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%b7%a6%e7%87%9f%e4%ba%8c%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>高雄左營二店</b></a></span><span class="tel"><b>07-5811237</b></span><span class="add"><b>813高雄市左營區左營大路585號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 高雄榮總店" href="/brandshop-8113-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%a6%ae%e7%b8%bd%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>高雄榮總店</b></a></span><span class="tel"><b>07-3473600</b></span><span class="add"><b>813高雄市左營區榮佑路47號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 仁武中華店" href="/brandshop-8109-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e4%bb%81%e6%ad%a6%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>仁武中華店</b></a></span><span class="tel"><b>07-3755411</b></span><span class="add"><b>814高雄市仁武區中華路247號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 大社中山店" href="/brandshop-8107-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e7%a4%be%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>大社中山店</b></a></span><span class="tel"><b>07-3558090</b></span><span class="add"><b>815高雄市大社區中山路55號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 路竹中興店" href="/brandshop-8126-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e8%b7%af%e7%ab%b9%e4%b8%ad%e8%88%88%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>路竹中興店</b></a></span><span class="tel"><b>07-6968779</b></span><span class="add"><b>821高雄市路竹區中興路134號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 燕巢中民店" href="/brandshop-8132-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e7%87%95%e5%b7%a2%e4%b8%ad%e6%b0%91%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>燕巢中民店</b></a></span><span class="tel"><b>07-6140304</b></span><span class="add"><b>824高雄市燕巢區中民路748號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 鳳山厝店" href="/brandshop-20179-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e5%8e%9d%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>鳳山厝店</b></a></span><span class="tel"><b>07-6152525</b></span><span class="add"><b>824高雄市燕巢區鳳旗路210號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 橋頭成功店" href="/brandshop-8131-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a9%8b%e9%a0%ad%e6%88%90%e5%8a%9f%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>橋頭成功店</b></a></span><span class="tel"><b>07-6130593</b></span><span class="add"><b>825高雄市橋頭區成功路237號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 湖內大湖店" href="/brandshop-8120-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%b9%96%e5%85%a7%e5%a4%a7%e6%b9%96%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>湖內大湖店</b></a></span><span class="tel"><b>07-6935658</b></span><span class="add"><b>829高雄市湖內區中山路一段459號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 鳳山大明店" href="/brandshop-8128-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e5%a4%a7%e6%98%8e%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>鳳山大明店</b></a></span><span class="tel"><b>07-7639898</b></span><span class="add"><b>830高雄市鳳山區大明路22號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 鳳山南華店" href="/brandshop-8129-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e5%8d%97%e8%8f%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>鳳山南華店</b></a></span><span class="tel"><b>07-7276115</b></span><span class="add"><b>830高雄市鳳山區南華路170號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 鳳山經武店" href="/brandshop-8130-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e7%b6%93%e6%ad%a6%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>鳳山經武店</b></a></span><span class="tel"><b>07-7458665</b></span><span class="add"><b>830高雄市鳳山區經武路359號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 高雄茄萣店" href="/brandshop-8119-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e8%8c%84%e8%90%a3%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>高雄茄萣店</b></a></span><span class="tel"><b>07-6908693</b></span><span class="add"><b>852高雄市茄萣區茄萣路二段397號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 永安維新店" href="/brandshop-8114-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%b0%b8%e5%ae%89%e7%b6%ad%e6%96%b0%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>永安維新店</b></a></span><span class="tel"><b>07-6916476</b></span><span class="add"><b>高雄市永安區維新村維新路137號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 岡山前峰店" href="/brandshop-8285-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b2%a1%e5%b1%b1%e5%89%8d%e5%b3%b0%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>岡山前峰店</b></a></span><span class="tel"><b>07-6261826</b></span><span class="add"><b>高雄市岡山區壽峰里前峰路130-3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 高雄本館店" href="/brandshop-8353-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%9c%ac%e9%a4%a8%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>高雄本館店</b></a></span><span class="tel"><b>07-3709777</b></span><span class="add"><b>高雄市鳥松區球場路16號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 湖內海埔店" href="/brandshop-8176-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%b9%96%e5%85%a7%e6%b5%b7%e5%9f%94%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>湖內海埔店</b></a></span><span class="tel"><b>07-6996568</b></span><span class="add"><b>高雄市湖內區信義路101之1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 楠梓藍昌店" href="/brandshop-8125-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a5%a0%e6%a2%93%e8%97%8d%e6%98%8c%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>楠梓藍昌店</b></a></span><span class="tel"><b>07-5911268</b></span><span class="add"><b>高雄市楠梓區藍昌路398-17號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 鼓山瑞豐店" href="/brandshop-8352-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%bc%93%e5%b1%b1%e7%91%9e%e8%b1%90%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>鼓山瑞豐店</b></a></span><span class="tel"><b>07-5503818</b></span><span class="add"><b>高雄市鼓山區南屏路505號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 鳳山五甲店" href="/brandshop-8387-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e4%ba%94%e7%94%b2%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>鳳山五甲店</b></a></span><span class="tel"><b>07-7105696</b></span><span class="add"><b>高雄市鳳山區五甲一路184號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 彌陀鹽港店" href="/brandshop-8133-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%bd%8c%e9%99%80%e9%b9%bd%e6%b8%af%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>彌陀鹽港店</b></a></span><span class="tel"><b>07-6173859</b></span><span class="add"><b>高雄市彌陀區鹽港一路3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 屏東林森店" href="/brandshop-8094-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e6%9e%97%e6%a3%ae%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>屏東林森店</b></a></span><span class="tel"><b>08-7347666</b></span><span class="add"><b>900屏東縣屏東市林森路106號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 屏東勝利店" href="/brandshop-8095-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e5%8b%9d%e5%88%a9%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>屏東勝利店</b></a></span><span class="tel"><b>08-7651009</b></span><span class="add"><b>900屏東縣屏東市勝利路211號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 屏東廣東店" href="/brandshop-8096-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e5%bb%a3%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>屏東廣東店</b></a></span><span class="tel"><b>08-7374255</b></span><span class="add"><b>900屏東縣屏東市廣東路733-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 內埔豐田店" href="/brandshop-8097-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%85%a7%e5%9f%94%e8%b1%90%e7%94%b0%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>內埔豐田店</b></a></span><span class="tel"><b>08-7788722</b></span><span class="add"><b>912屏東縣內埔鄉中正路276號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 萬丹萬壽店" href="/brandshop-8100-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e8%90%ac%e4%b8%b9%e8%90%ac%e5%a3%bd%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>萬丹萬壽店</b></a></span><span class="tel"><b>0933595770</b></span><span class="add"><b>913屏東縣萬丹鄉萬壽路二段300號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 東港船頭店" href="/brandshop-8099-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e6%9d%b1%e6%b8%af%e8%88%b9%e9%a0%ad%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>東港船頭店</b></a></span><span class="tel"><b>待網友回報</b></span><span class="add"><b>928屏東縣東港鎮船頭路26-69號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往茶的魔手 東港中山店" href="/brandshop-8098-%e8%8c%b6%e7%9a%84%e9%ad%94%e6%89%8b-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e6%9d%b1%e6%b8%af%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>茶的魔手</b><br>
+										<b>東港中山店</b></a></span><span class="tel"><b>08-8336010</b></span><span class="add"><b>屏東縣東港鎮中山路</b><br></span></li>
+								
+								
+									
+								
+						</div>

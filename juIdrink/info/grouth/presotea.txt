@@ -1,0 +1,1550 @@
+<div class="right">
+							<h1><b>鮮茶道 - 全台灣分店門市查詢</b></h1>
+							<div class="sort">
+								
+								
+								<a id="CityTotal" href="brandshop-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>全台灣分店</b></a>
+																
+									<a title="前往鮮茶道台北市分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台北市</b></a>
+																	
+									<a title="前往鮮茶道新北市分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新北市</b></a>
+																	
+									<a title="前往鮮茶道桃園縣分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>桃園縣</b></a>
+																	
+									<a title="前往鮮茶道新竹縣分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新竹縣</b></a>
+																	
+									<a title="前往鮮茶道台中市分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台中市</b></a>
+																	
+									<a title="前往鮮茶道彰化縣分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>彰化縣</b></a>
+																	
+									<a title="前往鮮茶道雲林縣分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>雲林縣</b></a>
+																	
+									<a title="前往鮮茶道嘉義縣分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>嘉義縣</b></a>
+																	
+									<a title="前往鮮茶道嘉義市分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>嘉義市</b></a>
+																	
+									<a title="前往鮮茶道台南市分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台南市</b></a>
+																	
+									<a title="前往鮮茶道高雄市分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>高雄市</b></a>
+																	
+									<a title="前往鮮茶道屏東縣分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>屏東縣</b></a>
+																	
+									<a title="前往鮮茶道宜蘭縣分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>宜蘭縣</b></a>
+																	
+									<a title="前往鮮茶道花蓮縣分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e8%8a%b1%e8%93%ae%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>花蓮縣</b></a>
+																	
+									<a title="前往鮮茶道台東縣分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e6%9d%b1%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台東縣</b></a>
+																	
+									<a title="前往鮮茶道澎湖縣分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%be%8e%e6%b9%96%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>澎湖縣</b></a>
+																	
+									<a title="前往鮮茶道金門縣分店門市" href="brandshopcity-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%87%91%e9%96%80%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>金門縣</b></a>
+								
+								
+							</div>
+							<input type="hidden" name="Sel_City" id="Sel_City">
+							
+							
+									
+									
+									<li><span><a title="前往鮮茶道 北市南門店" href="/brandshop-8406-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8c%97%e5%b8%82%e5%8d%97%e9%96%80%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>北市南門店</b></a></span><span class="tel"><b>02-2397-3475</b></span><span class="add"><b>100台北市中正區南昌路一段29號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 北市南陽店" href="/brandshop-2990-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8c%97%e5%b8%82%e5%8d%97%e9%99%bd%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>北市南陽店</b></a></span><span class="tel"><b>02-2388-1660</b></span><span class="add"><b>100台北市中正區南陽街4號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 北市通化店" href="/brandshop-4787-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8c%97%e5%b8%82%e9%80%9a%e5%8c%96%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>北市通化店</b></a></span><span class="tel"><b>02-2709-1300</b></span><span class="add"><b>106台北市大安區通化街59號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台北武昌店" href="/brandshop-2994-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%ad%a6%e6%98%8c%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台北武昌店</b></a></span><span class="tel"><b>02-2375-3399</b></span><span class="add"><b>108台北市萬華區武昌街二段100號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 北市永吉店" href="/brandshop-7151-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8c%97%e5%b8%82%e6%b0%b8%e5%90%89%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>北市永吉店</b></a></span><span class="tel"><b>02-2765-5525</b></span><span class="add"><b>110台北市信義區永吉路30巷178弄2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 板橋大仁店" href="/brandshop-6892-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9d%bf%e6%a9%8b%e5%a4%a7%e4%bb%81%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>板橋大仁店</b></a></span><span class="tel"><b>02-8965-1213</b></span><span class="add"><b>220新北市板橋區大仁街5號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 板橋新海店" href="/brandshop-2995-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9d%bf%e6%a9%8b%e6%96%b0%e6%b5%b7%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>板橋新海店</b></a></span><span class="tel"><b>02-8253-7010</b></span><span class="add"><b>220新北市板橋區新海路116號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 永和福和店" href="/brandshop-8410-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%b0%b8%e5%92%8c%e7%a6%8f%e5%92%8c%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>永和福和店</b></a></span><span class="tel"><b>02-2231-0060</b></span><span class="add"><b>234新北市永和區福和路169號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 三重文化北店" href="/brandshop-2999-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%89%e9%87%8d%e6%96%87%e5%8c%96%e5%8c%97%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>三重文化北店</b></a></span><span class="tel"><b>02-2986-9536</b></span><span class="add"><b>241新北市三重區文化北路94號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 新莊新豐店" href="/brandshop-2998-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e8%8e%8a%e6%96%b0%e8%b1%90%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>新莊新豐店</b></a></span><span class="tel"><b>02-2207-2586</b></span><span class="add"><b>242新北市新莊區新豐街2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 新莊福壽店" href="/brandshop-2997-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e8%8e%8a%e7%a6%8f%e5%a3%bd%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>新莊福壽店</b></a></span><span class="tel"><b>02-2996-1657</b></span><span class="add"><b>242新北市新莊區福壽街82號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 中壢龍東店" href="/brandshop-8220-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e9%be%8d%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>中壢龍東店</b></a></span><span class="tel"><b>03-4387537</b></span><span class="add"><b>320桃園縣中壢市龍東路441號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 龍潭東龍店" href="/brandshop-8311-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%be%8d%e6%bd%ad%e6%9d%b1%e9%be%8d%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>龍潭東龍店</b></a></span><span class="tel"><b>03-470-8489</b></span><span class="add"><b>325桃園縣龍潭鄉東龍路268號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 觀音草漯店" href="/brandshop-6831-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e8%a7%80%e9%9f%b3%e8%8d%89%e6%bc%af%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>觀音草漯店</b></a></span><span class="tel"><b>03-4833-200</b></span><span class="add"><b>328桃園縣觀音鄉大觀路二段22號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 桃園桃鶯店" href="/brandshop-6896-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e6%a1%83%e9%b6%af%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>桃園桃鶯店</b></a></span><span class="tel"><b>03-3677-922</b></span><span class="add"><b>330桃園縣桃園市桃鶯路317號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 大園中正東店" href="/brandshop-8216-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%a4%a7%e5%9c%92%e4%b8%ad%e6%ad%a3%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>大園中正東店</b></a></span><span class="tel"><b>03-386-5939</b></span><span class="add"><b>337桃園縣大園鄉中正東路67-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 竹北中正東店" href="/brandshop-8312-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e7%ab%b9%e5%8c%97%e4%b8%ad%e6%ad%a3%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>竹北中正東店</b></a></span><span class="tel"><b>03-555-2970</b></span><span class="add"><b>302新竹縣竹北巿中正東路259號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 中華夜市店" href="/brandshop-8219-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e4%b8%ad%e8%8f%af%e5%a4%9c%e5%b8%82%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>中華夜市店</b></a></span><span class="tel"><b>04-22293688</b></span><span class="add"><b>400台中市中區中華路一段99號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台中站前店" href="/brandshop-6602-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e7%ab%99%e5%89%8d%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台中站前店</b></a></span><span class="tel"><b>04-2223-5831</b></span><span class="add"><b>400台中市中區綠川里建國路174號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台中後站店" href="/brandshop-4783-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%be%8c%e7%ab%99%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台中後站店</b></a></span><span class="tel"><b>04-22207019</b></span><span class="add"><b>401台中市東區復興路四段63號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台中向上一店" href="/brandshop-4790-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%90%91%e4%b8%8a%e4%b8%80%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台中向上一店</b></a></span><span class="tel"><b>04-2305-0912</b></span><span class="add"><b>403台中市西區向上路一段178號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台中中科店" href="/brandshop-6592-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e4%b8%ad%e7%a7%91%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台中中科店</b></a></span><span class="tel"><b>04-2461-0688</b></span><span class="add"><b>407台中市西屯區西屯路三段164-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台中逢甲店" href="/brandshop-6594-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e9%80%a2%e7%94%b2%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台中逢甲店</b></a></span><span class="tel"><b>04-2452-1848</b></span><span class="add"><b>407台中市西屯區福星路431號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 黎明公益店" href="/brandshop-6842-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%bb%8e%e6%98%8e%e5%85%ac%e7%9b%8a%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>黎明公益店</b></a></span><span class="tel"><b>04-2259-8255</b></span><span class="add"><b>408台中市南屯區公益路二段539號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 沙鹿靜宜店" href="/brandshop-8227-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e6%b2%99%e9%b9%bf%e9%9d%9c%e5%ae%9c%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>沙鹿靜宜店</b></a></span><span class="tel"><b>04-2633-0333</b></span><span class="add"><b>433台中市沙鹿區北勢東路559號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台中東海店" href="/brandshop-4791-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%9d%b1%e6%b5%b7%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台中東海店</b></a></span><span class="tel"><b>04-2652-5701</b></span><span class="add"><b>434台中市龍井區台中港路東園28號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 東海新興店" href="/brandshop-6598-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e6%9d%b1%e6%b5%b7%e6%96%b0%e8%88%88%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>東海新興店</b></a></span><span class="tel"><b>04-2652-0052</b></span><span class="add"><b>434台中市龍井區新興路33號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 大甲鎮瀾店" href="/brandshop-7444-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e7%94%b2%e9%8e%ae%e7%80%be%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>大甲鎮瀾店</b></a></span><span class="tel"><b>04-2680-5352</b></span><span class="add"><b>437台中市大甲區順天路189號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 大甲蔣公店" href="/brandshop-8314-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e7%94%b2%e8%94%a3%e5%85%ac%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>大甲蔣公店</b></a></span><span class="tel"><b>04-2680-5015</b></span><span class="add"><b>437台中市大甲區蔣公路197號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 豐原太平洋店" href="/brandshop-6601-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e8%b1%90%e5%8e%9f%e5%a4%aa%e5%b9%b3%e6%b4%8b%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>豐原太平洋店</b></a></span><span class="tel"><b>04-2522-9222</b></span><span class="add"><b>台中市豐原區博愛街10號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 溪湖彰水店" href="/brandshop-3003-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e6%ba%aa%e6%b9%96%e5%bd%b0%e6%b0%b4%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>溪湖彰水店</b></a></span><span class="tel"><b>04-885-9166</b></span><span class="add"><b>514彰化縣溪湖鎮彰水路三段338號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 北斗中華店" href="/brandshop-8224-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%8c%97%e6%96%97%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>北斗中華店</b></a></span><span class="tel"><b>04-887-6816</b></span><span class="add"><b>521彰化縣北斗鎮中華路342號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 二林中正店" href="/brandshop-3001-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e4%ba%8c%e6%9e%97%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>二林中正店</b></a></span><span class="tel"><b>04-895-5511</b></span><span class="add"><b>526彰化縣二林鎮中正路52號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鹿港復興店" href="/brandshop-6897-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%b9%bf%e6%b8%af%e5%be%a9%e8%88%88%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鹿港復興店</b></a></span><span class="tel"><b>04-777-1089</b></span><span class="add"><b>彰化縣鹿港鎮復興路305號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 斗南車站店" href="/brandshop-3009-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e6%96%97%e5%8d%97%e8%bb%8a%e7%ab%99%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>斗南車站店</b></a></span><span class="tel"><b>05-597-7383</b></span><span class="add"><b>630雲林縣斗南鎮中山路96號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 土庫中正店" href="/brandshop-8218-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e5%9c%9f%e5%ba%ab%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>土庫中正店</b></a></span><span class="tel"><b>05-6623458</b></span><span class="add"><b>632雲林縣土庫鎮中正路218號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 虎尾中正店" href="/brandshop-8313-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e8%99%8e%e5%b0%be%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>虎尾中正店</b></a></span><span class="tel"><b>05-632-0322</b></span><span class="add"><b>632雲林縣虎尾鎮中正路124號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 虎尾科大店" href="/brandshop-3006-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e8%99%8e%e5%b0%be%e7%a7%91%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>虎尾科大店</b></a></span><span class="tel"><b>05-633-7733</b></span><span class="add"><b>632雲林縣虎尾鎮中正路312號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 斗六中山店" href="/brandshop-3004-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e6%96%97%e5%85%ad%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>斗六中山店</b></a></span><span class="tel"><b>05-537-3221</b></span><span class="add"><b>640雲林縣斗六市中山路29號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 斗六雲科店" href="/brandshop-3005-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e6%96%97%e5%85%ad%e9%9b%b2%e7%a7%91%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>斗六雲科店</b></a></span><span class="tel"><b>05-533-9013</b></span><span class="add"><b>640雲林縣斗六市民生南路260號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 斗六車站店" href="/brandshop-3829-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e6%96%97%e5%85%ad%e8%bb%8a%e7%ab%99%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>斗六車站店</b></a></span><span class="tel"><b>05-5350-862</b></span><span class="add"><b>640雲林縣斗六市民生路217號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 古坑中山店" href="/brandshop-8221-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e5%8f%a4%e5%9d%91%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>古坑中山店</b></a></span><span class="tel"><b>05-5825-055</b></span><span class="add"><b>640雲林縣古坑鄉中山路184號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 北港公園店" href="/brandshop-3007-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%9b%b2%e6%9e%97%e7%b8%a3-%e5%8c%97%e6%b8%af%e5%85%ac%e5%9c%92%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>北港公園店</b></a></span><span class="tel"><b>05-782-3398</b></span><span class="add"><b>651雲林縣北港鎮公園路71號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義竹崎店" href="/brandshop-6599-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e7%b8%a3-%e5%98%89%e7%be%a9%e7%ab%b9%e5%b4%8e%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義竹崎店</b></a></span><span class="tel"><b>05-261-2261</b></span><span class="add"><b>604嘉義縣竹崎鄉中山路147號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 梅山中山店" href="/brandshop-3022-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e7%b8%a3-%e6%a2%85%e5%b1%b1%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>梅山中山店</b></a></span><span class="tel"><b>05-2622-588</b></span><span class="add"><b>604嘉義縣梅山鄉中山路155號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 水上正義店" href="/brandshop-7447-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e7%b8%a3-%e6%b0%b4%e4%b8%8a%e6%ad%a3%e7%be%a9%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>水上正義店</b></a></span><span class="tel"><b>05-268-6608</b></span><span class="add"><b>608嘉義縣水上鄉正義路2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 太保麻魚寮店" href="/brandshop-3018-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e7%b8%a3-%e5%a4%aa%e4%bf%9d%e9%ba%bb%e9%ad%9a%e5%af%ae%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>太保麻魚寮店</b></a></span><span class="tel"><b>05-238-0501</b></span><span class="add"><b>612嘉義縣太保市中山路二段118號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 朴子山通店" href="/brandshop-3016-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e7%b8%a3-%e6%9c%b4%e5%ad%90%e5%b1%b1%e9%80%9a%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>朴子山通店</b></a></span><span class="tel"><b>05-370-6028</b></span><span class="add"><b>613嘉義縣朴子市山通路126號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 新港奉天店" href="/brandshop-3021-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e7%b8%a3-%e6%96%b0%e6%b8%af%e5%a5%89%e5%a4%a9%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>新港奉天店</b></a></span><span class="tel"><b>05-374-9609</b></span><span class="add"><b>616嘉義縣新港鄉中山路4號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 民雄東榮店" href="/brandshop-3017-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e7%b8%a3-%e6%b0%91%e9%9b%84%e6%9d%b1%e6%a6%ae%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>民雄東榮店</b></a></span><span class="tel"><b>05-226-9180</b></span><span class="add"><b>621嘉義縣民雄鄉東榮路40號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 中正大學店" href="/brandshop-4845-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e7%b8%a3-%e4%b8%ad%e6%ad%a3%e5%a4%a7%e5%ad%b8%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>中正大學店</b></a></span><span class="tel"><b>05-272-0970</b></span><span class="add"><b>621嘉義縣民雄鄉神農路129-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 大林中正店" href="/brandshop-4846-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e7%b8%a3-%e5%a4%a7%e6%9e%97%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>大林中正店</b></a></span><span class="tel"><b>05-264-9331</b></span><span class="add"><b>622嘉義縣大林鎮中正路556號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義中埔店" href="/brandshop-8230-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e7%b8%a3-%e5%98%89%e7%be%a9%e4%b8%ad%e5%9f%94%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義中埔店</b></a></span><span class="tel"><b>05-253-6665</b></span><span class="add"><b>嘉義縣中埔鄉中埔村中正路59號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義文化公園店" href="/brandshop-6901-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e6%96%87%e5%8c%96%e5%85%ac%e5%9c%92%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義文化公園店</b></a></span><span class="tel"><b>05-2241-666</b></span><span class="add"><b>600嘉義市西區文化路23號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 博愛陸橋店" href="/brandshop-4786-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%8d%9a%e6%84%9b%e9%99%b8%e6%a9%8b%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>博愛陸橋店</b></a></span><span class="tel"><b>05-231-0938</b></span><span class="add"><b>600嘉義市西區文化路433號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義民生南店" href="/brandshop-3013-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e6%b0%91%e7%94%9f%e5%8d%97%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義民生南店</b></a></span><span class="tel"><b>05-2842-981</b></span><span class="add"><b>600嘉義市西區民生南路578號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義民族店" href="/brandshop-3010-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e6%b0%91%e6%97%8f%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義民族店</b></a></span><span class="tel"><b>05-227-1650</b></span><span class="add"><b>600嘉義市西區民族路717號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義自強店" href="/brandshop-8413-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e8%87%aa%e5%bc%b7%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義自強店</b></a></span><span class="tel"><b>05-2368-109</b></span><span class="add"><b>600嘉義市西區自強街87號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義垂楊店" href="/brandshop-6899-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e5%9e%82%e6%a5%8a%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義垂楊店</b></a></span><span class="tel"><b>05-2255-882</b></span><span class="add"><b>600嘉義市西區垂楊路750號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義家樂福店" href="/brandshop-3015-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e5%ae%b6%e6%a8%82%e7%a6%8f%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義家樂福店</b></a></span><span class="tel"><b>05-2844-633</b></span><span class="add"><b>600嘉義市西區家樂福博愛路二段461號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義博愛店" href="/brandshop-3023-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e5%8d%9a%e6%84%9b%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義博愛店</b></a></span><span class="tel"><b>05-291-0137</b></span><span class="add"><b>600嘉義市西區博愛路二段422號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義興業西店" href="/brandshop-4785-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e8%88%88%e6%a5%ad%e8%a5%bf%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義興業西店</b></a></span><span class="tel"><b>05-286-5226</b></span><span class="add"><b>600嘉義市西區興業西路351號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義文化店" href="/brandshop-3011-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e6%96%87%e5%8c%96%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義文化店</b></a></span><span class="tel"><b>05-228-2159</b></span><span class="add"><b>600嘉義市東區文化路172號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 民族民國店" href="/brandshop-3019-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e6%b0%91%e6%97%8f%e6%b0%91%e5%9c%8b%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>民族民國店</b></a></span><span class="tel"><b>05-275-3939</b></span><span class="add"><b>600嘉義市東區民族路46號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義民權店" href="/brandshop-3020-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e6%b0%91%e6%ac%8a%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義民權店</b></a></span><span class="tel"><b>05-2766-153</b></span><span class="add"><b>600嘉義市東區民權路175號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 後庄軍輝店" href="/brandshop-8226-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%be%8c%e5%ba%84%e8%bb%8d%e8%bc%9d%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>後庄軍輝店</b></a></span><span class="tel"><b>05-239-4568</b></span><span class="add"><b>600嘉義市東區吳鳳南路356號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義後庄店" href="/brandshop-3012-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e5%be%8c%e5%ba%84%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義後庄店</b></a></span><span class="tel"><b>05-230-1879</b></span><span class="add"><b>600嘉義市東區吳鳳南路619號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義林森東店" href="/brandshop-6600-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e6%9e%97%e6%a3%ae%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義林森東店</b></a></span><span class="tel"><b>05-276-3694</b></span><span class="add"><b>600嘉義市東區林森東路304號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 嘉義新生店" href="/brandshop-3014-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e6%96%b0%e7%94%9f%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>嘉義新生店</b></a></span><span class="tel"><b>05-276-9743</b></span><span class="add"><b>600嘉義市東區新生路794號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南民族店" href="/brandshop-3038-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%b0%91%e6%97%8f%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南民族店</b></a></span><span class="tel"><b>06-2217-666</b></span><span class="add"><b>700台南市中西區民族路二段181號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 民族永樂店" href="/brandshop-3062-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%91%e6%97%8f%e6%b0%b8%e6%a8%82%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>民族永樂店</b></a></span><span class="tel"><b>06-220-1000</b></span><span class="add"><b>700台南市中西區民族路三段12號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南永華店" href="/brandshop-3046-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%b0%b8%e8%8f%af%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南永華店</b></a></span><span class="tel"><b>06-221-3718</b></span><span class="add"><b>700台南市中西區永華路一段234號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南生產店" href="/brandshop-3033-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e7%94%9f%e7%94%a2%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南生產店</b></a></span><span class="tel"><b>06-2907-888</b></span><span class="add"><b>701台南市東區生產路265號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 成大育樂店" href="/brandshop-3039-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%88%90%e5%a4%a7%e8%82%b2%e6%a8%82%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>成大育樂店</b></a></span><span class="tel"><b>06-238-8877</b></span><span class="add"><b>701台南市東區育樂街156-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南東寧店" href="/brandshop-8223-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%9d%b1%e5%af%a7%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南東寧店</b></a></span><span class="tel"><b>06-208-9000</b></span><span class="add"><b>701台南市東區東寧路336-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南長榮店" href="/brandshop-3031-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%95%b7%e6%a6%ae%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南長榮店</b></a></span><span class="tel"><b>06-2755-063</b></span><span class="add"><b>701台南市東區長榮路三段36號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南崇德店" href="/brandshop-3036-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%b4%87%e5%be%b7%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南崇德店</b></a></span><span class="tel"><b>06-289-0122</b></span><span class="add"><b>701台南市東區崇德路640號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南崇學店" href="/brandshop-3066-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%b4%87%e5%ad%b8%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南崇學店</b></a></span><span class="tel"><b>06-260-5137</b></span><span class="add"><b>701台南市東區崇學路289號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南裕農店" href="/brandshop-3034-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e8%a3%95%e8%be%b2%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南裕農店</b></a></span><span class="tel"><b>06-236-5333</b></span><span class="add"><b>701台南市東區裕農路663號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南新孝店" href="/brandshop-3040-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%96%b0%e5%ad%9d%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南新孝店</b></a></span><span class="tel"><b>06-2633-409</b></span><span class="add"><b>702台南市南區新孝路20號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南文賢店" href="/brandshop-3042-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%96%87%e8%b3%a2%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南文賢店</b></a></span><span class="tel"><b>06-358-7089</b></span><span class="add"><b>704台南市北區文賢路518號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南西門店" href="/brandshop-3058-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e8%a5%bf%e9%96%80%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南西門店</b></a></span><span class="tel"><b>06-222-3209</b></span><span class="add"><b>704台南市北區西門路三段276號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 和緯中華店" href="/brandshop-3060-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%92%8c%e7%b7%af%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>和緯中華店</b></a></span><span class="tel"><b>06-250-2828</b></span><span class="add"><b>704台南市北區和緯路四段426號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 開元勝利店" href="/brandshop-7171-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%96%8b%e5%85%83%e5%8b%9d%e5%88%a9%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>開元勝利店</b></a></span><span class="tel"><b>06-208-3188</b></span><span class="add"><b>704台南市北區開元路109號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 安平古堡店" href="/brandshop-8310-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ae%89%e5%b9%b3%e5%8f%a4%e5%a0%a1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>安平古堡店</b></a></span><span class="tel"><b>06-2229907</b></span><span class="add"><b>708台南市安平區安平路740號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南華平店" href="/brandshop-3053-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e8%8f%af%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南華平店</b></a></span><span class="tel"><b>06-298-2132</b></span><span class="add"><b>708台南市安平區華平路577號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南安中店" href="/brandshop-3055-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%ae%89%e4%b8%ad%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南安中店</b></a></span><span class="tel"><b>06-246-7707</b></span><span class="add"><b>709台南市安南區安中路一段733號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南土城店" href="/brandshop-8407-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%9c%9f%e5%9f%8e%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南土城店</b></a></span><span class="tel"><b>06-257-5595</b></span><span class="add"><b>709台南市安南區安中路六段572號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南科工店" href="/brandshop-3029-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e7%a7%91%e5%b7%a5%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南科工店</b></a></span><span class="tel"><b>06-245-3602</b></span><span class="add"><b>709台南市安南區安中路四段76號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南安和店" href="/brandshop-3027-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%ae%89%e5%92%8c%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南安和店</b></a></span><span class="tel"><b>06-356-4976</b></span><span class="add"><b>709台南市安南區安和路二段282號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南和順店" href="/brandshop-3051-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%92%8c%e9%a0%86%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南和順店</b></a></span><span class="tel"><b>06-355-0606</b></span><span class="add"><b>709台南市安南區安和路五段185號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台南海佃店" href="/brandshop-3030-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%b5%b7%e4%bd%83%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台南海佃店</b></a></span><span class="tel"><b>06-250-9649</b></span><span class="add"><b>709台南市安南區海佃路一段201號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 永康奇美店" href="/brandshop-3067-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%a5%87%e7%be%8e%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>永康奇美店</b></a></span><span class="tel"><b>06-252-2987</b></span><span class="add"><b>710台南市永康區大武街50號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 永康大灣店" href="/brandshop-5260-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%a4%a7%e7%81%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>永康大灣店</b></a></span><span class="tel"><b>06-205-5487</b></span><span class="add"><b>710台南市永康區大灣路247號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 永康崑山店" href="/brandshop-3024-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%b4%91%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>永康崑山店</b></a></span><span class="tel"><b>06-207-1615</b></span><span class="add"><b>710台南市永康區大灣路855號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鹽行中正店" href="/brandshop-3032-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%b9%bd%e8%a1%8c%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鹽行中正店</b></a></span><span class="tel"><b>06-243-0668</b></span><span class="add"><b>710台南市永康區中正路549號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 永康中華店" href="/brandshop-3059-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>永康中華店</b></a></span><span class="tel"><b>06-302-3251</b></span><span class="add"><b>710台南市永康區中華路465號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 永康永明店" href="/brandshop-3043-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e6%b0%b8%e6%98%8e%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>永康永明店</b></a></span><span class="tel"><b>06-202-4613</b></span><span class="add"><b>710台南市永康區永明街22號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 永康復國店" href="/brandshop-3037-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%b0%b8%e5%ba%b7%e5%be%a9%e5%9c%8b%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>永康復國店</b></a></span><span class="tel"><b>06-203-6640</b></span><span class="add"><b>710台南市永康區復國一路392號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 歸仁圓環店" href="/brandshop-3025-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%ad%b8%e4%bb%81%e5%9c%93%e7%92%b0%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>歸仁圓環店</b></a></span><span class="tel"><b>06-338-7933</b></span><span class="add"><b>711台南市歸仁區中山路二段1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 歸仁中山店" href="/brandshop-4844-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%ad%b8%e4%bb%81%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>歸仁中山店</b></a></span><span class="tel"><b>06-230-8048</b></span><span class="add"><b>711台南市歸仁區中山路三段35號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 關廟中山店" href="/brandshop-3028-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%97%9c%e5%bb%9f%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>關廟中山店</b></a></span><span class="tel"><b>06-595-3869</b></span><span class="add"><b>711台南市關廟區中山路二段62號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 新化中山店" href="/brandshop-3044-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e5%8c%96%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>新化中山店</b></a></span><span class="tel"><b>06-590-9293</b></span><span class="add"><b>712台南市新化區中山路344號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 仁德嘉藥店" href="/brandshop-3049-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e5%98%89%e8%97%a5%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>仁德嘉藥店</b></a></span><span class="tel"><b>06-266-0037</b></span><span class="add"><b>717台南市仁德區二仁路一段165之2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 仁德後壁厝店" href="/brandshop-3050-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e5%be%8c%e5%a3%81%e5%8e%9d%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>仁德後壁厝店</b></a></span><span class="tel"><b>06-2705-388</b></span><span class="add"><b>717台南市仁德區中正路二段311號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 仁德中清店" href="/brandshop-6891-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e4%b8%ad%e6%b8%85%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>仁德中清店</b></a></span><span class="tel"><b>06-279-5818</b></span><span class="add"><b>717台南市仁德區中清路140號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 下營中山店" href="/brandshop-8217-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%b8%8b%e7%87%9f%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>下營中山店</b></a></span><span class="tel"><b>06-6792676</b></span><span class="add"><b>720台南市下營區中山路一段76號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 麻豆民權店" href="/brandshop-3045-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%ba%bb%e8%b1%86%e6%b0%91%e6%ac%8a%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>麻豆民權店</b></a></span><span class="tel"><b>06-571-7747</b></span><span class="add"><b>721台南市麻豆區民權路10號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 佳里光復店" href="/brandshop-4843-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bd%b3%e9%87%8c%e5%85%89%e5%be%a9%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>佳里光復店</b></a></span><span class="tel"><b>06-723-6353</b></span><span class="add"><b>722台南市佳里區光復路355號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 佳里新生店" href="/brandshop-3048-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bd%b3%e9%87%8c%e6%96%b0%e7%94%9f%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>佳里新生店</b></a></span><span class="tel"><b>06-723-6698</b></span><span class="add"><b>722台南市佳里區新生路282-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 學甲濟生店" href="/brandshop-4842-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%ad%b8%e7%94%b2%e6%bf%9f%e7%94%9f%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>學甲濟生店</b></a></span><span class="tel"><b>06-7833-529</b></span><span class="add"><b>726台南市學甲區濟生路113號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 新營三民店" href="/brandshop-3065-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e7%87%9f%e4%b8%89%e6%b0%91%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>新營三民店</b></a></span><span class="tel"><b>06-635-9977</b></span><span class="add"><b>730台南市新營區三民路106-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 新營新進店" href="/brandshop-3064-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e7%87%9f%e6%96%b0%e9%80%b2%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>新營新進店</b></a></span><span class="tel"><b>06-633-1838</b></span><span class="add"><b>730台南市新營區新進路二段53號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 白河中山店" href="/brandshop-3054-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e7%99%bd%e6%b2%b3%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>白河中山店</b></a></span><span class="tel"><b>06-685-1028</b></span><span class="add"><b>732台南市白河區中山路43號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 六甲中正店" href="/brandshop-3047-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%85%ad%e7%94%b2%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>六甲中正店</b></a></span><span class="tel"><b>06-6988-520</b></span><span class="add"><b>734台南市六甲區中正路474號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鹽水朝琴店" href="/brandshop-3061-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%b9%bd%e6%b0%b4%e6%9c%9d%e7%90%b4%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鹽水朝琴店</b></a></span><span class="tel"><b>06-653-5557</b></span><span class="add"><b>737台南市鹽水區朝琴路24號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 善化中山店" href="/brandshop-8228-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%96%84%e5%8c%96%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>善化中山店</b></a></span><span class="tel"><b>06-581-0077</b></span><span class="add"><b>741台南市善化區中山路433號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 新市華興店" href="/brandshop-3035-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e5%b8%82%e8%8f%af%e8%88%88%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>新市華興店</b></a></span><span class="tel"><b>06-501-3366</b></span><span class="add"><b>744台南市新市區華興街66號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 西港中山店" href="/brandshop-3063-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8d%97%e5%b8%82-%e8%a5%bf%e6%b8%af%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>西港中山店</b></a></span><span class="tel"><b>06-795-8894</b></span><span class="add"><b>台南市西港區中山路285號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 玉竹文橫店" href="/brandshop-8225-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e7%8e%89%e7%ab%b9%e6%96%87%e6%a9%ab%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>玉竹文橫店</b></a></span><span class="tel"><b>07-281-9159</b></span><span class="add"><b>800高雄市新興區文橫一路17號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄玉竹店" href="/brandshop-3110-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e7%8e%89%e7%ab%b9%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄玉竹店</b></a></span><span class="tel"><b>07-261-3639</b></span><span class="add"><b>800高雄市新興區玉竹三街3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 六合自立店" href="/brandshop-3124-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%85%ad%e5%90%88%e8%87%aa%e7%ab%8b%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>六合自立店</b></a></span><span class="tel"><b>07-285-8212</b></span><span class="add"><b>800高雄市新興區自立二路118號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄林森店" href="/brandshop-3144-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%9e%97%e6%a3%ae%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄林森店</b></a></span><span class="tel"><b>07-251-1686</b></span><span class="add"><b>800高雄市新興區林森一路163-3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄新崛江店" href="/brandshop-3115-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%96%b0%e5%b4%9b%e6%b1%9f%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄新崛江店</b></a></span><span class="tel"><b>07-261-3629</b></span><span class="add"><b>800高雄市新興區新田路154號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄三多一店" href="/brandshop-3087-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e4%b8%89%e5%a4%9a%e4%b8%80%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄三多一店</b></a></span><span class="tel"><b>07-721-1605</b></span><span class="add"><b>802高雄市苓雅區三多一路261號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄文橫店" href="/brandshop-3088-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%96%87%e6%a9%ab%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄文橫店</b></a></span><span class="tel"><b>07-338-0656</b></span><span class="add"><b>802高雄市苓雅區文橫二路27號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄正義店" href="/brandshop-4840-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%ad%a3%e7%be%a9%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄正義店</b></a></span><span class="tel"><b>07-740-5888</b></span><span class="add"><b>802高雄市苓雅區正義路144號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 苓雅自強店" href="/brandshop-3081-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e8%8b%93%e9%9b%85%e8%87%aa%e5%bc%b7%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>苓雅自強店</b></a></span><span class="tel"><b>07-269-3059</b></span><span class="add"><b>802高雄市苓雅區自強三路160號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄和平店" href="/brandshop-3096-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%92%8c%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄和平店</b></a></span><span class="tel"><b>07-223-8995</b></span><span class="add"><b>802高雄市苓雅區和平一路234號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 苓雅林泉店" href="/brandshop-3102-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e8%8b%93%e9%9b%85%e6%9e%97%e6%b3%89%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>苓雅林泉店</b></a></span><span class="tel"><b>07-724-0660</b></span><span class="add"><b>802高雄市苓雅區林泉街30號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄武廟店" href="/brandshop-3078-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%ad%a6%e5%bb%9f%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄武廟店</b></a></span><span class="tel"><b>07-716-8198</b></span><span class="add"><b>802高雄市苓雅區武廟路142號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鹽埕七賢店" href="/brandshop-3075-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b9%bd%e5%9f%95%e4%b8%83%e8%b3%a2%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鹽埕七賢店</b></a></span><span class="tel"><b>07-531-6718</b></span><span class="add"><b>803高雄市鹽埕區七賢三路130號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄內惟店" href="/brandshop-3094-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%85%a7%e6%83%9f%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄內惟店</b></a></span><span class="tel"><b>07-521-2105</b></span><span class="add"><b>804高雄市鼓山區九如四路740號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鼓山裕誠店" href="/brandshop-3093-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%bc%93%e5%b1%b1%e8%a3%95%e8%aa%a0%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鼓山裕誠店</b></a></span><span class="tel"><b>07-552-6552</b></span><span class="add"><b>804高雄市鼓山區裕誠路1646號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄西子灣店" href="/brandshop-3117-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e8%a5%bf%e5%ad%90%e7%81%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄西子灣店</b></a></span><span class="tel"><b>07-533-6018</b></span><span class="add"><b>804高雄市鼓山區臨海二路47號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄旗津店" href="/brandshop-3827-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%97%97%e6%b4%a5%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄旗津店</b></a></span><span class="tel"><b>07-571-2817</b></span><span class="add"><b>805高雄市旗津區大關路12號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄光華店" href="/brandshop-3080-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%85%89%e8%8f%af%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄光華店</b></a></span><span class="tel"><b>07-335-8555</b></span><span class="add"><b>806高雄市前鎮區光華二路315號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄武慶店" href="/brandshop-8409-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%ad%a6%e6%85%b6%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄武慶店</b></a></span><span class="tel"><b>07-716-4567</b></span><span class="add"><b>806高雄市前鎮區武慶二路83號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 前鎮草衙店" href="/brandshop-3118-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%89%8d%e9%8e%ae%e8%8d%89%e8%a1%99%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>前鎮草衙店</b></a></span><span class="tel"><b>07-812-6838</b></span><span class="add"><b>806高雄市前鎮區草衙二路333號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 前鎮復興店" href="/brandshop-8231-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%89%8d%e9%8e%ae%e5%be%a9%e8%88%88%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>前鎮復興店</b></a></span><span class="tel"><b>07-334-6060</b></span><span class="add"><b>806高雄市前鎮區復興三路311號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄瑞隆店" href="/brandshop-3090-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e7%91%9e%e9%9a%86%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄瑞隆店</b></a></span><span class="tel"><b>07-722-3797</b></span><span class="add"><b>806高雄市前鎮區瑞隆路500號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 前鎮鎮興店" href="/brandshop-7449-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%89%8d%e9%8e%ae%e9%8e%ae%e8%88%88%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>前鎮鎮興店</b></a></span><span class="tel"><b>07-815-6300</b></span><span class="add"><b>806高雄市前鎮區鎮興路230號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄大昌店" href="/brandshop-3100-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%a4%a7%e6%98%8c%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄大昌店</b></a></span><span class="tel"><b>07-383-6775</b></span><span class="add"><b>807高雄市三民區大昌二路246號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄高應大店" href="/brandshop-3114-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e9%ab%98%e6%87%89%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄高應大店</b></a></span><span class="tel"><b>07-396-6598</b></span><span class="add"><b>807高雄市三民區大昌二路537號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄正興店" href="/brandshop-8411-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%ad%a3%e8%88%88%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄正興店</b></a></span><span class="tel"><b>07-397-5838</b></span><span class="add"><b>807高雄市三民區正興路172號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄明仁店" href="/brandshop-3106-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%98%8e%e4%bb%81%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄明仁店</b></a></span><span class="tel"><b>07-350-5388</b></span><span class="add"><b>807高雄市三民區明仁路23號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄建興店" href="/brandshop-3098-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%bb%ba%e8%88%88%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄建興店</b></a></span><span class="tel"><b>07-382-7033</b></span><span class="add"><b>807高雄市三民區建興路176號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄陽明店" href="/brandshop-3092-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e9%99%bd%e6%98%8e%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄陽明店</b></a></span><span class="tel"><b>07-380-2858</b></span><span class="add"><b>807高雄市三民區陽明路397號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鼎山明誠店" href="/brandshop-3071-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%bc%8e%e5%b1%b1%e6%98%8e%e8%aa%a0%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鼎山明誠店</b></a></span><span class="tel"><b>07-390-8718</b></span><span class="add"><b>807高雄市三民區鼎山街223號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄鼎山店" href="/brandshop-3076-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e9%bc%8e%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄鼎山店</b></a></span><span class="tel"><b>07-394-5736</b></span><span class="add"><b>807高雄市三民區鼎山街555號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄鼎中店" href="/brandshop-3085-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e9%bc%8e%e4%b8%ad%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄鼎中店</b></a></span><span class="tel"><b>07-359-5100</b></span><span class="add"><b>807高雄市三民區鼎中路364號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄嫩江店" href="/brandshop-3073-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%ab%a9%e6%b1%9f%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄嫩江店</b></a></span><span class="tel"><b>07-323-2517</b></span><span class="add"><b>807高雄市三民區嫩江街80號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄熱河店" href="/brandshop-3122-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e7%86%b1%e6%b2%b3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄熱河店</b></a></span><span class="tel"><b>07-311-3565</b></span><span class="add"><b>807高雄市三民區熱河一街368號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 楠梓後勁店" href="/brandshop-3074-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a5%a0%e6%a2%93%e5%be%8c%e5%8b%81%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>楠梓後勁店</b></a></span><span class="tel"><b>07-360-2465</b></span><span class="add"><b>811高雄市楠梓區後昌路21號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 楠梓右昌店" href="/brandshop-3082-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a5%a0%e6%a2%93%e5%8f%b3%e6%98%8c%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>楠梓右昌店</b></a></span><span class="tel"><b>07-365-6618</b></span><span class="add"><b>811高雄市楠梓區軍校路917號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 楠梓常德店" href="/brandshop-3131-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a5%a0%e6%a2%93%e5%b8%b8%e5%be%b7%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>楠梓常德店</b></a></span><span class="tel"><b>07-355-5155</b></span><span class="add"><b>811高雄市楠梓區常德路312號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄楠梓店" href="/brandshop-3111-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%a5%a0%e6%a2%93%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄楠梓店</b></a></span><span class="tel"><b>07-355-9668</b></span><span class="add"><b>811高雄市楠梓區楠梓新路281號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 楠梓德民店" href="/brandshop-3104-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a5%a0%e6%a2%93%e5%be%b7%e6%b0%91%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>楠梓德民店</b></a></span><span class="tel"><b>07-366-2118</b></span><span class="add"><b>811高雄市楠梓區德民路995號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 楠梓德賢店" href="/brandshop-3089-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a5%a0%e6%a2%93%e5%be%b7%e8%b3%a2%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>楠梓德賢店</b></a></span><span class="tel"><b>07-301-0768</b></span><span class="add"><b>811高雄市楠梓區德賢路216號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 楠梓藍昌店" href="/brandshop-3139-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a5%a0%e6%a2%93%e8%97%8d%e6%98%8c%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>楠梓藍昌店</b></a></span><span class="tel"><b>07-591-8811</b></span><span class="add"><b>811高雄市楠梓區藍昌路398之16號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 小港二苓店" href="/brandshop-6590-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b0%8f%e6%b8%af%e4%ba%8c%e8%8b%93%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>小港二苓店</b></a></span><span class="tel"><b>07-807-0610</b></span><span class="add"><b>812高雄市小港區二苓路225號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 小港平和店" href="/brandshop-3138-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b0%8f%e6%b8%af%e5%b9%b3%e5%92%8c%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>小港平和店</b></a></span><span class="tel"><b>07-821-7669</b></span><span class="add"><b>812高雄市小港區平和路22號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 小港桂陽店" href="/brandshop-3119-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b0%8f%e6%b8%af%e6%a1%82%e9%99%bd%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>小港桂陽店</b></a></span><span class="tel"><b>07-791-8811</b></span><span class="add"><b>812高雄市小港區桂陽路33號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 漢民華盛店" href="/brandshop-3127-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%bc%a2%e6%b0%91%e8%8f%af%e7%9b%9b%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>漢民華盛店</b></a></span><span class="tel"><b>07-805-5259</b></span><span class="add"><b>812高雄市小港區漢民路639號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 左營大路店" href="/brandshop-3068-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b7%a6%e7%87%9f%e5%a4%a7%e8%b7%af%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>左營大路店</b></a></span><span class="tel"><b>07-585-7933</b></span><span class="add"><b>813高雄市左營區左營大路87號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 左營自由店" href="/brandshop-3142-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b7%a6%e7%87%9f%e8%87%aa%e7%94%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>左營自由店</b></a></span><span class="tel"><b>07-359-2347</b></span><span class="add"><b>813高雄市左營區自由三路526號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 左營崇德店" href="/brandshop-3121-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b7%a6%e7%87%9f%e5%b4%87%e5%be%b7%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>左營崇德店</b></a></span><span class="tel"><b>07-341-2211</b></span><span class="add"><b>813高雄市左營區崇德路235號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄富國店" href="/brandshop-3108-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%af%8c%e5%9c%8b%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄富國店</b></a></span><span class="tel"><b>07-550-7591</b></span><span class="add"><b>813高雄市左營區富國路482號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 梓官進學店" href="/brandshop-3130-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a2%93%e5%ae%98%e9%80%b2%e5%ad%b8%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>梓官進學店</b></a></span><span class="tel"><b>07-610-8511</b></span><span class="add"><b>813高雄市左營區進學路4號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄榮總店" href="/brandshop-3084-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%a6%ae%e7%b8%bd%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄榮總店</b></a></span><span class="tel"><b> 07-3458382 </b></span><span class="add"><b>813高雄市左營區榮總路143號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 仁武仁雄店" href="/brandshop-3126-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e4%bb%81%e6%ad%a6%e4%bb%81%e9%9b%84%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>仁武仁雄店</b></a></span><span class="tel"><b>07-374-3030</b></span><span class="add"><b>814高雄市仁武區仁雄路6號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 大社中山店" href="/brandshop-3099-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e7%a4%be%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>大社中山店</b></a></span><span class="tel"><b>07-355-0985</b></span><span class="add"><b>815高雄市大社區中山路413號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 岡山竹圍店" href="/brandshop-3136-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b2%a1%e5%b1%b1%e7%ab%b9%e5%9c%8d%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>岡山竹圍店</b></a></span><span class="tel"><b>07-622-3511</b></span><span class="add"><b>820高雄市岡山區大仁北路157號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 岡山本洲店" href="/brandshop-8408-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b2%a1%e5%b1%b1%e6%9c%ac%e6%b4%b2%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>岡山本洲店</b></a></span><span class="tel"><b>07-621-0006</b></span><span class="add"><b>820高雄市岡山區岡山北路66號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 岡山柳橋店" href="/brandshop-3133-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b2%a1%e5%b1%b1%e6%9f%b3%e6%a9%8b%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>岡山柳橋店</b></a></span><span class="tel"><b>07-625-6974</b></span><span class="add"><b>820高雄市岡山區柳橋西路83號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 岡山壽天店" href="/brandshop-3097-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b2%a1%e5%b1%b1%e5%a3%bd%e5%a4%a9%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>岡山壽天店</b></a></span><span class="tel"><b>07-622-3418</b></span><span class="add"><b>820高雄市岡山區壽天路66號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 路竹中正店" href="/brandshop-3120-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e8%b7%af%e7%ab%b9%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>路竹中正店</b></a></span><span class="tel"><b>07-607-6700</b></span><span class="add"><b>821高雄市路竹區中正路167號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 路竹忠孝店" href="/brandshop-3072-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e8%b7%af%e7%ab%b9%e5%bf%a0%e5%ad%9d%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>路竹忠孝店</b></a></span><span class="tel"><b>07-696-6765</b></span><span class="add"><b>821高雄市路竹區忠孝路73號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 阿蓮中正店" href="/brandshop-3826-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%98%bf%e8%93%ae%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>阿蓮中正店</b></a></span><span class="tel"><b>07-631-4168</b></span><span class="add"><b>822高雄市阿蓮區中正路533號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 燕巢中民店" href="/brandshop-3123-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e7%87%95%e5%b7%a2%e4%b8%ad%e6%b0%91%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>燕巢中民店</b></a></span><span class="tel"><b>07-614-1859</b></span><span class="add"><b>824高雄市燕巢區中民路631號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 燕巢鳳旗店" href="/brandshop-6903-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e7%87%95%e5%b7%a2%e9%b3%b3%e6%97%97%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>燕巢鳳旗店</b></a></span><span class="tel"><b>07-615-1182</b></span><span class="add"><b>824高雄市燕巢區鳳旗路161號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 橋頭白樹店" href="/brandshop-3113-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a9%8b%e9%a0%ad%e7%99%bd%e6%a8%b9%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>橋頭白樹店</b></a></span><span class="tel"><b>07-612-5522</b></span><span class="add"><b>825高雄市橋頭區白樹路45號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄蚵仔寮店" href="/brandshop-3137-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e8%9a%b5%e4%bb%94%e5%af%ae%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄蚵仔寮店</b></a></span><span class="tel"><b>07-610-6118</b></span><span class="add"><b>826高雄市梓官區光明路112號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 彌陀中正店" href="/brandshop-3128-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%bd%8c%e9%99%80%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>彌陀中正店</b></a></span><span class="tel"><b>07-619-1975</b></span><span class="add"><b>827高雄市彌陀區中正路139號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 仁武中正店" href="/brandshop-8222-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e4%bb%81%e6%ad%a6%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>仁武中正店</b></a></span><span class="tel"><b>07-375-7876</b></span><span class="add"><b>830高雄市仁武區中正路193號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鳳山國中店" href="/brandshop-3132-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e5%9c%8b%e4%b8%ad%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鳳山國中店</b></a></span><span class="tel"><b>07-703-6016</b></span><span class="add"><b>830高雄市鳳山區中山東路132號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鳳山中崙店" href="/brandshop-6902-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e4%b8%ad%e5%b4%99%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鳳山中崙店</b></a></span><span class="tel"><b>07-755-2121</b></span><span class="add"><b>830高雄市鳳山區中崙四路2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 五甲光華店" href="/brandshop-3135-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e4%ba%94%e7%94%b2%e5%85%89%e8%8f%af%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>五甲光華店</b></a></span><span class="tel"><b>07-710-6688</b></span><span class="add"><b>830高雄市鳳山區五甲一路158號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鳳山五甲店" href="/brandshop-3069-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e4%ba%94%e7%94%b2%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鳳山五甲店</b></a></span><span class="tel"><b>07-768-3308</b></span><span class="add"><b>830高雄市鳳山區五甲二路542號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鳳山青年店" href="/brandshop-3083-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e9%9d%92%e5%b9%b4%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鳳山青年店</b></a></span><span class="tel"><b>07-780-8598</b></span><span class="add"><b>830高雄市鳳山區文清街141號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鳳山光遠店" href="/brandshop-3125-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e5%85%89%e9%81%a0%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鳳山光遠店</b></a></span><span class="tel"><b>07-710-9888</b></span><span class="add"><b>830高雄市鳳山區光遠路402號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 五甲自強店" href="/brandshop-3077-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e4%ba%94%e7%94%b2%e8%87%aa%e5%bc%b7%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>五甲自強店</b></a></span><span class="tel"><b>07-768-1573</b></span><span class="add"><b>830高雄市鳳山區自強二路92號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高捷鳳山西店" href="/brandshop-3101-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e6%8d%b7%e9%b3%b3%e5%b1%b1%e8%a5%bf%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高捷鳳山西店</b></a></span><span class="tel"><b>07-7457-123</b></span><span class="add"><b>830高雄市鳳山區青年路一段341號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鳳山新富店" href="/brandshop-3116-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e6%96%b0%e5%af%8c%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鳳山新富店</b></a></span><span class="tel"><b>07-763-6868</b></span><span class="add"><b>830高雄市鳳山區新富路466號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鳳山經武店" href="/brandshop-3109-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e7%b6%93%e6%ad%a6%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鳳山經武店</b></a></span><span class="tel"><b>07-710-2088</b></span><span class="add"><b>830高雄市鳳山區經武路195號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鳳山鳳頂店" href="/brandshop-3107-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e9%b3%b3%e9%a0%82%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鳳山鳳頂店</b></a></span><span class="tel"><b>07-792-3003</b></span><span class="add"><b>830高雄市鳳山區鳳頂路366號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 大寮國小店" href="/brandshop-3143-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e5%af%ae%e5%9c%8b%e5%b0%8f%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>大寮國小店</b></a></span><span class="tel"><b>07-788-5533</b></span><span class="add"><b>831高雄市大寮區大寮路783號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 大寮中庄店" href="/brandshop-3134-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e5%af%ae%e4%b8%ad%e5%ba%84%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>大寮中庄店</b></a></span><span class="tel"><b>07-7011-469</b></span><span class="add"><b>831高雄市大寮區四維路186號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 大寮鳳林店" href="/brandshop-3105-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e5%af%ae%e9%b3%b3%e6%9e%97%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>大寮鳳林店</b></a></span><span class="tel"><b>07-782-8800</b></span><span class="add"><b>831高雄市大寮區鳳林三路730號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 林園東林店" href="/brandshop-3095-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%9e%97%e5%9c%92%e6%9d%b1%e6%9e%97%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>林園東林店</b></a></span><span class="tel"><b>07-641-1661</b></span><span class="add"><b>832高雄市林園區東林西路20號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鳥松大仁店" href="/brandshop-7173-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%a5%e6%9d%be%e5%a4%a7%e4%bb%81%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鳥松大仁店</b></a></span><span class="tel"><b>07-733-2232</b></span><span class="add"><b>833高雄市鳥松區大仁南路14號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鳥松仁美店" href="/brandshop-3146-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%a5%e6%9d%be%e4%bb%81%e7%be%8e%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鳥松仁美店</b></a></span><span class="tel"><b>07-735-6563</b></span><span class="add"><b>833高雄市鳥松區學堂路137號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 大樹九曲堂店" href="/brandshop-3145-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e6%a8%b9%e4%b9%9d%e6%9b%b2%e5%a0%82%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>大樹九曲堂店</b></a></span><span class="tel"><b>07-652-0732</b></span><span class="add"><b>840高雄市大樹區久堂路206號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 大樹實踐店" href="/brandshop-3140-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e6%a8%b9%e5%af%a6%e8%b8%90%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>大樹實踐店</b></a></span><span class="tel"><b>07-651-0077</b></span><span class="add"><b>840高雄市大樹區實踐街55號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 旗山延平店" href="/brandshop-3070-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%97%97%e5%b1%b1%e5%bb%b6%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>旗山延平店</b></a></span><span class="tel"><b>07-661-6008</b></span><span class="add"><b>842高雄市旗山區延平一路670號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高雄美濃店" href="/brandshop-3141-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e7%be%8e%e6%bf%83%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高雄美濃店</b></a></span><span class="tel"><b>07-6820-666</b></span><span class="add"><b>843高雄市美濃區中正路一段3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 新興青年店" href="/brandshop-6898-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%96%b0%e8%88%88%e9%9d%92%e5%b9%b4%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>新興青年店</b></a></span><span class="tel"><b>07-216-8585</b></span><span class="add"><b>高雄市新興區青年一路228號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東大武店" href="/brandshop-3161-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e5%a4%a7%e6%ad%a6%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東大武店</b></a></span><span class="tel"><b>08-751-4500</b></span><span class="add"><b>900屏東縣屏東市大武路98號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東大學店" href="/brandshop-8229-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e5%a4%a7%e5%ad%b8%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東大學店</b></a></span><span class="tel"><b>08-723-9936</b></span><span class="add"><b>900屏東縣屏東市民生東路50之2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東勝利店" href="/brandshop-3155-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e5%8b%9d%e5%88%a9%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東勝利店</b></a></span><span class="tel"><b>08-733-8199</b></span><span class="add"><b>900屏東縣屏東市勝利路217號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東復興店" href="/brandshop-3152-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e5%be%a9%e8%88%88%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東復興店</b></a></span><span class="tel"><b>08-732-6037</b></span><span class="add"><b>900屏東縣屏東市復興北路7號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東陸興店" href="/brandshop-3153-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e9%99%b8%e8%88%88%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東陸興店</b></a></span><span class="tel"><b>08-721-0078</b></span><span class="add"><b>900屏東縣屏東市廣東路106號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東廣東店" href="/brandshop-3147-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e5%bb%a3%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東廣東店</b></a></span><span class="tel"><b>08-737-9977</b></span><span class="add"><b>900屏東縣屏東市廣東路619號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 公館龍華店" href="/brandshop-7570-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%85%ac%e9%a4%a8%e9%be%8d%e8%8f%af%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>公館龍華店</b></a></span><span class="tel"><b>08-7560-273</b></span><span class="add"><b>900屏東縣屏東市龍華路125號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 麟洛中山店" href="/brandshop-4788-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e9%ba%9f%e6%b4%9b%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>麟洛中山店</b></a></span><span class="tel"><b>08-721-5277</b></span><span class="add"><b>900屏東縣麟洛鄉中山路230號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 九如東寧店" href="/brandshop-3163-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e4%b9%9d%e5%a6%82%e6%9d%b1%e5%af%a7%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>九如東寧店</b></a></span><span class="tel"><b>08-739-7333</b></span><span class="add"><b>904屏東縣九如鄉東寧路184號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 里港中山店" href="/brandshop-3149-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e9%87%8c%e6%b8%af%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>里港中山店</b></a></span><span class="tel"><b>08-775-3068</b></span><span class="add"><b>905屏東縣里港鄉中山路71號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 鹽埔維新店" href="/brandshop-3162-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e9%b9%bd%e5%9f%94%e7%b6%ad%e6%96%b0%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>鹽埔維新店</b></a></span><span class="tel"><b>08-7935-999</b></span><span class="add"><b>907屏東縣鹽埔鄉維新路88-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 長治繁華店" href="/brandshop-3828-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e9%95%b7%e6%b2%bb%e7%b9%81%e8%8f%af%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>長治繁華店</b></a></span><span class="tel"><b>08-762-5577</b></span><span class="add"><b>908屏東縣長治鄉中山路1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東科大店" href="/brandshop-3159-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e7%a7%91%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東科大店</b></a></span><span class="tel"><b>08-770-9799</b></span><span class="add"><b>912屏東縣內埔鄉中林路11號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 龍泉昭勝店" href="/brandshop-7571-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e9%be%8d%e6%b3%89%e6%98%ad%e5%8b%9d%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>龍泉昭勝店</b></a></span><span class="tel"><b>08-770-3555</b></span><span class="add"><b>912屏東縣內埔鄉昭勝路57號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 內埔圓環店" href="/brandshop-3156-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%85%a7%e5%9f%94%e5%9c%93%e7%92%b0%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>內埔圓環店</b></a></span><span class="tel"><b>08-7797-277</b></span><span class="add"><b>912屏東縣內埔鄉廣濟路151號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 社皮大昌店" href="/brandshop-6893-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e7%a4%be%e7%9a%ae%e5%a4%a7%e6%98%8c%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>社皮大昌店</b></a></span><span class="tel"><b>08-707-6900</b></span><span class="add"><b>913屏東縣萬丹鄉社皮村大昌路598號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東萬丹店" href="/brandshop-3148-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e8%90%ac%e4%b8%b9%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東萬丹店</b></a></span><span class="tel"><b>08-777-5017</b></span><span class="add"><b>913屏東縣萬丹鄉萬丹路一段196號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 潮州圓環店" href="/brandshop-4784-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e6%bd%ae%e5%b7%9e%e5%9c%93%e7%92%b0%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>潮州圓環店</b></a></span><span class="tel"><b>08-786-1799</b></span><span class="add"><b>920屏東縣潮州鎮新生路129號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 潮州興隆店" href="/brandshop-3160-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e6%bd%ae%e5%b7%9e%e8%88%88%e9%9a%86%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>潮州興隆店</b></a></span><span class="tel"><b>08-786-1919</b></span><span class="add"><b>920屏東縣潮州鎮興隆路155號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東萬巒店" href="/brandshop-4839-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e8%90%ac%e5%b7%92%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東萬巒店</b></a></span><span class="tel"><b>08-781-0733</b></span><span class="add"><b>923屏東縣萬巒鄉褒忠路157號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東南州店" href="/brandshop-3157-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e5%8d%97%e5%b7%9e%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東南州店</b></a></span><span class="tel"><b>08-8646-005</b></span><span class="add"><b>926屏東縣南州鄉三民路154號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 林邊中山店" href="/brandshop-7572-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e6%9e%97%e9%82%8a%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>林邊中山店</b></a></span><span class="tel"><b>08-8755-875</b></span><span class="add"><b>927屏東縣林邊鄉中山路</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 東港中山店" href="/brandshop-3150-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e6%9d%b1%e6%b8%af%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>東港中山店</b></a></span><span class="tel"><b>08-833-4582</b></span><span class="add"><b>928屏東縣東港鎮中山路94號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 東港中正店" href="/brandshop-3164-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e6%9d%b1%e6%b8%af%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>東港中正店</b></a></span><span class="tel"><b>08-833-0105</b></span><span class="add"><b>928屏東縣東港鎮中正路一段295號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 小琉球店" href="/brandshop-7174-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b0%8f%e7%90%89%e7%90%83%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>小琉球店</b></a></span><span class="tel"><b>08-861-2921</b></span><span class="add"><b>929屏東縣琉球鄉中山路62號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東水底寮店" href="/brandshop-6895-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e6%b0%b4%e5%ba%95%e5%af%ae%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東水底寮店</b></a></span><span class="tel"><b>08-8711-659</b></span><span class="add"><b>940屏東縣枋寮鄉中山路二段291號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東枋寮店" href="/brandshop-3158-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e6%9e%8b%e5%af%ae%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東枋寮店</b></a></span><span class="tel"><b>08-878-4488</b></span><span class="add"><b>940屏東縣枋寮鄉中興路11號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 恆春中正店" href="/brandshop-4838-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e6%81%86%e6%98%a5%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>恆春中正店</b></a></span><span class="tel"><b>08-8899-989</b></span><span class="add"><b>946屏東縣恆春鎮中正路35號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東恆春店" href="/brandshop-3154-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e6%81%86%e6%98%a5%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東恆春店</b></a></span><span class="tel"><b>08-888-1979</b></span><span class="add"><b>946屏東縣恆春鎮恆南路165號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 屏東墾丁店" href="/brandshop-3151-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e5%a2%be%e4%b8%81%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>屏東墾丁店</b></a></span><span class="tel"><b>08-885-6853</b></span><span class="add"><b>946屏東縣恆春鎮墾丁路176號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 高樹南興店" href="/brandshop-7573-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e9%ab%98%e6%a8%b9%e5%8d%97%e8%88%88%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>高樹南興店</b></a></span><span class="tel"><b>08-796-1981</b></span><span class="add"><b>屏東縣高樹鄉高樹村南興路74之1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 冬山義成店" href="/brandshop-8412-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%86%ac%e5%b1%b1%e7%be%a9%e6%88%90%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>冬山義成店</b></a></span><span class="tel"><b>039-680-606</b></span><span class="add"><b>269宜蘭縣冬山鄉義成路三段373號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 宜蘭蘇澳店" href="/brandshop-3165-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e8%98%87%e6%be%b3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>宜蘭蘇澳店</b></a></span><span class="tel"><b>039-968509</b></span><span class="add"><b>270宜蘭縣蘇澳鎮中山路一段20號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 花蓮中正店" href="/brandshop-3167-%e9%ae%ae%e8%8c%b6%e9%81%93-%e8%8a%b1%e8%93%ae%e7%b8%a3-%e8%8a%b1%e8%93%ae%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>花蓮中正店</b></a></span><span class="tel"><b>03-8323-772</b></span><span class="add"><b>970花蓮縣花蓮市中正路514號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 花蓮國聯店" href="/brandshop-3166-%e9%ae%ae%e8%8c%b6%e9%81%93-%e8%8a%b1%e8%93%ae%e7%b8%a3-%e8%8a%b1%e8%93%ae%e5%9c%8b%e8%81%af%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>花蓮國聯店</b></a></span><span class="tel"><b>03-831-6929</b></span><span class="add"><b>970花蓮縣花蓮市國聯五路49號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 花蓮北埔店" href="/brandshop-3169-%e9%ae%ae%e8%8c%b6%e9%81%93-%e8%8a%b1%e8%93%ae%e7%b8%a3-%e8%8a%b1%e8%93%ae%e5%8c%97%e5%9f%94%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>花蓮北埔店</b></a></span><span class="tel"><b>03-826-0710</b></span><span class="add"><b>971花蓮縣新城鄉北埔路199號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 花蓮玉里店" href="/brandshop-3170-%e9%ae%ae%e8%8c%b6%e9%81%93-%e8%8a%b1%e8%93%ae%e7%b8%a3-%e8%8a%b1%e8%93%ae%e7%8e%89%e9%87%8c%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>花蓮玉里店</b></a></span><span class="tel"><b>03-898-0060</b></span><span class="add"><b>981花蓮縣玉里鎮中山路二段112號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台東中華店" href="/brandshop-3173-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e6%9d%b1%e7%b8%a3-%e5%8f%b0%e6%9d%b1%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台東中華店</b></a></span><span class="tel"><b>089-333-313</b></span><span class="add"><b>950台東縣台東市中華路二段30號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台東傳廣店" href="/brandshop-3171-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e6%9d%b1%e7%b8%a3-%e5%8f%b0%e6%9d%b1%e5%82%b3%e5%bb%a3%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台東傳廣店</b></a></span><span class="tel"><b>089-333-520</b></span><span class="add"><b>950台東縣台東市傳廣路26號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 台東新生店" href="/brandshop-3172-%e9%ae%ae%e8%8c%b6%e9%81%93-%e5%8f%b0%e6%9d%b1%e7%b8%a3-%e5%8f%b0%e6%9d%b1%e6%96%b0%e7%94%9f%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>台東新生店</b></a></span><span class="tel"><b>089-321-112</b></span><span class="add"><b>950台東縣台東市新生路98號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 馬公民生店" href="/brandshop-3174-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%be%8e%e6%b9%96%e7%b8%a3-%e9%a6%ac%e5%85%ac%e6%b0%91%e7%94%9f%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>馬公民生店</b></a></span><span class="tel"><b>06-927-1886</b></span><span class="add"><b>880澎湖縣馬公市民生路3-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 北辰光復店" href="/brandshop-3175-%e9%ae%ae%e8%8c%b6%e9%81%93-%e6%be%8e%e6%b9%96%e7%b8%a3-%e5%8c%97%e8%be%b0%e5%85%89%e5%be%a9%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>北辰光復店</b></a></span><span class="tel"><b>06-927-7708</b></span><span class="add"><b>880澎湖縣馬公市光復路96號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往鮮茶道 金城站前店" href="/brandshop-6894-%e9%ae%ae%e8%8c%b6%e9%81%93-%e9%87%91%e9%96%80%e7%b8%a3-%e9%87%91%e5%9f%8e%e7%ab%99%e5%89%8d%e5%ba%97.html" class="name">
+										<b>鮮茶道</b><br>
+										<b>金城站前店</b></a></span><span class="tel"><b>082-312-146</b></span><span class="add"><b>893金門縣金城鎮中興路146巷28號</b><br></span></li>
+								
+								
+									
+								
+						</div>

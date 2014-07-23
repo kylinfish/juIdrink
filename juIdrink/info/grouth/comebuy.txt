@@ -1,0 +1,816 @@
+<div class="right">
+							<h1><b>COMEBUY - 全台灣分店門市查詢</b></h1>
+							<div class="sort">
+								
+								
+								<a id="CityTotal" href="brandshop-COMEBUY-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>全台灣分店</b></a>
+																
+									<a title="前往COMEBUY基隆市分店門市" href="brandshopcity-COMEBUY-%e5%9f%ba%e9%9a%86%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>基隆市</b></a>
+																	
+									<a title="前往COMEBUY台北市分店門市" href="brandshopcity-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台北市</b></a>
+																	
+									<a title="前往COMEBUY新北市分店門市" href="brandshopcity-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新北市</b></a>
+																	
+									<a title="前往COMEBUY桃園縣分店門市" href="brandshopcity-COMEBUY-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>桃園縣</b></a>
+																	
+									<a title="前往COMEBUY新竹市分店門市" href="brandshopcity-COMEBUY-%e6%96%b0%e7%ab%b9%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新竹市</b></a>
+																	
+									<a title="前往COMEBUY台中市分店門市" href="brandshopcity-COMEBUY-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台中市</b></a>
+																	
+									<a title="前往COMEBUY彰化縣分店門市" href="brandshopcity-COMEBUY-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>彰化縣</b></a>
+																	
+									<a title="前往COMEBUY嘉義市分店門市" href="brandshopcity-COMEBUY-%e5%98%89%e7%be%a9%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>嘉義市</b></a>
+																	
+									<a title="前往COMEBUY台南市分店門市" href="brandshopcity-COMEBUY-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台南市</b></a>
+																	
+									<a title="前往COMEBUY高雄市分店門市" href="brandshopcity-COMEBUY-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>高雄市</b></a>
+																	
+									<a title="前往COMEBUY宜蘭縣分店門市" href="brandshopcity-COMEBUY-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>宜蘭縣</b></a>
+																	
+									<a title="前往COMEBUY花蓮縣分店門市" href="brandshopcity-COMEBUY-%e8%8a%b1%e8%93%ae%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>花蓮縣</b></a>
+																	
+									<a title="前往COMEBUY台東縣分店門市" href="brandshopcity-COMEBUY-%e5%8f%b0%e6%9d%b1%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台東縣</b></a>
+																	
+									<a title="前往COMEBUY澎湖縣分店門市" href="brandshopcity-COMEBUY-%e6%be%8e%e6%b9%96%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>澎湖縣</b></a>
+																	
+									<a title="前往COMEBUY金門縣分店門市" href="brandshopcity-COMEBUY-%e9%87%91%e9%96%80%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>金門縣</b></a>
+																	
+									<a title="前往COMEBUY連江縣分店門市" href="brandshopcity-COMEBUY-%e9%80%a3%e6%b1%9f%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>連江縣</b></a>
+								
+								
+							</div>
+							<input type="hidden" name="Sel_City" id="Sel_City">
+							
+							
+									
+									
+									<li><span><a title="前往COMEBUY 仁二店" href="/brandshop-4464-COMEBUY-%e5%9f%ba%e9%9a%86%e5%b8%82-%e4%bb%81%e4%ba%8c%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>仁二店</b></a></span><span class="tel"><b>02-2429-1881</b></span><span class="add"><b>200基隆市仁愛區仁二路66號1樓</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 台汽店" href="/brandshop-1133-COMEBUY-%e5%9f%ba%e9%9a%86%e5%b8%82-%e5%8f%b0%e6%b1%bd%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>台汽店</b></a></span><span class="tel"><b>02-2427-8636</b></span><span class="add"><b>200基隆市仁愛區港西街3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 新豐(研磨咖啡)店" href="/brandshop-1131-COMEBUY-%e5%9f%ba%e9%9a%86%e5%b8%82-%e6%96%b0%e8%b1%90(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>新豐(研磨咖啡)店</b></a></span><span class="tel"><b>02-2469-0662</b></span><span class="add"><b>202基隆市中正區新豐街365號1樓</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 義二(研磨咖啡)店" href="/brandshop-7260-COMEBUY-%e5%9f%ba%e9%9a%86%e5%b8%82-%e7%be%a9%e4%ba%8c(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>義二(研磨咖啡)店</b></a></span><span class="tel"><b>02-2422-3886</b></span><span class="add"><b>202基隆市中正區義二路16號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 聖心(研磨咖啡)店" href="/brandshop-8239-COMEBUY-%e5%9f%ba%e9%9a%86%e5%b8%82-%e8%81%96%e5%bf%83(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>聖心(研磨咖啡)店</b></a></span><span class="tel"><b>02-2426-2188</b></span><span class="add"><b>203基隆巿中山區西定路48號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 八德店" href="/brandshop-1122-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%85%ab%e5%be%b7%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>八德店</b></a></span><span class="tel"><b>02-2341-6652</b></span><span class="add"><b>100台北市中正區八德路一段82巷18號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 台北微風(研磨咖啡)店" href="/brandshop-1120-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%be%ae%e9%a2%a8(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>台北微風(研磨咖啡)店</b></a></span><span class="tel"><b>02-2312-1353</b></span><span class="add"><b>100台北市中正區北平西路3號2樓42號櫃</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 光華(研磨咖啡_豆逗)" href="/brandshop-3575-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%85%89%e8%8f%af(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1_%e8%b1%86%e9%80%97).html" class="name">
+										<b>COMEBUY</b><br>
+										<b>光華(研磨咖啡_豆逗)</b></a></span><span class="tel"><b>02-2341-8563</b></span><span class="add"><b>100台北市中正區市民大道三段8號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 公館店" href="/brandshop-1123-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%85%ac%e9%a4%a8%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>公館店</b></a></span><span class="tel"><b>02-2362-1969</b></span><span class="add"><b>100台北市中正區汀州路三段195號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 城中(研磨咖啡)店" href="/brandshop-2086-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%9f%8e%e4%b8%ad(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>城中(研磨咖啡)店</b></a></span><span class="tel"><b>02-2331-0151</b></span><span class="add"><b>100台北市中正區武昌街一段19號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 信陽店" href="/brandshop-1320-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e4%bf%a1%e9%99%bd%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>信陽店</b></a></span><span class="tel"><b>02-2311-2215</b></span><span class="add"><b>100台北市中正區信陽街13-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 南陽(咖啡)店" href="/brandshop-1319-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8d%97%e9%99%bd(%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>南陽(咖啡)店</b></a></span><span class="tel"><b>02-2361-1255</b></span><span class="add"><b>100台北市中正區南陽街4號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 南陽(研磨咖啡)店" href="/brandshop-7735-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8d%97%e9%99%bd(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>南陽(研磨咖啡)店</b></a></span><span class="tel"><b>02-2361-1255</b></span><span class="add"><b>100台北市中正區南陽街4號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 台北重慶店" href="/brandshop-1121-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e9%87%8d%e6%85%b6%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>台北重慶店</b></a></span><span class="tel"><b>02-2389-4927</b></span><span class="add"><b>100台北市中正區重慶南路一段20號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 博愛(咖啡)店" href="/brandshop-2079-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8d%9a%e6%84%9b(%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>博愛(咖啡)店</b></a></span><span class="tel"><b>02-2312-1568</b></span><span class="add"><b>100台北市中正區博愛路68號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 博愛(研磨咖啡)店" href="/brandshop-7736-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8d%9a%e6%84%9b(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>博愛(研磨咖啡)店</b></a></span><span class="tel"><b>02-2312-1568</b></span><span class="add"><b>100台北市中正區博愛路68號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 衡陽(研磨咖啡)店" href="/brandshop-8240-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e8%a1%a1%e9%99%bd(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>衡陽(研磨咖啡)店</b></a></span><span class="tel"><b>02-2382-2557</b></span><span class="add"><b>100台北市中正區衡陽路85之1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 汀洲店" href="/brandshop-2082-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%b1%80%e6%b4%b2%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>汀洲店</b></a></span><span class="tel"><b>02-2364-9918</b></span><span class="add"><b>100台北市中正區羅斯福路四段136巷6號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 林森二(研磨咖啡)店" href="/brandshop-2081-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%9e%97%e6%a3%ae%e4%ba%8c(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>林森二(研磨咖啡)店</b></a></span><span class="tel"><b>02-2568-2800</b></span><span class="add"><b>104台北市中山區林森北路263號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 林森三店" href="/brandshop-2085-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%9e%97%e6%a3%ae%e4%b8%89%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>林森三店</b></a></span><span class="tel"><b>02-2522-2182</b></span><span class="add"><b>104台北市中山區林森北路南京東路一段151號1樓(南京東路一段麥當勞旁)</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 林森(研磨咖啡_豆逗)店" href="/brandshop-7730-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%9e%97%e6%a3%ae(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1_%e8%b1%86%e9%80%97)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>林森(研磨咖啡_豆逗)店</b></a></span><span class="tel"><b>02-2581-9907</b></span><span class="add"><b>104台北市中山區欣欣百貨林森北路247號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 國賓(研磨咖啡)店" href="/brandshop-4832-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%9c%8b%e8%b3%93(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>國賓(研磨咖啡)店</b></a></span><span class="tel"><b>02-2518-5200</b></span><span class="add"><b>104台北市中山區長春路172號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 台北錦州店" href="/brandshop-8392-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e9%8c%a6%e5%b7%9e%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>台北錦州店</b></a></span><span class="tel"><b>02-2516-7757</b></span><span class="add"><b>104台北市中山區錦州街242號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 新東(研磨咖啡_豆逗)店" href="/brandshop-3720-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e6%9d%b1(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1_%e8%b1%86%e9%80%97)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>新東(研磨咖啡_豆逗)店</b></a></span><span class="tel"><b>02-2756-5660</b></span><span class="add"><b>105 台北市松山區新東街29號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 新東(研磨咖啡)店" href="/brandshop-7737-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e6%9d%b1(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>新東(研磨咖啡)店</b></a></span><span class="tel"><b>02-2756-5660</b></span><span class="add"><b>105台北市松山區新東街29號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 慶城店" href="/brandshop-2083-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%85%b6%e5%9f%8e%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>慶城店</b></a></span><span class="tel"><b>02-2719-1879</b></span><span class="add"><b>105台北市松山區慶城街14號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 安居店" href="/brandshop-1959-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%ae%89%e5%b1%85%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>安居店</b></a></span><span class="tel"><b>02-2737-2557</b></span><span class="add"><b>106台北市大安區安居街30號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 和平店" href="/brandshop-1958-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%92%8c%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>和平店</b></a></span><span class="tel"><b>02-2738-1693</b></span><span class="add"><b>106台北市大安區和平東路二段118巷38號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 安居二店" href="/brandshop-1118-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%ae%89%e5%b1%85%e4%ba%8c%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>安居二店</b></a></span><span class="tel"><b>02-8732-1829</b></span><span class="add"><b>106台北市大安區和平東路三段258號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 忠孝統領(研磨咖啡)店" href="/brandshop-6889-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%bf%a0%e5%ad%9d%e7%b5%b1%e9%a0%98(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>忠孝統領(研磨咖啡)店</b></a></span><span class="tel"><b>02-2721-5165</b></span><span class="add"><b>106台北市大安區忠孝東路四段201號1F-10櫃位</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 師大店" href="/brandshop-2096-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%b8%ab%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>師大店</b></a></span><span class="tel"><b>02-2362-6260</b></span><span class="add"><b>106台北市大安區師大路98號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 台大小福樓店" href="/brandshop-2078-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%a4%a7%e5%b0%8f%e7%a6%8f%e6%a8%93%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>台大小福樓店</b></a></span><span class="tel"><b>02-8369-5652</b></span><span class="add"><b>106台北市大安區國立大學羅斯福路四段1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 通化店" href="/brandshop-1119-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e9%80%9a%e5%8c%96%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>通化店</b></a></span><span class="tel"><b>02-2732-1360</b></span><span class="add"><b>106台北市大安區通化街103號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 中華店" href="/brandshop-3574-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>中華店</b></a></span><span class="tel"><b>02-23714442</b></span><span class="add"><b>108台北市萬華區中華路一段88號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 成都店" href="/brandshop-2080-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%88%90%e9%83%bd%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>成都店</b></a></span><span class="tel"><b>02-2311-3615</b></span><span class="add"><b>108台北市萬華區成都路37號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 信義ATT(研磨咖啡)店" href="/brandshop-7733-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e4%bf%a1%e7%be%a9ATT(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>信義ATT(研磨咖啡)店</b></a></span><span class="tel"><b>02-7737-0755</b></span><span class="add"><b>110台北市信義區ATT 4 FUN松壽路12號1-27</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 永吉二(研磨咖啡)店" href="/brandshop-2088-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%b0%b8%e5%90%89%e4%ba%8c(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>永吉二(研磨咖啡)店</b></a></span><span class="tel"><b>02-2768-5508</b></span><span class="add"><b>110台北市信義區永吉路30巷177弄1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 永吉(研磨咖啡)店" href="/brandshop-2087-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%b0%b8%e5%90%89(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>永吉(研磨咖啡)店</b></a></span><span class="tel"><b>02-2747-5839</b></span><span class="add"><b>110台北市信義區永吉路30巷97號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 北醫(研磨咖啡_豆逗)店" href="/brandshop-7727-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8c%97%e9%86%ab(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1_%e8%b1%86%e9%80%97)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>北醫(研磨咖啡_豆逗)店</b></a></span><span class="tel"><b>02-8789-0133</b></span><span class="add"><b>110台北市信義區吳興街277號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 信義ATT(研磨咖啡_豆逗)" href="/brandshop-6585-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e4%bf%a1%e7%be%a9ATT(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1_%e8%b1%86%e9%80%97).html" class="name">
+										<b>COMEBUY</b><br>
+										<b>信義ATT(研磨咖啡_豆逗)</b></a></span><span class="tel"><b>02-7737-0755</b></span><span class="add"><b>110台北市信義區松壽路12號1樓-27</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 天母(研磨咖啡)店" href="/brandshop-2091-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%a4%a9%e6%af%8d(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>天母(研磨咖啡)店</b></a></span><span class="tel"><b>02-2875-3592</b></span><span class="add"><b>111台北市士林區天母西路3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 士林文林(研磨咖啡)店" href="/brandshop-7725-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%a3%ab%e6%9e%97%e6%96%87%e6%9e%97(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>士林文林(研磨咖啡)店</b></a></span><span class="tel"><b>02-2882-2812</b></span><span class="add"><b>111台北市士林區文林路169號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 文化店" href="/brandshop-2093-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%96%87%e5%8c%96%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>文化店</b></a></span><span class="tel"><b>02-2862-0336</b></span><span class="add"><b>111台北市士林區光華路26巷2弄2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 社子延平店" href="/brandshop-2092-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e7%a4%be%e5%ad%90%e5%bb%b6%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>社子延平店</b></a></span><span class="tel"><b>02-2816-6864</b></span><span class="add"><b>111台北市士林區延平北路六段59號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 芝山(研磨咖啡)店" href="/brandshop-2084-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e8%8a%9d%e5%b1%b1(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>芝山(研磨咖啡)店</b></a></span><span class="tel"><b>02-2834-2500</b></span><span class="add"><b>111台北市士林區福華路162-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 北投裕民(研磨咖啡)店" href="/brandshop-1126-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8c%97%e6%8a%95%e8%a3%95%e6%b0%91(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>北投裕民(研磨咖啡)店</b></a></span><span class="tel"><b>02-2823-3494</b></span><span class="add"><b>112台北市北投區裕民一路30號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 西湖店" href="/brandshop-1128-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e8%a5%bf%e6%b9%96%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>西湖店</b></a></span><span class="tel"><b>02-8797-6820</b></span><span class="add"><b>114台北市內湖區內湖路一段285巷25號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 內湖三總店" href="/brandshop-1127-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%85%a7%e6%b9%96%e4%b8%89%e7%b8%bd%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>內湖三總店</b></a></span><span class="tel"><b>02-2792-8281</b></span><span class="add"><b>114台北市內湖區成功路325號C04櫃</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 昆陽(研磨咖啡)店" href="/brandshop-7732-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%98%86%e9%99%bd(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>昆陽(研磨咖啡)店</b></a></span><span class="tel"><b>02-2652-2886</b></span><span class="add"><b>115台北市南港區昆陽街140巷2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 昆陽店" href="/brandshop-7410-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%98%86%e9%99%bd%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>昆陽店</b></a></span><span class="tel"><b>02-2652-2886</b></span><span class="add"><b>115台北市南港區昆陽街140巷2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 政大(研磨咖啡)店" href="/brandshop-7734-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%94%bf%e5%a4%a7(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>政大(研磨咖啡)店</b></a></span><span class="tel"><b>02-2939-2010</b></span><span class="add"><b>116台北市文山區指南路二段61號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 政大(研磨咖啡_豆逗)店" href="/brandshop-2094-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%94%bf%e5%a4%a7(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1_%e8%b1%86%e9%80%97)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>政大(研磨咖啡_豆逗)店</b></a></span><span class="tel"><b>02-2939-2010</b></span><span class="add"><b>116台北市文山區指南路二段61號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 景美店" href="/brandshop-2095-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%99%af%e7%be%8e%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>景美店</b></a></span><span class="tel"><b>02-2930-1779</b></span><span class="add"><b>116台北市文山區景中街9號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 台北東吳(研磨咖啡)店" href="/brandshop-7139-COMEBUY-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%9d%b1%e5%90%b3(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>台北東吳(研磨咖啡)店</b></a></span><span class="tel"><b>02-2882-8158</b></span><span class="add"><b>台北市士林區臨溪街70號 綜合大樓B1 東吳大學</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 四維店" href="/brandshop-8238-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%9b%9b%e7%b6%ad%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>四維店</b></a></span><span class="tel"><b>02-2257-8021</b></span><span class="add"><b>220新北市板橋區四維路298號一樓</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 松柏(研磨咖啡)店" href="/brandshop-4830-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9d%be%e6%9f%8f(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>松柏(研磨咖啡)店</b></a></span><span class="tel"><b>02-8259-5119</b></span><span class="add"><b>220新北市板橋區松柏街2號1樓</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 南雅二店" href="/brandshop-1297-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%8d%97%e9%9b%85%e4%ba%8c%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>南雅二店</b></a></span><span class="tel"><b>02-2271-0133</b></span><span class="add"><b>220新北市板橋區南雅南路一段77號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 南雅店" href="/brandshop-1314-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%8d%97%e9%9b%85%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>南雅店</b></a></span><span class="tel"><b>02-8967-7812</b></span><span class="add"><b>220新北市板橋區南雅南路二段138號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 重慶店" href="/brandshop-1312-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%87%8d%e6%85%b6%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>重慶店</b></a></span><span class="tel"><b>02-2962-6600</b></span><span class="add"><b>220新北市板橋區重慶路36號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 遠百(研磨咖啡_豆逗)店" href="/brandshop-4371-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%81%a0%e7%99%be(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1_%e8%b1%86%e9%80%97)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>遠百(研磨咖啡_豆逗)店</b></a></span><span class="tel"><b>02-2963-8308</b></span><span class="add"><b>220新北市板橋區新民街45-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 康寧店" href="/brandshop-4829-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%ba%b7%e5%af%a7%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>康寧店</b></a></span><span class="tel"><b>02-2692-5295</b></span><span class="add"><b>221新北市汐止區康寧街399號1樓</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 新台五(研磨咖啡)店" href="/brandshop-1295-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e5%8f%b0%e4%ba%94(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>新台五(研磨咖啡)店</b></a></span><span class="tel"><b>02-2649-9033</b></span><span class="add"><b>221新北市汐止區新台五路一段152號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 埔新(研磨咖啡)店" href="/brandshop-6888-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%9f%94%e6%96%b0(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>埔新(研磨咖啡)店</b></a></span><span class="tel"><b>02-2662-9155</b></span><span class="add"><b>222新北市深坑區埔新街94號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 大豐店" href="/brandshop-1318-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%a4%a7%e8%b1%90%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>大豐店</b></a></span><span class="tel"><b>02-2910-0052</b></span><span class="add"><b>231新北市新店區大豐路19號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 寶橋(研磨咖啡)店" href="/brandshop-8241-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%af%b6%e6%a9%8b(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>寶橋(研磨咖啡)店</b></a></span><span class="tel"><b>02-8911-6588</b></span><span class="add"><b>231新北市新店區寶橋路236號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 保平店" href="/brandshop-1317-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%bf%9d%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>保平店</b></a></span><span class="tel"><b>02-2929-3322</b></span><span class="add"><b>234新北市永和區保平路15號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 中和興南店" href="/brandshop-4356-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%ad%e5%92%8c%e8%88%88%e5%8d%97%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>中和興南店</b></a></span><span class="tel"><b>02-8668-7783</b></span><span class="add"><b>235新北市中和市興南路一段57號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 大勇(研磨咖啡)店" href="/brandshop-7419-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%a4%a7%e5%8b%87(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>大勇(研磨咖啡)店</b></a></span><span class="tel"><b>02-8668-6525</b></span><span class="add"><b>235新北市中和區大勇街27巷2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 南山(研磨咖啡)店" href="/brandshop-7259-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%8d%97%e5%b1%b1(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>南山(研磨咖啡)店</b></a></span><span class="tel"><b>02-8245-7227</b></span><span class="add"><b>235新北市中和區南山路283巷10號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 連城(研磨咖啡)店" href="/brandshop-1294-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%80%a3%e5%9f%8e(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>連城(研磨咖啡)店</b></a></span><span class="tel"><b>02-2221-6776</b></span><span class="add"><b>235新北市中和區連城路339號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 德光店" href="/brandshop-1293-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%be%b7%e5%85%89%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>德光店</b></a></span><span class="tel"><b>02-8953-9593</b></span><span class="add"><b>235新北市中和區德光路98號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 光明店" href="/brandshop-1290-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%85%89%e6%98%8e%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>光明店</b></a></span><span class="tel"><b>02-2260-1696</b></span><span class="add"><b>236新北市土城區光明街1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 大同店" href="/brandshop-1310-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%a4%a7%e5%90%8c%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>大同店</b></a></span><span class="tel"><b>02-2984-1944</b></span><span class="add"><b>241新北市三重區大同北路6-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 力行店" href="/brandshop-1311-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%8a%9b%e8%a1%8c%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>力行店</b></a></span><span class="tel"><b>02-2280-8455</b></span><span class="add"><b>241新北市三重區車路頭街167號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 五權店" href="/brandshop-1291-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%ba%94%e6%ac%8a%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>五權店</b></a></span><span class="tel"><b>02-2298-3006</b></span><span class="add"><b>242新北市新莊區五權一路22號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 鴻金寶(研磨咖啡)店" href="/brandshop-4831-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%b4%bb%e9%87%91%e5%af%b6(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>鴻金寶(研磨咖啡)店</b></a></span><span class="tel"><b>02-2208-2755</b></span><span class="add"><b>242新北市新莊區民安路188巷5號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 輔大店" href="/brandshop-1303-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e8%bc%94%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>輔大店</b></a></span><span class="tel"><b>02-2901-7071</b></span><span class="add"><b>242新北市新莊區建國一路28號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 後港店" href="/brandshop-1302-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%be%8c%e6%b8%af%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>後港店</b></a></span><span class="tel"><b>02-2206-0772</b></span><span class="add"><b>242新北市新莊區後港一路74號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 明志店" href="/brandshop-1304-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%98%8e%e5%bf%97%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>明志店</b></a></span><span class="tel"><b>02-2903-1628</b></span><span class="add"><b>243新北市泰山區明志路三段181號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 醒吾店" href="/brandshop-1306-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%86%92%e5%90%be%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>醒吾店</b></a></span><span class="tel"><b>02-2601-1783</b></span><span class="add"><b>244新北市林口區粉寮路一段68號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 中正店" href="/brandshop-1309-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>中正店</b></a></span><span class="tel"><b>02-8281-1221</b></span><span class="add"><b>247新北市蘆洲區中正路92號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 民族(研磨咖啡)店" href="/brandshop-6886-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%b0%91%e6%97%8f(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>民族(研磨咖啡)店</b></a></span><span class="tel"><b>02-2281-5633</b></span><span class="add"><b>247新北市蘆洲區民族路57號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 長安店" href="/brandshop-1308-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%95%b7%e5%ae%89%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>長安店</b></a></span><span class="tel"><b>02-2848-6892</b></span><span class="add"><b>247新北市蘆洲區長安街</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 成泰店" href="/brandshop-1307-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%88%90%e6%b3%b0%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>成泰店</b></a></span><span class="tel"><b>02-8295-8419</b></span><span class="add"><b>248新北市五股區成泰路二段146號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 北新店" href="/brandshop-1300-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%8c%97%e6%96%b0%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>北新店</b></a></span><span class="tel"><b>02-2629-7486</b></span><span class="add"><b>251新北市淡水區北新路182巷17號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 英專(研磨咖啡)店" href="/brandshop-6586-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e8%8b%b1%e5%b0%88(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>英專(研磨咖啡)店</b></a></span><span class="tel"><b>02-2623-6773</b></span><span class="add"><b>251新北市淡水區英專路112號1樓</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 真理(研磨咖啡)店" href="/brandshop-8237-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e7%9c%9f%e7%90%86(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>真理(研磨咖啡)店</b></a></span><span class="tel"><b>02-2626-7520</b></span><span class="add"><b>251新北市淡水區新民街164號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 北大店" href="/brandshop-1292-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%8c%97%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>北大店</b></a></span><span class="tel"><b>02-2671-5138</b></span><span class="add"><b>新北市三峽區國際二街33號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 興南店" href="/brandshop-7261-COMEBUY-%e6%96%b0%e5%8c%97%e5%b8%82-%e8%88%88%e5%8d%97%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>興南店</b></a></span><span class="tel"><b>02-8668-7783</b></span><span class="add"><b>新北市中和市興南路一段57號1+2樓</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 中北店" href="/brandshop-1137-COMEBUY-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%8c%97%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>中北店</b></a></span><span class="tel"><b>03-437-8497</b></span><span class="add"><b>320桃園縣中壢市中北路178號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 中壢站前店" href="/brandshop-4491-COMEBUY-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e7%ab%99%e5%89%8d%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>中壢站前店</b></a></span><span class="tel"><b>03-426-5680</b></span><span class="add"><b>320桃園縣中壢市中和街139號1樓</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 林口復興(研磨咖啡)店" href="/brandshop-7729-COMEBUY-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%9e%97%e5%8f%a3%e5%be%a9%e8%88%88(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>林口復興(研磨咖啡)店</b></a></span><span class="tel"><b>03-396-0099</b></span><span class="add"><b>333桃園縣龜山鄉復興北路39號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 林口復興(研磨咖啡_豆逗)店" href="/brandshop-4827-COMEBUY-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%9e%97%e5%8f%a3%e5%be%a9%e8%88%88(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1_%e8%b1%86%e9%80%97)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>林口復興(研磨咖啡_豆逗)店</b></a></span><span class="tel"><b>03-396-0099</b></span><span class="add"><b>333桃園縣龜山鄉復興北路39號1樓</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 迴龍店" href="/brandshop-1135-COMEBUY-%e6%a1%83%e5%9c%92%e7%b8%a3-%e8%bf%b4%e9%be%8d%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>迴龍店</b></a></span><span class="tel"><b>02-8209-6228</b></span><span class="add"><b>333桃園縣龜山鄉龍華村龍興街4號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 大溪得勝(研磨咖啡)店" href="/brandshop-1139-COMEBUY-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%a4%a7%e6%ba%aa%e5%be%97%e5%8b%9d(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>大溪得勝(研磨咖啡)店</b></a></span><span class="tel"><b>03-388-6088</b></span><span class="add"><b>335桃園縣大溪鎮得勝路1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 南崁店" href="/brandshop-1136-COMEBUY-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%8d%97%e5%b4%81%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>南崁店</b></a></span><span class="tel"><b>03-222-5003</b></span><span class="add"><b>338桃園縣蘆竹鄉南崁路176號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 新竹交大店" href="/brandshop-1140-COMEBUY-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e4%ba%a4%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>新竹交大店</b></a></span><span class="tel"><b>03-571-2121#59085</b></span><span class="add"><b>300新竹市東區大學路1001號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 新竹竹汽店" href="/brandshop-1142-COMEBUY-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e7%ab%b9%e6%b1%bd%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>新竹竹汽店</b></a></span><span class="tel"><b>03-5262-575</b></span><span class="add"><b>300新竹市東區民族路16號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 新竹金山(研磨咖啡)店" href="/brandshop-4779-COMEBUY-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e9%87%91%e5%b1%b1(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>新竹金山(研磨咖啡)店</b></a></span><span class="tel"><b>03-6686100</b></span><span class="add"><b>300新竹市東區金山九街35.37號1樓</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 台中興大(研磨咖啡)店" href="/brandshop-7437-COMEBUY-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e8%88%88%e5%a4%a7(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>台中興大(研磨咖啡)店</b></a></span><span class="tel"><b>04-2285-1108</b></span><span class="add"><b>402台中市南區學府路50號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 彰化中正(研磨咖啡)店" href="/brandshop-7236-COMEBUY-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e4%b8%ad%e6%ad%a3(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>彰化中正(研磨咖啡)店</b></a></span><span class="tel"><b>04-7272-921</b></span><span class="add"><b>500彰化縣彰化市中正路二段48號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 嘉義光華(研磨咖啡)店" href="/brandshop-6887-COMEBUY-%e5%98%89%e7%be%a9%e5%b8%82-%e5%98%89%e7%be%a9%e5%85%89%e8%8f%af(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>嘉義光華(研磨咖啡)店</b></a></span><span class="tel"><b>05-2222-001</b></span><span class="add"><b>600嘉義市東區光華路145號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 台南站前店" href="/brandshop-1148-COMEBUY-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e7%ab%99%e5%89%8d%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>台南站前店</b></a></span><span class="tel"><b>06-222-8941</b></span><span class="add"><b>700台南市中西區中山路207號 </b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 台南應大店" href="/brandshop-1149-COMEBUY-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%87%89%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>台南應大店</b></a></span><span class="tel"><b>06-2432043</b></span><span class="add"><b>710台南市永康區中正路912號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 高雄十全店" href="/brandshop-4492-COMEBUY-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%8d%81%e5%85%a8%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>高雄十全店</b></a></span><span class="tel"><b>07-311-3666</b></span><span class="add"><b>807高雄市三民區十全一路109號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 高雄大昌店" href="/brandshop-1153-COMEBUY-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%a4%a7%e6%98%8c%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>高雄大昌店</b></a></span><span class="tel"><b>07-3811-425</b></span><span class="add"><b>807高雄市三民區大昌一路19號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 林園文化店" href="/brandshop-1151-COMEBUY-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%9e%97%e5%9c%92%e6%96%87%e5%8c%96%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>林園文化店</b></a></span><span class="tel"><b>07-641-7681</b></span><span class="add"><b>832高雄市林園區文化街209號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 宜蘭中山店" href="/brandshop-1156-COMEBUY-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>宜蘭中山店</b></a></span><span class="tel"><b>03-932-4151</b></span><span class="add"><b>260宜蘭縣宜蘭市中山路三段199號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 宜蘭復興店" href="/brandshop-1155-COMEBUY-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e5%be%a9%e8%88%88%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>宜蘭復興店</b></a></span><span class="tel"><b>03-935-6455</b></span><span class="add"><b>260宜蘭縣宜蘭市復興路一段127號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 宜蘭聖後店" href="/brandshop-7728-COMEBUY-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e8%81%96%e5%be%8c%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>宜蘭聖後店</b></a></span><span class="tel"><b>039-313-558</b></span><span class="add"><b>260宜蘭縣宜蘭市聖後街102號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 宜蘭舊城店" href="/brandshop-1154-COMEBUY-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e8%88%8a%e5%9f%8e%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>宜蘭舊城店</b></a></span><span class="tel"><b>039-351-006</b></span><span class="add"><b>260宜蘭縣宜蘭市舊城南路32號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 宜蘭頭城店" href="/brandshop-2237-COMEBUY-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e9%a0%ad%e5%9f%8e%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>宜蘭頭城店</b></a></span><span class="tel"><b>03-977-9913</b></span><span class="add"><b>261宜蘭縣頭城鎮青雲路三段115號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 宜蘭礁溪店" href="/brandshop-2238-COMEBUY-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e7%a4%81%e6%ba%aa%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>宜蘭礁溪店</b></a></span><span class="tel"><b>03-9875-006</b></span><span class="add"><b>262宜蘭縣礁溪鄉中山路二段160號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 羅東站前店" href="/brandshop-1157-COMEBUY-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e7%be%85%e6%9d%b1%e7%ab%99%e5%89%8d%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>羅東站前店</b></a></span><span class="tel"><b>03-955-0788</b></span><span class="add"><b>265宜蘭縣羅東鎮公正路44號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 宜蘭羅東店" href="/brandshop-2236-COMEBUY-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e7%be%85%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>宜蘭羅東店</b></a></span><span class="tel"><b>03-957-7618</b></span><span class="add"><b>265宜蘭縣羅東鎮民權路149號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 花蓮中山(研磨咖啡)店" href="/brandshop-7731-COMEBUY-%e8%8a%b1%e8%93%ae%e7%b8%a3-%e8%8a%b1%e8%93%ae%e4%b8%ad%e5%b1%b1(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>花蓮中山(研磨咖啡)店</b></a></span><span class="tel"><b>038-567393</b></span><span class="add"><b>970花蓮縣花蓮市中山路700號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 花蓮新港店" href="/brandshop-2239-COMEBUY-%e8%8a%b1%e8%93%ae%e7%b8%a3-%e8%8a%b1%e8%93%ae%e6%96%b0%e6%b8%af%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>花蓮新港店</b></a></span><span class="tel"><b>03-831-5618</b></span><span class="add"><b>970花蓮縣花蓮市新港街71號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 花蓮太昌店" href="/brandshop-2240-COMEBUY-%e8%8a%b1%e8%93%ae%e7%b8%a3-%e8%8a%b1%e8%93%ae%e5%a4%aa%e6%98%8c%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>花蓮太昌店</b></a></span><span class="tel"><b>03-857-7101</b></span><span class="add"><b>973花蓮縣吉安鄉明義一街2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 正氣店" href="/brandshop-2241-COMEBUY-%e5%8f%b0%e6%9d%b1%e7%b8%a3-%e6%ad%a3%e6%b0%a3%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>正氣店</b></a></span><span class="tel"><b>089-333-566</b></span><span class="add"><b>950台東縣台東市正氣路158號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 澎湖三多(研磨咖啡_豆逗)店" href="/brandshop-2246-COMEBUY-%e6%be%8e%e6%b9%96%e7%b8%a3-%e6%be%8e%e6%b9%96%e4%b8%89%e5%a4%9a(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1_%e8%b1%86%e9%80%97)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>澎湖三多(研磨咖啡_豆逗)店</b></a></span><span class="tel"><b>06-926-2351</b></span><span class="add"><b>880澎湖縣馬公市三多路113號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 澎湖三多(研磨咖啡)店" href="/brandshop-7739-COMEBUY-%e6%be%8e%e6%b9%96%e7%b8%a3-%e6%be%8e%e6%b9%96%e4%b8%89%e5%a4%9a(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>澎湖三多(研磨咖啡)店</b></a></span><span class="tel"><b>06-926-2351</b></span><span class="add"><b>880澎湖縣馬公市三多路120號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 澎湖中正(研磨咖啡)店" href="/brandshop-2245-COMEBUY-%e6%be%8e%e6%b9%96%e7%b8%a3-%e6%be%8e%e6%b9%96%e4%b8%ad%e6%ad%a3(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>澎湖中正(研磨咖啡)店</b></a></span><span class="tel"><b>06-926-9915</b></span><span class="add"><b>880澎湖縣馬公市中正路52號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 澎湖中華(研磨咖啡_豆逗)店" href="/brandshop-6587-COMEBUY-%e6%be%8e%e6%b9%96%e7%b8%a3-%e6%be%8e%e6%b9%96%e4%b8%ad%e8%8f%af(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1_%e8%b1%86%e9%80%97)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>澎湖中華(研磨咖啡_豆逗)店</b></a></span><span class="tel"><b>06-926-1971</b></span><span class="add"><b>880澎湖縣馬公市中華路61-3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 澎湖民生店" href="/brandshop-2247-COMEBUY-%e6%be%8e%e6%b9%96%e7%b8%a3-%e6%be%8e%e6%b9%96%e6%b0%91%e7%94%9f%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>澎湖民生店</b></a></span><span class="tel"><b>06-926-6435</b></span><span class="add"><b>880澎湖縣馬公市民生路25-8號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 澎湖中華(研磨咖啡)店" href="/brandshop-7738-COMEBUY-%e6%be%8e%e6%b9%96%e7%b8%a3-%e6%be%8e%e6%b9%96%e4%b8%ad%e8%8f%af(%e7%a0%94%e7%a3%a8%e5%92%96%e5%95%a1)%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>澎湖中華(研磨咖啡)店</b></a></span><span class="tel"><b>06-926-1971</b></span><span class="add"><b>澎湖縣馬公市中華路61-3號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 金門復興店" href="/brandshop-2248-COMEBUY-%e9%87%91%e9%96%80%e7%b8%a3-%e9%87%91%e9%96%80%e5%be%a9%e8%88%88%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>金門復興店</b></a></span><span class="tel"><b>082-336-591</b></span><span class="add"><b>891金門縣金湖新市里復興路56號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 金門金城店" href="/brandshop-2249-COMEBUY-%e9%87%91%e9%96%80%e7%b8%a3-%e9%87%91%e9%96%80%e9%87%91%e5%9f%8e%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>金門金城店</b></a></span><span class="tel"><b>082-375-559</b></span><span class="add"><b>893金門縣金城鎮中興路146巷21號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往COMEBUY 馬祖南竿店" href="/brandshop-6584-COMEBUY-%e9%80%a3%e6%b1%9f%e7%b8%a3-%e9%a6%ac%e7%a5%96%e5%8d%97%e7%ab%bf%e5%ba%97.html" class="name">
+										<b>COMEBUY</b><br>
+										<b>馬祖南竿店</b></a></span><span class="tel"><b>0836-23369</b></span><span class="add"><b>連江縣馬祖市南竿介壽村351號1樓</b><br></span></li>
+								
+								
+									
+								
+						</div>

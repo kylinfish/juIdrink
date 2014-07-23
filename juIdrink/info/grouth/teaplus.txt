@@ -1,0 +1,498 @@
+<div class="right">
+							<h1><b>水巷茶弄 - 全台灣分店門市查詢</b></h1>
+							<div class="sort">
+								
+								
+								<a id="CityTotal" href="brandshop-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>全台灣分店</b></a>
+																
+									<a title="前往水巷茶弄台北市分店門市" href="brandshopcity-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台北市</b></a>
+																	
+									<a title="前往水巷茶弄新北市分店門市" href="brandshopcity-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新北市</b></a>
+																	
+									<a title="前往水巷茶弄桃園縣分店門市" href="brandshopcity-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>桃園縣</b></a>
+																	
+									<a title="前往水巷茶弄台中市分店門市" href="brandshopcity-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台中市</b></a>
+																	
+									<a title="前往水巷茶弄彰化縣分店門市" href="brandshopcity-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>彰化縣</b></a>
+																	
+									<a title="前往水巷茶弄台南市分店門市" href="brandshopcity-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8d%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台南市</b></a>
+																	
+									<a title="前往水巷茶弄高雄市分店門市" href="brandshopcity-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>高雄市</b></a>
+																	
+									<a title="前往水巷茶弄屏東縣分店門市" href="brandshopcity-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>屏東縣</b></a>
+																	
+									<a title="前往水巷茶弄宜蘭縣分店門市" href="brandshopcity-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>宜蘭縣</b></a>
+																	
+									<a title="前往水巷茶弄澎湖縣分店門市" href="brandshopcity-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e6%be%8e%e6%b9%96%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>澎湖縣</b></a>
+								
+								
+							</div>
+							<input type="hidden" name="Sel_City" id="Sel_City">
+							
+							
+									
+									
+									<li><span><a title="前往水巷茶弄 台北南陽店" href="/brandshop-1804-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%8d%97%e9%99%bd%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台北南陽店</b></a></span><span class="tel"><b>02-2388-6836</b></span><span class="add"><b>100台北市中正區南陽街15-7號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台北長安西店" href="/brandshop-78-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e9%95%b7%e5%ae%89%e8%a5%bf%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台北長安西店</b></a></span><span class="tel"><b>02-2558-4517</b></span><span class="add"><b>103台北市大同區長安西路126號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台北大直店" href="/brandshop-1808-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%a4%a7%e7%9b%b4%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台北大直店</b></a></span><span class="tel"><b>02-2533-3302</b></span><span class="add"><b>104台北市中山區大直街37號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台北松江店" href="/brandshop-1809-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%9d%be%e6%b1%9f%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台北松江店</b></a></span><span class="tel"><b>02-2517-4782</b></span><span class="add"><b>104台北市中山區松江路297巷18號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台北長春店" href="/brandshop-1812-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e9%95%b7%e6%98%a5%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台北長春店</b></a></span><span class="tel"><b>02-2713-3811</b></span><span class="add"><b>104台北市中山區長春路370號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台北遼寧店" href="/brandshop-1810-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e9%81%bc%e5%af%a7%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台北遼寧店</b></a></span><span class="tel"><b>02-2772-6757</b></span><span class="add"><b>104台北市中山區遼寧街28號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台北錦州二店" href="/brandshop-1814-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e9%8c%a6%e5%b7%9e%e4%ba%8c%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台北錦州二店</b></a></span><span class="tel"><b>02-2523-7575</b></span><span class="add"><b>104台北市中山區錦州街24號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台北錦州一店" href="/brandshop-1815-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e9%8c%a6%e5%b7%9e%e4%b8%80%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台北錦州一店</b></a></span><span class="tel"><b>02-2504-7615</b></span><span class="add"><b>104台北市中山區錦州街393號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台北八德店" href="/brandshop-1820-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%85%ab%e5%be%b7%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台北八德店</b></a></span><span class="tel"><b>02-2747-8512</b></span><span class="add"><b>105台北市松山區八德路四段54號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 南京三民店" href="/brandshop-1803-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8d%97%e4%ba%ac%e4%b8%89%e6%b0%91%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>南京三民店</b></a></span><span class="tel"><b>02-2748-2345</b></span><span class="add"><b>105台北市松山區南京東路五段223號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 民生社區店" href="/brandshop-1805-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%b0%91%e7%94%9f%e7%a4%be%e5%8d%80%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>民生社區店</b></a></span><span class="tel"><b>02-8787-8727</b></span><span class="add"><b>105台北市松山區富錦街532號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台北忠孝延吉店" href="/brandshop-8320-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%bf%a0%e5%ad%9d%e5%bb%b6%e5%90%89%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台北忠孝延吉店</b></a></span><span class="tel"><b>02-2721-9050</b></span><span class="add"><b>106台北市大安區延吉街176號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台北永吉店" href="/brandshop-1811-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e6%b0%b8%e5%90%89%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台北永吉店</b></a></span><span class="tel"><b>02-2764-5638</b></span><span class="add"><b>110台北市信義區永吉路30巷91號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台北吳興店" href="/brandshop-1807-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%90%b3%e8%88%88%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台北吳興店</b></a></span><span class="tel"><b>02-2758-4885</b></span><span class="add"><b>110台北市信義區吳興街135號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 內湖內科店" href="/brandshop-1818-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%85%a7%e6%b9%96%e5%85%a7%e7%a7%91%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>內湖內科店</b></a></span><span class="tel"><b>02-2798-7959</b></span><span class="add"><b>114台北市內湖區內湖路一段421號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 內湖康寧店" href="/brandshop-1819-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%85%a7%e6%b9%96%e5%ba%b7%e5%af%a7%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>內湖康寧店</b></a></span><span class="tel"><b>02-2793-3739</b></span><span class="add"><b>114台北市內湖區康寧路一段70號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 南港同德店" href="/brandshop-1817-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%8d%97%e6%b8%af%e5%90%8c%e5%be%b7%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>南港同德店</b></a></span><span class="tel"><b>02-2652-1955</b></span><span class="add"><b>115台北市南港區同德路55號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 板橋莊敬店" href="/brandshop-1824-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9d%bf%e6%a9%8b%e8%8e%8a%e6%95%ac%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>板橋莊敬店</b></a></span><span class="tel"><b>02-2255-3376</b></span><span class="add"><b>220新北市板橋區莊敬路76號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 汐止忠孝店" href="/brandshop-1825-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%b1%90%e6%ad%a2%e5%bf%a0%e5%ad%9d%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>汐止忠孝店</b></a></span><span class="tel"><b>02-2643-2596</b></span><span class="add"><b>221新北市汐止區忠孝東路304號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 新店北新店" href="/brandshop-1821-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%96%b0%e5%ba%97%e5%8c%97%e6%96%b0%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>新店北新店</b></a></span><span class="tel"><b>02-8911-0165</b></span><span class="add"><b>231新北市新店區北新路三段80號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 蘆洲光華店" href="/brandshop-1823-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e6%96%b0%e5%8c%97%e5%b8%82-%e8%98%86%e6%b4%b2%e5%85%89%e8%8f%af%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>蘆洲光華店</b></a></span><span class="tel"><b>02-2289-5880</b></span><span class="add"><b>247新北市蘆洲區光華路172號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 蘆竹中正店" href="/brandshop-1831-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e6%a1%83%e5%9c%92%e7%b8%a3-%e8%98%86%e7%ab%b9%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>蘆竹中正店</b></a></span><span class="tel"><b>03-311-9882</b></span><span class="add"><b>338桃園縣蘆竹鄉中正路317號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台中逢甲文華店" href="/brandshop-8414-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e9%80%a2%e7%94%b2%e6%96%87%e8%8f%af%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台中逢甲文華店</b></a></span><span class="tel"><b>04-2451-1148</b></span><span class="add"><b>407台中市西屯區文華路1之8號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台中中科店" href="/brandshop-5917-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e4%b8%ad%e7%a7%91%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台中中科店</b></a></span><span class="tel"><b>04-2463-8022</b></span><span class="add"><b>407台中市西屯區西屯路3段150-58號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台中東海店" href="/brandshop-7785-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e6%9d%b1%e6%b5%b7%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台中東海店</b></a></span><span class="tel"><b>04-26522380</b></span><span class="add"><b>434台中市龍井區台灣大道五段3巷70號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 彰化華山店" href="/brandshop-1832-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e8%8f%af%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>彰化華山店</b></a></span><span class="tel"><b>04-7289579</b></span><span class="add"><b>500彰化縣彰化市華山路112號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 彰化和美店" href="/brandshop-1833-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%bd%b0%e5%8c%96%e7%b8%a3-%e5%bd%b0%e5%8c%96%e5%92%8c%e7%be%8e%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>彰化和美店</b></a></span><span class="tel"><b>04-757-6633</b></span><span class="add"><b>508彰化縣和美鎮鹿和路6段363號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台南孔廟店" href="/brandshop-6878-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%ad%94%e5%bb%9f%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台南孔廟店</b></a></span><span class="tel"><b>06-214-9071</b></span><span class="add"><b>700台南市中西區府前路一段189號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台南東寧店" href="/brandshop-85-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%9d%b1%e5%af%a7%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台南東寧店</b></a></span><span class="tel"><b>06-276-1618</b></span><span class="add"><b>701台南市東區東寧路335號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台南青年店" href="/brandshop-1840-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%9d%92%e5%b9%b4%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台南青年店</b></a></span><span class="tel"><b>06-238-6600</b></span><span class="add"><b>701台南市東區青年路287號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台南金華店" href="/brandshop-83-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%87%91%e8%8f%af%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台南金華店</b></a></span><span class="tel"><b>06-264-6333</b></span><span class="add"><b>702台南市南區金華路二段88號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台南公園店" href="/brandshop-81-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e5%85%ac%e5%9c%92%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台南公園店</b></a></span><span class="tel"><b>06-252-7088</b></span><span class="add"><b>704台南市北區公園路880號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台南文賢店" href="/brandshop-1835-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e6%96%87%e8%b3%a2%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台南文賢店</b></a></span><span class="tel"><b>06-2800399</b></span><span class="add"><b>704台南市北區文賢路277號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 台南鹽行店" href="/brandshop-1838-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8d%97%e5%b8%82-%e5%8f%b0%e5%8d%97%e9%b9%bd%e8%a1%8c%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>台南鹽行店</b></a></span><span class="tel"><b>06-253-0267</b></span><span class="add"><b>710台南市永康區中正七街62號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 仁德嘉藥店" href="/brandshop-5918-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e5%98%89%e8%97%a5%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>仁德嘉藥店</b></a></span><span class="tel"><b>06-266-7030</b></span><span class="add"><b>717台南市仁德區二仁路一段138</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 仁德中正店" href="/brandshop-1837-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8d%97%e5%b8%82-%e4%bb%81%e5%be%b7%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>仁德中正店</b></a></span><span class="tel"><b>06-270-8851</b></span><span class="add"><b>717台南市仁德區中正路二段1132號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 新市華興店" href="/brandshop-1836-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%8f%b0%e5%8d%97%e5%b8%82-%e6%96%b0%e5%b8%82%e8%8f%af%e8%88%88%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>新市華興店</b></a></span><span class="tel"><b>06-599-5076</b></span><span class="add"><b>744台南市新市區華興街125號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄中山店" href="/brandshop-92-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄中山店</b></a></span><span class="tel"><b>07-285-2800</b></span><span class="add"><b>800高雄市新興區中山一路203-1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄六合一店" href="/brandshop-115-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%85%ad%e5%90%88%e4%b8%80%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄六合一店</b></a></span><span class="tel"><b>07-236-2015</b></span><span class="add"><b>800高雄市新興區六合一路57-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄苓雅店" href="/brandshop-114-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e8%8b%93%e9%9b%85%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄苓雅店</b></a></span><span class="tel"><b>07-269-5118</b></span><span class="add"><b>802高雄市苓雅區自強三路173號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄自強店" href="/brandshop-2422-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e8%87%aa%e5%bc%b7%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄自強店</b></a></span><span class="tel"><b>07-281-8820</b></span><span class="add"><b>807高雄市三民區自強一路224號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄鼎中店" href="/brandshop-7784-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e9%bc%8e%e4%b8%ad%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄鼎中店</b></a></span><span class="tel"><b>07-3106801</b></span><span class="add"><b>807高雄市三民區鼎中路270號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄熱河店" href="/brandshop-2421-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e7%86%b1%e6%b2%b3%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄熱河店</b></a></span><span class="tel"><b>07-313-7111</b></span><span class="add"><b>807高雄市三民區熱河一街384號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄楠梓店" href="/brandshop-2429-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%a5%a0%e6%a2%93%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄楠梓店</b></a></span><span class="tel"><b>07-355-2549</b></span><span class="add"><b>811高雄市楠梓區楠梓新路218號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄德賢店" href="/brandshop-2427-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%be%b7%e8%b3%a2%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄德賢店</b></a></span><span class="tel"><b>07-360-9877</b></span><span class="add"><b>811高雄市楠梓區德賢路247號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄平和店" href="/brandshop-112-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%b9%b3%e5%92%8c%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄平和店</b></a></span><span class="tel"><b>07-812-7755</b></span><span class="add"><b>812高雄市小港區平和路21號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄漢民店" href="/brandshop-111-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%bc%a2%e6%b0%91%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄漢民店</b></a></span><span class="tel"><b>07-801-0155</b></span><span class="add"><b>812高雄市小港區漢民路660號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 左營大路店" href="/brandshop-2424-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b7%a6%e7%87%9f%e5%a4%a7%e8%b7%af%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>左營大路店</b></a></span><span class="tel"><b>07-585-0110</b></span><span class="add"><b>813高雄市左營區左營大路291號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄富國店" href="/brandshop-2426-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%af%8c%e5%9c%8b%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄富國店</b></a></span><span class="tel"><b>07-556-6151</b></span><span class="add"><b>813高雄市左營區富國路430號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄華夏店" href="/brandshop-2425-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e8%8f%af%e5%a4%8f%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄華夏店</b></a></span><span class="tel"><b>07-345-1169</b></span><span class="add"><b>813高雄市左營區華夏路1157號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 梓官進學店" href="/brandshop-96-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e6%a2%93%e5%ae%98%e9%80%b2%e5%ad%b8%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>梓官進學店</b></a></span><span class="tel"><b>07-610-3200</b></span><span class="add"><b>813高雄市左營區進學路8號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 仁武八德店" href="/brandshop-102-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e4%bb%81%e6%ad%a6%e5%85%ab%e5%be%b7%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>仁武八德店</b></a></span><span class="tel"><b>07-375-4486</b></span><span class="add"><b>814高雄市仁武區八德中路83號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 仁武中正店" href="/brandshop-101-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e4%bb%81%e6%ad%a6%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>仁武中正店</b></a></span><span class="tel"><b>07-371-6321</b></span><span class="add"><b>814高雄市仁武區中正路152號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 大社中山店" href="/brandshop-103-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e7%a4%be%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>大社中山店</b></a></span><span class="tel"><b>07-353-7416</b></span><span class="add"><b>815高雄市大社區中山路272號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 岡山岡燕店" href="/brandshop-99-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b2%a1%e5%b1%b1%e5%b2%a1%e7%87%95%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>岡山岡燕店</b></a></span><span class="tel"><b>07-622-3992</b></span><span class="add"><b>820高雄市岡山區岡燕路225號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 岡山柳橋店" href="/brandshop-88-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%b2%a1%e5%b1%b1%e6%9f%b3%e6%a9%8b%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>岡山柳橋店</b></a></span><span class="tel"><b>07-6255680</b></span><span class="add"><b>820高雄市岡山區柳橋西路47號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 路竹中正店" href="/brandshop-87-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e8%b7%af%e7%ab%b9%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>路竹中正店</b></a></span><span class="tel"><b>07-696-7504</b></span><span class="add"><b>821高雄市路竹區中正路171號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 燕巢中西店" href="/brandshop-98-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e7%87%95%e5%b7%a2%e4%b8%ad%e8%a5%bf%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>燕巢中西店</b></a></span><span class="tel"><b>07-616-3880</b></span><span class="add"><b>824高雄市燕巢區中民路663-9號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 鳳山五甲店" href="/brandshop-109-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e4%ba%94%e7%94%b2%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>鳳山五甲店</b></a></span><span class="tel"><b>07-768-8887</b></span><span class="add"><b>830高雄市鳳山區自強二路102號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 鳳山新富店" href="/brandshop-107-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e6%96%b0%e5%af%8c%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>鳳山新富店</b></a></span><span class="tel"><b>07-766-0111</b></span><span class="add"><b>830高雄市鳳山區新富路460號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 鳳山濱山店" href="/brandshop-106-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%b3%e5%b1%b1%e6%bf%b1%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>鳳山濱山店</b></a></span><span class="tel"><b>07-767-7656</b></span><span class="add"><b>830高雄市鳳山區濱山街46號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 大寮鳳林店" href="/brandshop-105-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e5%af%ae%e9%b3%b3%e6%9e%97%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>大寮鳳林店</b></a></span><span class="tel"><b>07-782-9878</b></span><span class="add"><b>831高雄市大寮區鳳林三路553號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄林園店" href="/brandshop-95-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e6%9e%97%e5%9c%92%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄林園店</b></a></span><span class="tel"><b>07-643-6920</b></span><span class="add"><b>832高雄市林園區東林西路191號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 鳥松文前店" href="/brandshop-89-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%b3%a5%e6%9d%be%e6%96%87%e5%89%8d%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>鳥松文前店</b></a></span><span class="tel"><b>07-7354486</b></span><span class="add"><b>833高雄市鳥松區文前路6號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 大寮仁愛店" href="/brandshop-104-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e5%a4%a7%e5%af%ae%e4%bb%81%e6%84%9b%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>大寮仁愛店</b></a></span><span class="tel"><b>07-701-3406</b></span><span class="add"><b>高雄市大寮區仁愛路1號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 高雄巨蛋店" href="/brandshop-7254-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e9%ab%98%e9%9b%84%e5%b8%82-%e9%ab%98%e9%9b%84%e5%b7%a8%e8%9b%8b%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>高雄巨蛋店</b></a></span><span class="tel"><b>07-5530188</b></span><span class="add"><b>高雄市左營區新榮街163號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 屏東廣東店" href="/brandshop-2434-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e5%bb%a3%e6%9d%b1%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>屏東廣東店</b></a></span><span class="tel"><b>08-723-5866</b></span><span class="add"><b>900屏東縣屏東市廣東路52號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 屏東萬丹店" href="/brandshop-2431-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e8%90%ac%e4%b8%b9%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>屏東萬丹店</b></a></span><span class="tel"><b>08-7770958</b></span><span class="add"><b>913屏東縣萬丹鄉萬丹路一段</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 屏東東港店" href="/brandshop-2433-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e6%9d%b1%e6%b8%af%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>屏東東港店</b></a></span><span class="tel"><b>08-833-7312</b></span><span class="add"><b>928屏東縣東港鎮長春二路40號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 屏東小琉球店" href="/brandshop-2432-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e5%b0%8f%e7%90%89%e7%90%83%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>屏東小琉球店</b></a></span><span class="tel"><b>08-861-3255</b></span><span class="add"><b>929屏東縣琉球鄉民生路58號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 屏東新園店" href="/brandshop-5919-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%b1%8f%e6%9d%b1%e7%b8%a3-%e5%b1%8f%e6%9d%b1%e6%96%b0%e5%9c%92%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>屏東新園店</b></a></span><span class="tel"><b>08-8686058</b></span><span class="add"><b>屏東縣新園鄉仙吉路30號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 宜蘭中山店" href="/brandshop-1829-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>宜蘭中山店</b></a></span><span class="tel"><b>03-936-3060</b></span><span class="add"><b>260宜蘭縣宜蘭市中山路二段518號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 宜蘭員山店" href="/brandshop-1828-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e5%93%a1%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>宜蘭員山店</b></a></span><span class="tel"><b>03-9229046</b></span><span class="add"><b>264宜蘭縣員山鄉員山路一段164號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 羅東中正店" href="/brandshop-1830-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e7%be%85%e6%9d%b1%e4%b8%ad%e6%ad%a3%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>羅東中正店</b></a></span><span class="tel"><b>03-957-5672</b></span><span class="add"><b>265宜蘭縣羅東鎮中正路115號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 羅東民權店" href="/brandshop-7786-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e7%be%85%e6%9d%b1%e6%b0%91%e6%ac%8a%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>羅東民權店</b></a></span><span class="tel"><b>03-955-6760</b></span><span class="add"><b>265宜蘭縣羅東鎮民權路157號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 蘇澳中山店" href="/brandshop-7385-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e8%98%87%e6%be%b3%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>蘇澳中山店</b></a></span><span class="tel"><b>03-9955010</b></span><span class="add"><b>宜蘭縣蘇澳鎮中山路一段60號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往水巷茶弄 澎湖馬公店" href="/brandshop-2430-%e6%b0%b4%e5%b7%b7%e8%8c%b6%e5%bc%84-%e6%be%8e%e6%b9%96%e7%b8%a3-%e6%be%8e%e6%b9%96%e9%a6%ac%e5%85%ac%e5%ba%97.html" class="name">
+										<b>水巷茶弄</b><br>
+										<b>澎湖馬公店</b></a></span><span class="tel"><b>06-926-6449</b></span><span class="add"><b>880澎湖縣馬公市海埔路28號</b><br></span></li>
+								
+								
+									
+								
+						</div>

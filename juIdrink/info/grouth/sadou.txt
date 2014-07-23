@@ -1,0 +1,278 @@
+<div class="right">
+							<h1><b>舞茶道 - 全台灣分店門市查詢</b></h1>
+							<div class="sort">
+								
+								
+								<a id="CityTotal" href="brandshop-%e8%88%9e%e8%8c%b6%e9%81%93-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>全台灣分店</b></a>
+																
+									<a title="前往舞茶道台北市分店門市" href="brandshopcity-%e8%88%9e%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台北市</b></a>
+																	
+									<a title="前往舞茶道新北市分店門市" href="brandshopcity-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新北市</b></a>
+																	
+									<a title="前往舞茶道桃園縣分店門市" href="brandshopcity-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>桃園縣</b></a>
+																	
+									<a title="前往舞茶道新竹市分店門市" href="brandshopcity-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e7%ab%b9%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新竹市</b></a>
+																	
+									<a title="前往舞茶道新竹縣分店門市" href="brandshopcity-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>新竹縣</b></a>
+																	
+									<a title="前往舞茶道苗栗縣分店門市" href="brandshopcity-%e8%88%9e%e8%8c%b6%e9%81%93-%e8%8b%97%e6%a0%97%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>苗栗縣</b></a>
+																	
+									<a title="前往舞茶道台中市分店門市" href="brandshopcity-%e8%88%9e%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>台中市</b></a>
+																	
+									<a title="前往舞茶道宜蘭縣分店門市" href="brandshopcity-%e8%88%9e%e8%8c%b6%e9%81%93-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e9%9b%bb%e8%a9%b1-%e5%9c%b0%e5%9d%80.html"><b>宜蘭縣</b></a>
+								
+								
+							</div>
+							<input type="hidden" name="Sel_City" id="Sel_City">
+							
+							
+									
+									
+									<li><span><a title="前往舞茶道 中華旗艦店" href="/brandshop-523-%e8%88%9e%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8c%97%e5%b8%82-%e4%b8%ad%e8%8f%af%e6%97%97%e8%89%a6%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>中華旗艦店</b></a></span><span class="tel"><b>02-2332-0368</b></span><span class="add"><b>100台北市中正區中華路二段301巷2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 東區SOGO店" href="/brandshop-4493-%e8%88%9e%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8c%97%e5%b8%82-%e6%9d%b1%e5%8d%80SOGO%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>東區SOGO店</b></a></span><span class="tel"><b>02-2775-4682</b></span><span class="add"><b>106台北市大安區復興南路一段107巷25-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 士林芝山店" href="/brandshop-534-%e8%88%9e%e8%8c%b6%e9%81%93-%e5%8f%b0%e5%8c%97%e5%b8%82-%e5%a3%ab%e6%9e%97%e8%8a%9d%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>士林芝山店</b></a></span><span class="tel"><b>02-8866-3309</b></span><span class="add"><b>111台北市士林區福華路164巷5號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 樹林溪北店" href="/brandshop-539-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%a8%b9%e6%9e%97%e6%ba%aa%e5%8c%97%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>樹林溪北店</b></a></span><span class="tel"><b>02-2675-7739</b></span><span class="add"><b>220新北市板橋區溪北路31號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 瑞芳旗艦店" href="/brandshop-1742-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e7%91%9e%e8%8a%b3%e6%97%97%e8%89%a6%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>瑞芳旗艦店</b></a></span><span class="tel"><b>02-2497-0655</b></span><span class="add"><b>224新北市瑞芳區明燈路三段49號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 土城裕民店" href="/brandshop-7349-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%9c%9f%e5%9f%8e%e8%a3%95%e6%b0%91%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>土城裕民店</b></a></span><span class="tel"><b>02-2265-0629</b></span><span class="add"><b>236新北市土城區裕民路137-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 三峽北大店" href="/brandshop-529-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e4%b8%89%e5%b3%bd%e5%8c%97%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>三峽北大店</b></a></span><span class="tel"><b>02-86713667</b></span><span class="add"><b>237新北市三峽區大學路137號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 林口老街店" href="/brandshop-526-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e6%9e%97%e5%8f%a3%e8%80%81%e8%a1%97%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>林口老街店</b></a></span><span class="tel"><b>02-8601-1925</b></span><span class="add"><b>244新北市林口區中正路118號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 台北八里店" href="/brandshop-1496-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e5%8c%97%e5%b8%82-%e5%8f%b0%e5%8c%97%e5%85%ab%e9%87%8c%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>台北八里店</b></a></span><span class="tel"><b>02-2619-2825</b></span><span class="add"><b>249台北縣八里鄉中山路二段472號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 中壢元化店" href="/brandshop-1748-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e5%85%83%e5%8c%96%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>中壢元化店</b></a></span><span class="tel"><b>03-425-2206</b></span><span class="add"><b>320桃園縣中壢市元化路352號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 內壢時尚名店" href="/brandshop-537-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%85%a7%e5%a3%a2%e6%99%82%e5%b0%9a%e5%90%8d%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>內壢時尚名店</b></a></span><span class="tel"><b>03-462-7722</b></span><span class="add"><b>320桃園縣中壢市忠孝路83號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 中壢站前店" href="/brandshop-544-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e7%ab%99%e5%89%8d%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>中壢站前店</b></a></span><span class="tel"><b>03-427-3055</b></span><span class="add"><b>320桃園縣中壢市建國路69號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 中壢新明店" href="/brandshop-531-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%a3%a2%e6%96%b0%e6%98%8e%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>中壢新明店</b></a></span><span class="tel"><b>03-4936965</b></span><span class="add"><b>320桃園縣中壢市新明路40號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 中原旗艦總店" href="/brandshop-1754-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e4%b8%ad%e5%8e%9f%e6%97%97%e8%89%a6%e7%b8%bd%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>中原旗艦總店</b></a></span><span class="tel"><b>03-466-6317</b></span><span class="add"><b>320桃園縣中壢市實踐路117號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 桃園平鎮店" href="/brandshop-1744-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e5%b9%b3%e9%8e%ae%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>桃園平鎮店</b></a></span><span class="tel"><b>03-467-9985</b></span><span class="add"><b>324桃園縣平鎮市振興路18號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 龍潭旗艦店" href="/brandshop-532-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%be%8d%e6%bd%ad%e6%97%97%e8%89%a6%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>龍潭旗艦店</b></a></span><span class="tel"><b>03-499-0506</b></span><span class="add"><b>325桃園縣龍潭鄉東龍路254號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 楊梅大成店" href="/brandshop-1751-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a5%8a%e6%a2%85%e5%a4%a7%e6%88%90%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>楊梅大成店</b></a></span><span class="tel"><b>03-485-6661</b></span><span class="add"><b>326桃園縣楊梅市大成路190號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 埔心站前店" href="/brandshop-6875-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%9f%94%e5%bf%83%e7%ab%99%e5%89%8d%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>埔心站前店</b></a></span><span class="tel"><b>03-431-1800</b></span><span class="add"><b>326桃園縣楊梅市永美路218號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 新屋中山店" href="/brandshop-533-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%96%b0%e5%b1%8b%e4%b8%ad%e5%b1%b1%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>新屋中山店</b></a></span><span class="tel"><b>03-497-1821</b></span><span class="add"><b>327桃園縣新屋鄉中山路320號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 桃園站前店" href="/brandshop-1750-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e7%ab%99%e5%89%8d%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>桃園站前店</b></a></span><span class="tel"><b>03-338-1866</b></span><span class="add"><b>330桃園縣桃園市成功路一段18號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 桃園藝文旗艦店" href="/brandshop-1740-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e8%97%9d%e6%96%87%e6%97%97%e8%89%a6%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>桃園藝文旗艦店</b></a></span><span class="tel"><b>03-346-8800</b></span><span class="add"><b>330桃園縣桃園市南平路258號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 桃園中平店" href="/brandshop-1753-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e4%b8%ad%e5%b9%b3%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>桃園中平店</b></a></span><span class="tel"><b>03-228-9909</b></span><span class="add"><b>330桃園縣桃園市壽昌街52號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 龜山中興店" href="/brandshop-1746-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e9%be%9c%e5%b1%b1%e4%b8%ad%e8%88%88%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>龜山中興店</b></a></span><span class="tel"><b>03-350-6678</b></span><span class="add"><b>333桃園縣龜山鄉中興路一段23號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 廣福旗艦名店" href="/brandshop-1752-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%bb%a3%e7%a6%8f%e6%97%97%e8%89%a6%e5%90%8d%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>廣福旗艦名店</b></a></span><span class="tel"><b>03-367-6669</b></span><span class="add"><b>334桃園縣八德市廣福路96號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 桃園大溪店" href="/brandshop-542-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e5%a4%a7%e6%ba%aa%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>桃園大溪店</b></a></span><span class="tel"><b>03-388-4766</b></span><span class="add"><b>335桃園縣大溪鎮慈湖路84號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 大園中華店" href="/brandshop-530-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e5%a4%a7%e5%9c%92%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>大園中華店</b></a></span><span class="tel"><b>03-384-2668</b></span><span class="add"><b>337桃園縣大園鄉中華路19號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 桃園大竹店" href="/brandshop-527-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e5%a4%a7%e7%ab%b9%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>桃園大竹店</b></a></span><span class="tel"><b>03-3239292</b></span><span class="add"><b>338桃園縣蘆竹鄉大竹路545號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 桃園南崁店" href="/brandshop-1745-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%a1%83%e5%9c%92%e7%b8%a3-%e6%a1%83%e5%9c%92%e5%8d%97%e5%b4%81%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>桃園南崁店</b></a></span><span class="tel"><b>03-321-0872</b></span><span class="add"><b>338桃園縣蘆竹鄉南崁路二段120號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 新竹北大店" href="/brandshop-2366-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e5%8c%97%e5%a4%a7%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>新竹北大店</b></a></span><span class="tel"><b>03-523-0151</b></span><span class="add"><b>300新竹市北區北大路279號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 新竹東門店" href="/brandshop-1743-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e6%9d%b1%e9%96%80%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>新竹東門店</b></a></span><span class="tel"><b>03-527-8860</b></span><span class="add"><b>300新竹市北區東門街185號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 新竹站前店" href="/brandshop-1741-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%96%b0%e7%ab%b9%e7%ab%99%e5%89%8d%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>新竹站前店</b></a></span><span class="tel"><b>03-526-3688</b></span><span class="add"><b>300新竹市東區林森路15號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 清大時尚名店" href="/brandshop-1736-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e7%ab%b9%e5%b8%82-%e6%b8%85%e5%a4%a7%e6%99%82%e5%b0%9a%e5%90%8d%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>清大時尚名店</b></a></span><span class="tel"><b>03-572-2525</b></span><span class="add"><b>300新竹市東區建功一路50號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 新竹湖口店" href="/brandshop-543-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e6%96%b0%e7%ab%b9%e6%b9%96%e5%8f%a3%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>新竹湖口店</b></a></span><span class="tel"><b>03-590-4333</b></span><span class="add"><b>303新竹縣湖口鄉中正路一段2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 新竹新豐店" href="/brandshop-540-%e8%88%9e%e8%8c%b6%e9%81%93-%e6%96%b0%e7%ab%b9%e7%b8%a3-%e6%96%b0%e7%ab%b9%e6%96%b0%e8%b1%90%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>新竹新豐店</b></a></span><span class="tel"><b>03-557-9569</b></span><span class="add"><b>304新竹縣新豐鄉建興路一段48號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 竹南中華店" href="/brandshop-536-%e8%88%9e%e8%8c%b6%e9%81%93-%e8%8b%97%e6%a0%97%e7%b8%a3-%e7%ab%b9%e5%8d%97%e4%b8%ad%e8%8f%af%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>竹南中華店</b></a></span><span class="tel"><b>037-66-1552</b></span><span class="add"><b>350苗栗縣竹南鎮中華路109號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 竹南博愛店" href="/brandshop-521-%e8%88%9e%e8%8c%b6%e9%81%93-%e8%8b%97%e6%a0%97%e7%b8%a3-%e7%ab%b9%e5%8d%97%e5%8d%9a%e6%84%9b%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>竹南博愛店</b></a></span><span class="tel"><b>037-465-998</b></span><span class="add"><b>350苗栗縣竹南鎮博愛街130號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 頭份中正旗艦店" href="/brandshop-535-%e8%88%9e%e8%8c%b6%e9%81%93-%e8%8b%97%e6%a0%97%e7%b8%a3-%e9%a0%ad%e4%bb%bd%e4%b8%ad%e6%ad%a3%e6%97%97%e8%89%a6%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>頭份中正旗艦店</b></a></span><span class="tel"><b>037-68-1083</b></span><span class="add"><b>351苗栗縣頭份鎮中正一路620號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 台中向上店" href="/brandshop-7379-%e8%88%9e%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%8f%b0%e4%b8%ad%e5%90%91%e4%b8%8a%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>台中向上店</b></a></span><span class="tel"><b>02-2305-8866</b></span><span class="add"><b>403台中市西區向上路一段243號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 后里甲后店" href="/brandshop-525-%e8%88%9e%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%90%8e%e9%87%8c%e7%94%b2%e5%90%8e%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>后里甲后店</b></a></span><span class="tel"><b>04-2558-6895</b></span><span class="add"><b>421台中市后里區甲后路385號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 大甲鎮瀾店" href="/brandshop-522-%e8%88%9e%e8%8c%b6%e9%81%93-%e5%8f%b0%e4%b8%ad%e5%b8%82-%e5%a4%a7%e7%94%b2%e9%8e%ae%e7%80%be%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>大甲鎮瀾店</b></a></span><span class="tel"><b>04-2686-6685</b></span><span class="add"><b>437台中市大甲區鎮瀾街95-2號</b><br></span></li>
+								
+								
+									
+									<li><span><a title="前往舞茶道 宜蘭神農店" href="/brandshop-538-%e8%88%9e%e8%8c%b6%e9%81%93-%e5%ae%9c%e8%98%ad%e7%b8%a3-%e5%ae%9c%e8%98%ad%e7%a5%9e%e8%be%b2%e5%ba%97.html" class="name">
+										<b>舞茶道</b><br>
+										<b>宜蘭神農店</b></a></span><span class="tel"><b>03-935-2555</b></span><span class="add"><b>260宜蘭縣宜蘭市神農路一段61號</b><br></span></li>
+								
+								
+									
+								
+						</div>
