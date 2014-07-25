@@ -21,11 +21,13 @@ def index(req):
 	dic['清玉'] = Store_Info.objects.filter(store="kingtea").count()
 	dic['茶湯會'] = Store_Info.objects.filter(store="teapatea").count()
 	dic['茶的魔手'] = Store_Info.objects.filter(store="teamagichand").count()
-
+	asd={}
 	# dic = sorted(dic, key=dic.get)
+	all_Store = Store_Info.objects.all().order_by("store")
 	for key,value in sorted(dic.iteritems(),key=lambda(k,v):(v,k),reverse=True):    
 		print"%s: %s"%(key,value)
-	context= {'msg':dic}
+		asd[key] =value
+	context= {'msg':asd,'all_Store':all_Store}
 	return render(req,'index.html',context)
 
 
