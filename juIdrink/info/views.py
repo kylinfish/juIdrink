@@ -4,9 +4,18 @@ from BeautifulSoup import BeautifulSoup
 from info.models import Store_Info
 import sys,requests,re
 import operator
-
+"""
 def index(req):
-# def indexs(req):
+	printstore =Store_Info.objects.filter(location="").count()
+	for p in store:
+		if not p.location:
+			findCoordinate(p)
+
+	context= {'msg':"succesuccessss",'all_Store':"success"}
+	return render(req,'index.html',context)
+
+"""
+def index(req):
 	dic={}
 	dic['50嵐'] = Store_Info.objects.filter(store="50lan").count()
 	dic['大苑子'] = Store_Info.objects.filter(store="dayungs").count()
@@ -80,6 +89,20 @@ def p_50lan(req):
 	context = {'msg':li}
 	return render(req,'index.html',context)
 
-def get_HTML_Content(url):
-	reponse = requests.get(url)
-	return reponse.content
+def findCoordinate(obj):
+	print obj,obj.address.encode("utf-8", "ignore")
+	try:
+		url = "http://maps.google.com/maps/api/geocode/json?address="+obj.address
+		reponse = requests.get(url)
+		json = reponse.json()
+		coordinate = json['results'][0]['geometry']['location']
+		x = coordinate['lat']
+		y = coordinate['lng']
+		print x,y
+		obj.location = str(x)+","+str(y)
+		obj.save()
+	except:
+		return
+
+
+

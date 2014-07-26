@@ -29,6 +29,7 @@
     <div class="container">
 
       <div class="masthead">
+        {{msg}}
         <h3 class="text-muted">ju I drink</h3>
         <ul class="nav nav-justified">
           <li class="active"><a href="#">Home</a></li>
@@ -106,7 +107,8 @@
                       <h3 class="head text-center">dayungs大苑子</h3> 
                       {% for store in all_Store%}
                       {% if store.store == "dayungs" %}
-                      {{store.address}}  
+                      {{store.address}} 
+                      <p>{{store.location}}  </p> 
                       {% endif %}
                       {% endfor %}
                     </div>
