@@ -4,18 +4,24 @@ from BeautifulSoup import BeautifulSoup
 from info.models import Store_Info
 import sys,requests,re
 import operator
-"""
-def index(req):
-	printstore =Store_Info.objects.filter(location="").count()
+# """
+def storew(req):
+	store =Store_Info.objects.filter(location=None)
 	for p in store:
-		if not p.location:
+		if p.location == None:
 			findCoordinate(p)
-
 	context= {'msg':"succesuccessss",'all_Store':"success"}
 	return render(req,'index.html',context)
 
-"""
-def index(req):
+# """
+def index(req):	
+	return render(req,'index.html') 
+
+def search(req):	
+	return render(req,'search.html') 
+
+
+def store(req):
 	dic={}
 	dic['50嵐'] = Store_Info.objects.filter(store="50lan").count()
 	dic['大苑子'] = Store_Info.objects.filter(store="dayungs").count()
@@ -37,7 +43,7 @@ def index(req):
 		print"%s: %s"%(key,value)
 		asd[key] =value
 	context= {'msg':asd,'all_Store':all_Store}
-	return render(req,'index.html',context)
+	return render(req,'store.html',context)
 
 
 # def index(req):
