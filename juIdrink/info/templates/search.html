@@ -3,49 +3,49 @@
 {% load staticfiles %}
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
 <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
-<div class="container content" >
-  
+<div id="map-canvas" style="margin-top:130px;position: absolute; left: 10%; top: 0px; z-index: 2; width: 80%; height: 45%;"></div>
+
+
+<div class="container" >
   <div class="row">
-     <div class="col-md-12 custyle">
-    <table class="table table-striped custab">
-    <thead>
-        <tr>
-            <th>商家</th>
-            <th>分店</th>
-            <th>地址</th>
-            <th>電話</th>
-            <th>座標</th>
-        </tr>
-    </thead>
-    <tbody id="tbody">
-    </tbody>
-    </table>
+    <div class="col-md-12 custyle">
+        <table class="table table-striped custab">
+          <thead>
+            <tr>
+              <th>商家</th>
+              <th>分店</th>
+              <th>地址</th>
+              <th>電話</th>
+              <th>座標</th>
+            </tr>
+          </thead>
+          <tbody id="tbody"></tbody>
+        </table>
+      </div>
     </div>
-    </div>
-  
-  <div id="map-canvas"></div>
-           
-</div>
   </div>
-</div>
+
 
 <style>
-  .content{
-    padding-top:150px; 
+  .custyle{
+    margin-top:600px; 
     padding-bottom:20px;
   }
-  #map-canvas {
-      height: 500px;
-      width: 500px;
+  .ma{
+     margin-top:110px; 
+  
   }
 </style>
 
 <script>
 var x = document.getElementById("demo");
 var map;
-  var userLocation =[];
+var center = new google.maps.LatLng(25, 121);
+var nearbyPoint = new Array(new google.maps.LatLng);
+var userLocation =[];
 $(function(){
  getLocation();
+
 });
 
 
@@ -63,16 +63,18 @@ function showPosition(position) {
   $.ajax({
     url: "http://maps.googleapis.com/maps/api/geocode/json" , 
     type: 'GET',
+    async: 'false',
     data: {
       'latlng': position.coords.latitude+","+ position.coords.longitude,
       'sensor': "true_or_false",
     },success: function(msg) {
       for (var i =0 ;i <msg['results'][0]['address_components'].length ; i++){
         if (msg['results'][0]['address_components'][i]['types']=="postal_code"){
+          center =  new google.maps.LatLng(25.0596516, 121.532691);
           doSearch(msg['results'][0]['address_components'][i]['long_name'],msg['results'][0]['formatted_address'])
         }
       }
-      
+      initialize();
     },error: function(msg) {
       console.log('錯誤記錄');
     }
@@ -106,15 +108,70 @@ function doSearch(zipcode,address){
       },success: function(msg) {
         msg = JSON.parse(msg['data']);
         for (var i=0;i<msg.length;i++){
-          var content = "<tr><td>"+msg[i]['fields']['store']+"</td><td>"+msg[i]['fields']['store_name']+"</td><td>"+msg[i]['fields']['address']+"</td><td>"+msg[i]['fields']['phone']+"</td><tr>"+msg[i]['fields']['location']+"</td><td>";
+          var content = "<tr><td>"+msg[i]['fields']['store']+"</td><td>"+msg[i]['fields']['store_name']+"</td><td>"+msg[i]['fields']['address']+"</td><td>"+msg[i]['fields']['phone']+"</td><td>"+msg[i]['fields']['location']+"</td><td>";
           $("#tbody").append(content);
+          var s  =msg[i]['fields']['location'].split(',');
+          var lat=parseFloat(s[0]);
+          var lng=parseFloat(s[1]);
+          neighborhoods.push(new google.maps.LatLng(lat, lng));
         }
+        console.log("location end");
+        console.log(neighborhoods[3])
+        drop();
       },error: function(msg) {
         console.log('錯誤記錄');
       }
     });
+    console.log(nearbyPoint);
 
 }
+// multimaker
+
+
+
+console.log('center');
+console.log(center);
+var neighborhoods = [];
+
+var markers = [];
+var iterator = 0;
+
+var map;
+
+function initialize() {
+  var mapOptions = {
+    zoom: 15,
+    center: center
+  };
+
+  map = new google.maps.Map(document.getElementById('map-canvas'),
+          mapOptions);
+}
+
+function drop() {
+   markers.push(new google.maps.Marker({
+    position: center,
+    map: map,
+    icon:"http://italc.sourceforge.net/home.png"
+  }));
+  for (var i = 0; i < neighborhoods.length; i++) {
+    setTimeout(function() {
+      addMarker();
+    }, i * 200);
+  }
+  console.log("dropend");
+}
+
+function addMarker() {
+  markers.push(new google.maps.Marker({
+    position: neighborhoods[iterator],
+    map: map,
+    draggable: false,
+    animation: google.maps.Animation.DROP
+  }));
+  iterator++;
+}
+
 
 </script>
 {% endblock %}
