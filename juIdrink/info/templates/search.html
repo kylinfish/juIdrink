@@ -1,82 +1,120 @@
 {% extends 'base.html' %} 
 {% block content %}
 {% load staticfiles %}
-<script type="text/javascript" src="{% static '/static/js/tinyMap/googlemaps_api.js' %}"></script>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+<script src="http://code.jquery.com/jquery-1.11.1.js"></script>
 <div class="container content" >
   
   <div class="row">
-    <div class="col-md-5 col-md-offset-6">
-     here are some functions
+     <div class="col-md-12 custyle">
+    <table class="table table-striped custab">
+    <thead>
+        <tr>
+            <th>商家</th>
+            <th>分店</th>
+            <th>地址</th>
+            <th>電話</th>
+            <th>座標</th>
+        </tr>
+    </thead>
+    <tbody id="tbody">
+    </tbody>
+    </table>
+    </div>
     </div>
   
   <div id="map-canvas"></div>
+           
+</div>
   </div>
 </div>
 
 <style>
-.content{
-  padding-top:150px; 
-  padding-bottom:20px;
-}
-#map-canvas {
-    height: 500px;
-    width: 500px;
-}
+  .content{
+    padding-top:150px; 
+    padding-bottom:20px;
+  }
+  #map-canvas {
+      height: 500px;
+      width: 500px;
+  }
 </style>
 
 <script>
+var x = document.getElementById("demo");
 var map;
-function initialize() {
-  var mapOptions = {
-    zoom: 17    
-  };
-  map = new google.maps.Map(document.getElementById('map-canvas'),
-      mapOptions);
+  var userLocation =[];
+$(function(){
+ getLocation();
+});
 
-  // Try HTML5 geolocation
-  if(navigator.geolocation) {
-    navigator.geolocation.getCurrentPosition(function(position) {
-      var pos = new google.maps.LatLng(position.coords.latitude,
-                                       position.coords.longitude);
-      var infowindow = new google.maps.InfoWindow({
-      content: "Here you are"
-      });
 
-      var marker = new google.maps.Marker({
-          position: pos,
-          map: map,
-      });
-      google.maps.event.addListener(marker, 'click', function() {
-        infowindow.open(map,marker);
-      });
-      map.setCenter(pos);
-    }, function() {
-      handleNoGeolocation(true);
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition,showError);
+    } else { 
+        x.innerHTML = "Geolocation is not supported by this browser.";
+    }
+}
+
+function showPosition(position) {
+  var geo = [position.coords.latitude, position.coords.longitude];
+  console.log(geo.toString());
+  $.ajax({
+    url: "http://maps.googleapis.com/maps/api/geocode/json" , 
+    type: 'GET',
+    data: {
+      'latlng': position.coords.latitude+","+ position.coords.longitude,
+      'sensor': "true_or_false",
+    },success: function(msg) {
+      for (var i =0 ;i <msg['results'][0]['address_components'].length ; i++){
+        if (msg['results'][0]['address_components'][i]['types']=="postal_code"){
+          doSearch(msg['results'][0]['address_components'][i]['long_name'],msg['results'][0]['formatted_address'])
+        }
+      }
+      
+    },error: function(msg) {
+      console.log('錯誤記錄');
+    }
+  });
+}
+
+function showError(error) {
+    switch(error.code) {
+        case error.PERMISSION_DENIED:
+            x.innerHTML = "User denied the request for Geolocation."
+            break;
+        case error.POSITION_UNAVAILABLE:
+            x.innerHTML = "Location information is unavailable."
+            break;
+        case error.TIMEOUT:
+            x.innerHTML = "The request to get user location timed out."
+            break;
+        case error.UNKNOWN_ERROR:
+            x.innerHTML = "An unknown error occurred."
+            break;
+    }
+}
+
+function doSearch(zipcode,address){
+    $.ajax({
+      url: "/locate" , 
+      type: 'POST',
+      data: {
+        'zipcode': zipcode,
+
+      },success: function(msg) {
+        msg = JSON.parse(msg['data']);
+        for (var i=0;i<msg.length;i++){
+          var content = "<tr><td>"+msg[i]['fields']['store']+"</td><td>"+msg[i]['fields']['store_name']+"</td><td>"+msg[i]['fields']['address']+"</td><td>"+msg[i]['fields']['phone']+"</td><tr>"+msg[i]['fields']['location']+"</td><td>";
+          $("#tbody").append(content);
+        }
+      },error: function(msg) {
+        console.log('錯誤記錄');
+      }
     });
-  } else {
-    // Browser doesn't support Geolocation
-    handleNoGeolocation(false);
-  }
-}
-
-function handleNoGeolocation(errorFlag) {
-  if (errorFlag) {
-    var content = 'Error: The Geolocation service failed.';
-  } else {
-    var content = 'Error: Your browser doesn\'t support geolocation.';
-  }
-
-  var options = {
-    map: map,
-    position: new google.maps.LatLng(60, 105),
-    content: content
-  };
-
 
 }
 
-google.maps.event.addDomListener(window, 'load', initialize);
-google.maps.event.trigger(map, "resize");
 </script>
 {% endblock %}
