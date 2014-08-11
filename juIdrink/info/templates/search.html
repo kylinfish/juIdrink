@@ -3,7 +3,7 @@
 {% load staticfiles %}
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
 <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
-<div id="map-canvas" style="margin-top:130px;position: absolute; left: 10%; top: 0px; z-index: 2; width: 80%; height: 45%;"></div>
+<div id="map-canvas" style="margin-top:130px;position: absolute; left: 0%; top: 0px; z-index: 2; width: 100%; height: 55%;"></div>
 
 
 <div class="container" >
@@ -70,7 +70,7 @@ function showPosition(position) {
     },success: function(msg) {
       for (var i =0 ;i <msg['results'][0]['address_components'].length ; i++){
         if (msg['results'][0]['address_components'][i]['types']=="postal_code"){
-          center =  new google.maps.LatLng(25.0596516, 121.532691);
+          center= new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
           doSearch(msg['results'][0]['address_components'][i]['long_name'],msg['results'][0]['formatted_address'])
         }
       }
@@ -113,7 +113,10 @@ function doSearch(zipcode,address){
           var s  =msg[i]['fields']['location'].split(',');
           var lat=parseFloat(s[0]);
           var lng=parseFloat(s[1]);
-          neighborhoods.push(new google.maps.LatLng(lat, lng));
+          neighborhoods.push({
+            'store_position':new google.maps.LatLng(lat, lng),
+            'store_infomation':msg[i]['fields']['store']
+          });
         }
         console.log("location end");
         console.log(neighborhoods[3])
@@ -128,9 +131,6 @@ function doSearch(zipcode,address){
 // multimaker
 
 
-
-console.log('center');
-console.log(center);
 var neighborhoods = [];
 
 var markers = [];
@@ -140,7 +140,7 @@ var map;
 
 function initialize() {
   var mapOptions = {
-    zoom: 15,
+    zoom: 16,
     center: center
   };
 
@@ -157,21 +157,27 @@ function drop() {
   for (var i = 0; i < neighborhoods.length; i++) {
     setTimeout(function() {
       addMarker();
-    }, i * 200);
+    }, i * 70);
   }
   console.log("dropend");
 }
 
 function addMarker() {
+  var imgPath = '/static/img/'+ neighborhoods[iterator]['store_infomation']+'.png'
+  console.log(imgPath)
+  console.log(neighborhoods[iterator]['store_position'])  
   markers.push(new google.maps.Marker({
-    position: neighborhoods[iterator],
+    position: neighborhoods[iterator]['store_position'],
     map: map,
     draggable: false,
+    icon:{
+      url:imgPath,
+      scaledSize:new google.maps.Size(30,30)
+    },
     animation: google.maps.Animation.DROP
   }));
   iterator++;
 }
-
 
 </script>
 {% endblock %}
