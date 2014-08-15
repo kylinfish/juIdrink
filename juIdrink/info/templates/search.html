@@ -3,37 +3,56 @@
 {% load staticfiles %}
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
 <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
-<div id="map-canvas" style="margin-top:130px;position: absolute; left: 0%; top: 0px; z-index: 2; width: 100%; height: 55%;"></div>
+<!--- <div id="map-canvas" style="margin-top:130px;position: absolute; left: 0%; top: 0px; z-index: 2; width: 100%; height: 55%;"></div> -->>
+<style type="text/css">
+#map-canvas {
+    width:32.3333%;
+    height:calc(50% - 0);
+    position:absolute;
+    right:15px;
+    top:100px;
+    bottom:100px;
+    overflow:hidden;
+}
 
+#main, #main>.row {
+  height:100%;
+}
 
-<div class="container" >
+#main>.row {
+    overflow-y:scroll;
+}
+
+#left {
+  height:100%;
+}
+
+</style>
+<div id ="map-canvas"></div>
+<div class="container-fluid" id="main">
   <div class="row">
-    <div class="col-md-12 custyle">
-        <table class="table table-striped custab">
-          <thead>
-            <tr>
-              <th>商家</th>
-              <th>分店</th>
-              <th>地址</th>
-              <th>電話</th>
-              <th>座標</th>
-            </tr>
-          </thead>
-          <tbody id="tbody"></tbody>
-        </table>
-      </div>
+    <div class="col-xs-8 custyle" id="left">
+      <table class="table table-striped custab">
+        <thead>
+          <tr>
+            <th>商家</th>
+            <th>分店</th>
+            <th>地址</th>
+            <th>電話</th>
+            <th>座標</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
     </div>
   </div>
+</div>
 
 
 <style>
   .custyle{
-    margin-top:600px; 
+    margin-top:150px; 
     padding-bottom:20px;
-  }
-  .ma{
-     margin-top:110px; 
-  
   }
 </style>
 
