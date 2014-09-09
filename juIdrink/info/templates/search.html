@@ -5,33 +5,30 @@
 <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
 <!--- <div id="map-canvas" style="margin-top:130px;position: absolute; left: 0%; top: 0px; z-index: 2; width: 100%; height: 55%;"></div> -->>
 <style type="text/css">
-#map-canvas {
-    width:32.3333%;
-    height:calc(50% - 0);
-    position:absolute;
-    right:15px;
-    top:100px;
-    bottom:100px;
-    overflow:hidden;
-}
 
 #main, #main>.row {
   height:100%;
+  top:400px;
 }
 
-#main>.row {
-    overflow-y:scroll;
+.custyle{
+    margin-top:50px; 
+    padding-bottom:20px;
+  }
+.content{
+  padding-top:100px; 
+  padding-bottom:20px;
 }
-
-#left {
-  height:100%;
+#map-canvas {
+    height: 400px;
+    width: 100%;
 }
-
 </style>
-<div id ="map-canvas"></div>
-<div class="container-fluid" id="main">
+
+<div class="container content" id="main">
+  <div id ="map-canvas"></div>
   <div class="row">
-    <div class="col-xs-8 custyle" id="left">
+    <div class="col-xs-12 custyle" id="left">
       <table class="table table-striped custab">
         <thead>
           <tr>
@@ -49,13 +46,6 @@
 </div>
 
 
-<style>
-  .custyle{
-    margin-top:150px; 
-    padding-bottom:20px;
-  }
-</style>
-
 <script>
 var x = document.getElementById("demo");
 var map;
@@ -64,6 +54,18 @@ var nearbyPoint = new Array(new google.maps.LatLng);
 var userLocation =[];
 $(function(){
  getLocation();
+/* now inside your initialise function */
+infowindow = new google.maps.InfoWindow({
+content: "holding..."
+});
+for (var i = 0; i < markers.length; i++) {
+var marker = markers[i];
+google.maps.event.addListener(marker, 'click', function () {
+// where I have added .html to the marker object.
+infowindow.setContent(this.html);
+infowindow.open(map, this);
+});
+}
 
 });
 
@@ -139,7 +141,7 @@ function doSearch(zipcode,address){
         }
         console.log("location end");
         console.log(neighborhoods[3])
-        drop();
+        draw();
       },error: function(msg) {
         console.log('錯誤記錄');
       }
@@ -148,6 +150,7 @@ function doSearch(zipcode,address){
 
 }
 // multimaker
+var infowindow = null;
 
 
 var neighborhoods = [];
@@ -167,11 +170,11 @@ function initialize() {
           mapOptions);
 }
 
-function drop() {
+function draw() {
    markers.push(new google.maps.Marker({
     position: center,
     map: map,
-    icon:"http://italc.sourceforge.net/home.png"
+    // icon:"http://italc.sourceforge.net/home.png"
   }));
   for (var i = 0; i < neighborhoods.length; i++) {
     setTimeout(function() {
@@ -195,6 +198,7 @@ function addMarker() {
     },
     animation: google.maps.Animation.DROP
   }));
+  info= new google.maps.InfoWindow({content: "123"})
   iterator++;
 }
 

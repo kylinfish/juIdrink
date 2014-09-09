@@ -20,6 +20,9 @@ def stossre(req):
 
 # """
 def index(req):	
+	print distance((25.047536,121.542212),(25.0602389,121.521452))
+	print distance_on_unit_sphere(25.047536,121.542212,25.0602389,121.521452)
+	print haversine(25.047536,121.542212,25.0602389,121.521452)
 	return render(req,'index.html') 
 
 def search(req):	
@@ -94,10 +97,6 @@ def p_50lan(req):
 			phone=msg[2],
 			address=msg[3],
 		).save()
- 		# print msg[0]
- 		# print msg[1]
- 		# print msg[2]
- 	
 	context = {'msg':li}
 	return render(req,'index.html',context)
 
@@ -170,7 +169,25 @@ def distance_on_unit_sphere(lat1, long1, lat2, long2):
     return arc
 
 
+from math import radians, cos, sin, asin, sqrt
 
+def haversine(lon1, lat1, lon2, lat2):
+    """
+    Calculate the great circle distance between two points 
+    on the earth (specified in decimal degrees)
+    """
+    # convert decimal degrees to radians 
+    lon1, lat1, lon2, lat2 = map(radians, [lon1, lat1, lon2, lat2])
+
+    # haversine formula 
+    dlon = lon2 - lon1 
+    dlat = lat2 - lat1 
+    a = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlon/2)**2
+    c = 2 * asin(sqrt(a)) 
+
+    # 6367 km is the radius of the Earth
+    km = 6367 * c
+    return km 
 
 def distance(origin, destination):
     lat1, lon1 = origin
@@ -183,12 +200,11 @@ def distance(origin, destination):
         * math.cos(math.radians(lat2)) * math.sin(dlon/2) * math.sin(dlon/2)
     c = 2 * math.atan2(math.sqrt(a), math.sqrt(1-a))
     d = radius * c
-
     return d
 
 
 def locate(req):
-	data="";
+	data=""
 	if req.is_ajax():
 		zipcode = req.POST['zipcode']
 		info = Store_Info.objects.filter(other=(zipcode)).order_by('store')
