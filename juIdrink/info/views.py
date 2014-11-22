@@ -1,32 +1,17 @@
  # -*- coding: utf-8 -*-
 from django.shortcuts import render,get_object_or_404,HttpResponse
 from django.core import serializers #json serialize
-from BeautifulSoup import BeautifulSoup
 from info.models import Store_Info
-import sys,requests,re
+import sys,re
+# import requests
 import operator,math,json
-from googlemaps import GoogleMaps
-from pygeocoder import Geocoder
-# """
 
-def stossre(req):
-	print Store_Info.objects.filter(other=None).count()
-	for a in store:
-		print a.address.encode("utf-8", "ignore")
-		if a.location :
-			findZone(a)
-	context= {'msg':"succesuccessss",'all_Store':"success"}
-	return render(req,'index.html',context)
 
-# """
+
 def index(req):	
-	print distance((25.047536,121.542212),(25.0602389,121.521452))
-	print distance_on_unit_sphere(25.047536,121.542212,25.0602389,121.521452)
-	print haversine(25.047536,121.542212,25.0602389,121.521452)
 	return render(req,'index.html') 
 
-def search(req):	
-	
+def search(req):		
 	return render(req,'search.html') 
 
 
@@ -55,7 +40,23 @@ def store(req):
 	return render(req,'store.html',context)
 
 
-# def index(req):
+
+
+def locate(req):
+	data=""
+	if req.is_ajax():
+		zipcode = req.POST['zipcode']
+		info = Store_Info.objects.filter(other=(zipcode)).order_by('store')
+		infos = serializers.serialize('json', info)
+		data = json.dumps({
+			'data': infos
+		})
+	return HttpResponse(data, content_type='application/json')
+
+
+
+
+"""
 def p_other(req):
 	# p_list =["dayungs","orange","chingshin","teaplus","c-cup","presotea","sadou","coco","comebuy","kingtea","teapatea","teamagichand"]
 	for product in p_list:
@@ -127,90 +128,4 @@ def findZone(obj):
 	obj.other = zipcode
 	obj.save()
 
-
-
-def calDistance(center, array):
-	# for n in array:
-		#get everyone to compare 
-		
-		# url = "http://maps.googleapis.com/maps/api/distancematrix/json?origins=Vancouver+BC|Seattle&destinations=San+Francisco|Victoria+BC&mode=bicycling&language=fr-FR&sensor=false"
-	return 
-
-import math
-
-def distance_on_unit_sphere(lat1, long1, lat2, long2):
-
-    # Convert latitude and longitude to 
-    # spherical coordinates in radians.
-    degrees_to_radians = math.pi/180.0
-        
-    # phi = 90 - latitude
-    phi1 = (90.0 - lat1)*degrees_to_radians
-    phi2 = (90.0 - lat2)*degrees_to_radians
-        
-    # theta = longitude
-    theta1 = long1*degrees_to_radians
-    theta2 = long2*degrees_to_radians
-        
-    # Compute spherical distance from spherical coordinates.
-        
-    # For two locations in spherical coordinates 
-    # (1, theta, phi) and (1, theta, phi)
-    # cosine( arc length ) = 
-    #    sin phi sin phi' cos(theta-theta') + cos phi cos phi'
-    # distance = rho * arc length
-    
-    cos = (math.sin(phi1)*math.sin(phi2)*math.cos(theta1 - theta2) + 
-           math.cos(phi1)*math.cos(phi2))
-    arc = math.acos( cos )
-
-    # Remember to multiply arc by the radius of the earth 
-    # in your favorite set of units to get length.
-    return arc
-
-
-from math import radians, cos, sin, asin, sqrt
-
-def haversine(lon1, lat1, lon2, lat2):
-    """
-    Calculate the great circle distance between two points 
-    on the earth (specified in decimal degrees)
-    """
-    # convert decimal degrees to radians 
-    lon1, lat1, lon2, lat2 = map(radians, [lon1, lat1, lon2, lat2])
-
-    # haversine formula 
-    dlon = lon2 - lon1 
-    dlat = lat2 - lat1 
-    a = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlon/2)**2
-    c = 2 * asin(sqrt(a)) 
-
-    # 6367 km is the radius of the Earth
-    km = 6367 * c
-    return km 
-
-def distance(origin, destination):
-    lat1, lon1 = origin
-    lat2, lon2 = destination
-    radius = 6371 # km
-
-    dlat = math.radians(lat2-lat1)
-    dlon = math.radians(lon2-lon1)
-    a = math.sin(dlat/2) * math.sin(dlat/2) + math.cos(math.radians(lat1)) \
-        * math.cos(math.radians(lat2)) * math.sin(dlon/2) * math.sin(dlon/2)
-    c = 2 * math.atan2(math.sqrt(a), math.sqrt(1-a))
-    d = radius * c
-    return d
-
-
-def locate(req):
-	data=""
-	if req.is_ajax():
-		zipcode = req.POST['zipcode']
-		info = Store_Info.objects.filter(other=(zipcode)).order_by('store')
-		infos = serializers.serialize('json', info)
-		data = json.dumps({
-			'data': infos
-		})
-	return HttpResponse(data, content_type='application/json')
-
+"""
