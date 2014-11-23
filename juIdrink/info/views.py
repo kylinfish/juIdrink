@@ -25,7 +25,7 @@ def store(req):
     asd={}
     all_Store = Store_Info.objects.all().order_by("store")
     for key,value in sorted(dic.iteritems(),key=lambda(k,v):(v,k),reverse=True):    
-        print"%s: %s"%(key,value)
+        # print"%s: %s"%(key,value)
         asd[key] =value
 
     return render(req,'store.html', dict(

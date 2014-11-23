@@ -23,13 +23,18 @@
     height: 400px;
     width: 100%;
 }
-</style>
 
+</style>
+          
 <div class="container content" id="main">
+<div class="alert alert-info" id="info-message" ><i class="fa fa-spinner fa-spin fa-2x "></i> <span>請允許存取地理座標位置<span></div>
+<div class="alert alert-success" id="success-message" style="display: none;"><i class="fa fa-check-square"></i> <span></span></div>
+<div class="alert alert-danger" id="error-message" style="display: none;"></div>
+
   <div id ="map-canvas"></div>
   <div class="row">
     <div class="col-xs-12 custyle" id="left">
-      <table class="table table-striped custab">
+      <table class="table table-striped custab" style="display: none;">
         <thead>
           <tr>
             <th>商家</th>
@@ -52,35 +57,38 @@ var map;
 var center = new google.maps.LatLng(25, 121);
 var nearbyPoint = new Array(new google.maps.LatLng);
 var userLocation =[];
-$(function(){
- getLocation();
-/* now inside your initialise function */
-infowindow = new google.maps.InfoWindow({
-content: "holding..."
-});
-for (var i = 0; i < markers.length; i++) {
-var marker = markers[i];
-google.maps.event.addListener(marker, 'click', function () {
-// where I have added .html to the marker object.
-infowindow.setContent(this.html);
-infowindow.open(map, this);
-});
-}
 
+$(function(){
+  getLocation();
+  /* now inside your initialise function */
+  infowindow = new google.maps.InfoWindow({
+    content: "holding..."
+  });
+  for (var i = 0; i < markers.length; i++) {
+    var marker = markers[i];
+    google.maps.event.addListener(marker, 'click', function () {
+      // where I have added .html to the marker object.
+      infowindow.setContent(this.html);
+      infowindow.open(map, this);
+    });
+  }
 });
 
 
 function getLocation() {
     if (navigator.geolocation) {
+      $('#info-message span').text("正在抓取地理位置座標..........");
         navigator.geolocation.getCurrentPosition(showPosition,showError);
+        
     } else { 
-        x.innerHTML = "Geolocation is not supported by this browser.";
+        $('#error-message').text("Geolocation is not supported by this browser.");
+        $('#error-message').show();
     }
 }
 
 function showPosition(position) {
   var geo = [position.coords.latitude, position.coords.longitude];
-  console.log(geo.toString());
+  $('#info-message span').text("取得地理座標位置: "+geo.toString());
   $.ajax({
     url: "http://maps.googleapis.com/maps/api/geocode/json" , 
     type: 'GET',
@@ -97,7 +105,7 @@ function showPosition(position) {
       }
       initialize();
     },error: function(msg) {
-      console.log('錯誤記錄');
+      errorStatus(msg);
     }
   });
 }
@@ -105,31 +113,33 @@ function showPosition(position) {
 function showError(error) {
     switch(error.code) {
         case error.PERMISSION_DENIED:
-            x.innerHTML = "User denied the request for Geolocation."
+            $('#error-message').text("User denied the request for Geolocation.");
             break;
         case error.POSITION_UNAVAILABLE:
-            x.innerHTML = "Location information is unavailable."
+            $('#error-message').text("Location information is unavailable.");
             break;
         case error.TIMEOUT:
-            x.innerHTML = "The request to get user location timed out."
+            $('#error-message').text("The request to get user location timed out.");
             break;
         case error.UNKNOWN_ERROR:
-            x.innerHTML = "An unknown error occurred."
+            $('#error-message').text("An unknown error occurred.");
             break;
     }
+    $('#error-message').show();
 }
 
 function doSearch(zipcode,address){
+    $('#info-message span').text("根據您所在位置: "+address+ ", 地區飲料店位置搜尋中....");
     $.ajax({
       url: "/locate" , 
       type: 'POST',
       data: {
         'zipcode': zipcode,
-
       },success: function(msg) {
         msg = JSON.parse(msg['data']);
         for (var i=0;i<msg.length;i++){
-          var content = "<tr><td>"+msg[i]['fields']['store']+"</td><td>"+msg[i]['fields']['store_name']+"</td><td>"+msg[i]['fields']['address']+"</td><td>"+msg[i]['fields']['phone']+"</td><td>"+msg[i]['fields']['location']+"</td><td>";
+          var content = "<tr><td>"+msg[i]['fields']['store']+"</td><td>"+msg[i]['fields']['store_name']+"</td><td>"+msg[i]['fields']['address']+"</td><td>"+msg[i]['fields']['phone']+"</td><td>"+"<a href='https://www.google.com.tw/maps/place/"+msg[i]['fields']['location']+"'target='_blank'><i class='fa fa-map-marker'></i> 地圖外顯</a></td><td>";
+          $('table').show();
           $("#tbody").append(content);
           var s  =msg[i]['fields']['location'].split(',');
           var lat=parseFloat(s[0]);
@@ -139,25 +149,28 @@ function doSearch(zipcode,address){
             'store_infomation':msg[i]['fields']['store']
           });
         }
-        console.log("location end");
-        console.log(neighborhoods[3])
         draw();
+        $('#success-message span').text("[ "+address+ " ],區域性飲料店搜尋完成。");
+        $('#info-message').hide();
+        $('#success-message').show();
       },error: function(msg) {
-        console.log('錯誤記錄');
+        errorStatus(msg);
       }
     });
-    console.log(nearbyPoint);
-
 }
+
+function errorStatus(msg){
+  $('#error-message').text(msg);
+  $('#error-message').show();
+  $('#info-message').hide();
+  $('#success-message').hide();
+  }
+
 // multimaker
 var infowindow = null;
-
-
 var neighborhoods = [];
-
 var markers = [];
 var iterator = 0;
-
 var map;
 
 function initialize() {
@@ -165,7 +178,6 @@ function initialize() {
     zoom: 16,
     center: center
   };
-
   map = new google.maps.Map(document.getElementById('map-canvas'),
           mapOptions);
 }
