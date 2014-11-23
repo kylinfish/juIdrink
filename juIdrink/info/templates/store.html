@@ -9,15 +9,13 @@
     .content{
       margin-top:150px;
     }
-</style>
+  </style>
+  <script>
+    $(function(){
+      $('a[title]').tooltip();
+    });
 
-<script>
-  $(function(){
-    $('a[title]').tooltip();
-  });
-
-</script>
-
+  </script>
 <div class="container">
     <div class="row ">
         <div class="board content">
@@ -26,46 +24,47 @@
               {% for store_id, _ in store_tuples %}
               <li>
                 <a href="#{{ store_id }}" data-toggle="tab">
-                  <img class="img-circle logo round-tabs" src="{% static '/static/img/'|add:store_id|add:'.png' %}">
-                </a>
+                  <img class="img-circle logo round-tabs" src="{% static '/static/img/'|add:store_id|add:'.png' %}"></a>
               </li>
               {% endfor %}
              </ul>
           </div>
-          <div class="tab-content">
-          {% for identifier, friendly_name in store_tuples %}
-              <div class="tab-pane fade in active" id="{{ identifier }}">
-                <h3 class="head text-center">{{ friendly_name }}</h3> 
-                <table class="table table-striped ">
-                  <thead>
-                    <tr>
-                        <th>ID</th>
-                        <th>store name</th>
-                        <th>phone</th>
-                        <th>address</th>
-                        <th>location</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                  {% for store in all_Store%}
-                    {% if store.store == identifier %}
-                      <tr>
-                          <td>{{store.pk}}</td>
-                          <td>{{store.store_name}}</td>
-                          <td>{{store.phone}}</td>
-                          <td>{{store.address}}</td>
-                          <td>{{store.location}}</td>
-                      </tr>
-                    {% endif %}
-                  {% endfor %}
-                  </tbody>
-                </table>
-              </div>
-          {% endfor %}
-            </div>                
-        </div>                
-        <div class="clearfix"></div>
-      </div>
+                <div class="tab-content">
+                {% for identifier, friendly_name in store_tuples %}
+                    <div class="tab-pane fade in active" id="{{ identifier }}">
+                      <h3 class="head text-center">{{ friendly_name }}</h3> 
+                      <table class="table table-striped ">
+                        <thead>
+                          <tr>
+                              <th>分店</th>
+                              <th>電話</th>
+                              <th>地址</th>
+                              <th>地圖</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                        {% for store in all_Store%}
+                          {% if store.store == identifier %}
+                            <tr>
+                                <td>{{store.store_name}}</td>
+                                <td>{{store.phone}}</td>
+                                <td>{{store.address}}</td>
+                                <td><a href='https://www.google.com.tw/maps/place/{{store.location}}'target='_blank'><i class='fa fa-map-marker'></i> 地圖外顯</a></td>
+                            </tr>
+                          {% endif %}
+                        {% endfor %}
+                        </tbody>
+                      </table>
+                    </div>
+                {% endfor %}
+                    </div>                
+                    </div>                
+            <div class="clearfix"></div>
+            </div>
 
-  </div>
+        </div>
+        </div>
+                                 
+    </div>
+
 {% endblock %}

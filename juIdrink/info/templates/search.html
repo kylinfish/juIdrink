@@ -138,7 +138,7 @@ function doSearch(zipcode,address){
       },success: function(msg) {
         msg = JSON.parse(msg['data']);
         for (var i=0;i<msg.length;i++){
-          var content = "<tr><td>"+msg[i]['fields']['store']+"</td><td>"+msg[i]['fields']['store_name']+"</td><td>"+msg[i]['fields']['address']+"</td><td>"+msg[i]['fields']['phone']+"</td><td>"+"<a href='https://www.google.com.tw/maps/place/"+msg[i]['fields']['location']+"'target='_blank'><i class='fa fa-map-marker'></i> 地圖外顯</a></td><td>";
+          var content = "<tr><td>"+StoreMapping(msg[i]['fields']['store'])+"</td><td>"+msg[i]['fields']['store_name']+"</td><td>"+msg[i]['fields']['address']+"</td><td>"+msg[i]['fields']['phone']+"</td><td>"+"<a href='https://www.google.com.tw/maps/place/"+msg[i]['fields']['location']+"'target='_blank'><i class='fa fa-map-marker'></i> 地圖外顯</a></td><td>";
           $('table').show();
           $("#tbody").append(content);
           var s  =msg[i]['fields']['location'].split(',');
@@ -214,5 +214,40 @@ function addMarker() {
   iterator++;
 }
 
+
+function StoreMapping (name){
+  switch(name) {
+    case '50lan':
+      return ('50嵐');
+    case 'dayungs':
+      return ('大苑子');
+    case 'orange':
+      return ('橘子工坊') ;
+    case 'orangetea':
+      return ('橘子工坊') ;
+    case 'chingshin':
+      return ('清心福全');
+    case 'teaplus':
+      return('水巷茶弄');
+    case'c-cup':
+      return ('C-cup');
+    case 'presotea':
+      return ('鮮茶道');
+    case 'sadou':
+      return ('舞茶道');
+    case 'coco':
+      return ('COCO');
+    case 'comebuy':
+      return ('comebuy');
+    case 'kingtea':
+      return ('清玉');
+    case 'teapatea':
+      return ('茶湯會');
+    case 'teamagichand':
+      return ('茶的魔手');
+    default:
+      return name;
+  }
+}
 </script>
 {% endblock %}
